@@ -1,0 +1,7122 @@
+{
+ "updatedAt": "2026-06-01 13:31",
+ "platforms": {
+  "ps4": "PlayStation 4",
+  "ps5": "PlayStation 5",
+  "switch1": "Nintendo Switch",
+  "switch2": "Nintendo Switch 2"
+ },
+ "counts": {
+  "ps4": 466,
+  "ps5": 280,
+  "switch1": 121,
+  "switch2": 21
+ },
+ "total": 888,
+ "games": [
+  {
+   "id": "ps4-7-days-to-die",
+   "name": "7 Days To Die",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/251570/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-a-way-out",
+   "name": "A Way Out",
+   "platform": "ps4",
+   "sell": 2999,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222700/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ace-combat-7",
+   "name": "Ace Combat 7",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-ace-combat-7-vr-uyumlu",
+   "name": "Ace Combat 7 Vr Uyumlu",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps4-air-conflicts-vietnam",
+   "name": "Air Conflicts Vietnam",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/233210/header.jpg"
+  },
+  {
+   "id": "ps4-alien-isolation",
+   "name": "Alien isolation",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/214490/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-aliens-fireteam-elite",
+   "name": "Aliens Fireteam Elite",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1549970/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-amoong-us-crewmate-edition",
+   "name": "Amoong Us Crewmate Edition",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-angry-birds-star-wars",
+   "name": "Angry Birds Star Wars",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-anthem",
+   "name": "Anthem",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2656490/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ark-survival-evolved",
+   "name": "ARK Survival Evolved",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/346110/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-4-black-flag",
+   "name": "Assassin's Creed 4 Black Flag",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/242050/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-ezio-collection",
+   "name": "Assassin's Creed Ezio Collection",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-assassin-s-creed-odyssey",
+   "name": "Assassin's Creed Odyssey",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/812140/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-origins",
+   "name": "Assassin's Creed Origins",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582160/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-syndicate",
+   "name": "Assassin's Creed Syndicate",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368500/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-unity",
+   "name": "Assassin's Creed Unity",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/289650/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-valhalla",
+   "name": "Assassin's Creed Valhalla",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2208920/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassins-creed-rogue",
+   "name": "Assassins Creed Rogue",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/311560/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-3-remastered",
+   "name": "Assassin’s Creed 3 Remastered",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-assassin-s-creed-chronicles",
+   "name": "Assassin’s Creed Chronicles",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/354380/header.jpg"
+  },
+  {
+   "id": "ps4-assassin-s-creed-mirage",
+   "name": "Assassin’s Creed Mirage",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-assetto-corsa",
+   "name": "Assetto Corsa",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/244210/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-back-4-blood",
+   "name": "Back 4 Blood",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/924970/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-baja-edge-of-control-hd",
+   "name": "Baja Edge Of Control HD",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/623090/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-batman-arkham-knight",
+   "name": "Batman Arkham Knight",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/208650/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-batman-return-to-arkham",
+   "name": "Batman Return To Arkham",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-batman-the-telltale-series",
+   "name": "Batman The Telltale Series",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/498240/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-battlefield-1-turkce",
+   "name": "Battlefield 1 Türkçe",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238840/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-battlefield-2042",
+   "name": "Battlefield 2042",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 550,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1517290/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-battlefield-4",
+   "name": "Battlefield 4",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238860/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-battlefield-5",
+   "name": "Battlefield 5",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238810/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-battlefield-hardline",
+   "name": "Battlefield Hardline",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238880/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ben-10",
+   "name": "Ben 10",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/703180/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-bioshock-the-collection",
+   "name": "Bioshock The Collection",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-bloodborne-goty-turkce",
+   "name": "Bloodborne GOTY TÜRKÇE",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-bloodborne-turkce",
+   "name": "Bloodborne Türkçe",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-bloodborne-turkce-goty",
+   "name": "Bloodborne Türkçe GOTY",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps4-borderlands-3",
+   "name": "Borderlands 3",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/397540/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-borderlands-the-handsome-collection",
+   "name": "Borderlands The Handsome Collection",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-burnout-paradise",
+   "name": "Burnout Paradise",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238080/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-bus-driver-simulator",
+   "name": "Bus Driver Simulator",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1977280/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-advanced-warfare",
+   "name": "Call of Duty Advanced Warfare",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/318791/header.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-black-ops-3",
+   "name": "Call of Duty Black Ops 3",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/311210/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-black-ops-4",
+   "name": "Call of Duty Black Ops 4",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-call-of-duty-black-ops-5-cold-war",
+   "name": "Call Of Duty Black Ops 5 Cold War",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-call-of-duty-black-ops-6",
+   "name": "Call Of Duty Black Ops 6",
+   "platform": "ps4",
+   "sell": 2399,
+   "buy": 1700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-black-ops-7",
+   "name": "Call Of Duty Black Ops 7",
+   "platform": "ps4",
+   "sell": 2899,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "ps4-call-of-duty-ghosts",
+   "name": "Call of Duty Ghosts",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 550,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/209160/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-i-nfinite-warfare",
+   "name": "Call Of Duty İnfinite Warfare",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-call-of-duty-modern-warfare",
+   "name": "Call of Duty Modern Warfare",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2000950/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-modern-warfare-2",
+   "name": "Call of Duty Modern Warfare 2",
+   "platform": "ps4",
+   "sell": 1699,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "ps4-call-of-duty-modern-warfare-3",
+   "name": "Call of Duty Modern Warfare 3",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "ps4-call-of-duty-modern-warfare-remastered",
+   "name": "Call of Duty Modern Warfare Remastered",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2000950/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-vanguard",
+   "name": "Call Of Duty Vanguard",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1985820/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-call-of-duty-ww-ii",
+   "name": "Call Of Duty WW II",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/476600/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-captain-tsubasa",
+   "name": "Captain Tsubasa",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-cars-3",
+   "name": "Cars 3",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-civilization-vi",
+   "name": "Civilization VI",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-control",
+   "name": "Control",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-crash-bandicoot",
+   "name": "Crash Bandicoot",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-crash-bandicoot-4-its-aboult-time",
+   "name": "Crash Bandicoot 4 Its Aboult Time",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-crash-team-racing-nitro-fueled-ctr",
+   "name": "Crash Team Racing Nitro Fueled CTR",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps4-crysis-1-2-3-trilogy-turkce-dublaj",
+   "name": "Crysis 1-2-3 Trilogy Türkçe Dublaj",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-cuphead",
+   "name": "Cuphead",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/268910/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-cyberpunk-2077-turkce",
+   "name": "Cyberpunk 2077 Türkçe",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dark-souls-1",
+   "name": "Dark Souls 1",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-dark-souls-2",
+   "name": "Dark Souls 2",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/236430/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dark-souls-3",
+   "name": "Dark Souls 3",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dark-souls-3-game-of-the-year-edition",
+   "name": "Dark Souls 3 Game Of The Year Edition",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dark-souls-trilogy",
+   "name": "Dark Souls Trilogy",
+   "platform": "ps4",
+   "sell": 1999,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "ps4-darksiders-1-warmastered",
+   "name": "Darksiders 1 Warmastered",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-darksiders-2",
+   "name": "Darksiders 2",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-darksiders-3",
+   "name": "Darksiders 3",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/606280/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-days-gone-turkce",
+   "name": "Days Gone Türkçe",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259420/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dead-by-daylight",
+   "name": "Dead By Daylight",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/381210/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dead-island-definitive-edition",
+   "name": "Dead Island Definitive Edition",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/934700/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dead-rising-2",
+   "name": "Dead Rising 2",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/45740/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dead-rising-4",
+   "name": "Dead Rising 4",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/543460/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-deadpool",
+   "name": "DeadPool",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-death-stranding-turkce",
+   "name": "Death Stranding Türkçe",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-destiny-1",
+   "name": "Destiny 1",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-destiny-2",
+   "name": "Destiny 2",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1085660/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-detroit-become-human-turkce",
+   "name": "Detroit Become Human Türkçe",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222140/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-deus-ex-mankind-divided",
+   "name": "Deus Ex Mankind Divided",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/337000/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-devil-may-cry-5",
+   "name": "Devil May Cry 5",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/601150/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-devil-may-cry-dmc",
+   "name": "Devil May Cry DMC",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-devil-may-cry-hd-collection",
+   "name": "Devil May Cry HD Collection",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/631510/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-diablo-3-eternal-collection",
+   "name": "Diablo 3 Eternal Collection",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-diablo-3-reaper-of-souls",
+   "name": "Diablo 3 Reaper of Souls",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps4-dirt-4",
+   "name": "Dirt 4",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-dirt-5",
+   "name": "Dirt 5",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1038250/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dirt-rally",
+   "name": "Dirt Rally",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/690790/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dirt-rally-2-0",
+   "name": "Dirt Rally 2.0",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/690790/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dishonored-2",
+   "name": "Dishonored 2",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/403640/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dishonored-death-of-the-outsider",
+   "name": "Dishonored Death Of The Outsider",
+   "platform": "ps4",
+   "sell": 449,
+   "buy": 250,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/614570/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dishonored-definitive-edition",
+   "name": "Dishonored Definitive Edition",
+   "platform": "ps4",
+   "sell": 449,
+   "buy": 250,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/205100/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-division-1",
+   "name": "Division 1",
+   "platform": "ps4",
+   "sell": 349,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-division-2",
+   "name": "Division 2",
+   "platform": "ps4",
+   "sell": 349,
+   "buy": 150,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/919640/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-doom",
+   "name": "Doom",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/379720/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-doom-eternal",
+   "name": "Doom Eternal",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/782330/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dragon-age-inquisition",
+   "name": "Dragon Age Inquisition",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222690/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dragon-ball-1-xenoverse",
+   "name": "Dragon Ball 1 Xenoverse",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps4-dragon-ball-2-xenoverse",
+   "name": "Dragon Ball 2 Xenoverse",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-dragon-ball-fighterz",
+   "name": "Dragon Ball Fighterz",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/678950/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dragon-ball-z-kakorat",
+   "name": "Dragon Ball Z Kakorat",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-dragons-dogma",
+   "name": "Dragons Dogma",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-driveclub-turkce",
+   "name": "Driveclub Türkçe",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-duck-dynasty",
+   "name": "Duck Dynasty",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-dying-light",
+   "name": "Dying Light",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/239140/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-dying-light-2",
+   "name": "Dying Light 2",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-dying-light-the-following",
+   "name": "Dying Light The Following",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/325724/header.jpg"
+  },
+  {
+   "id": "ps4-elden-ring",
+   "name": "Elden Ring",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-evil-west",
+   "name": "Evil West",
+   "platform": "ps4",
+   "sell": 849,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1065310/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-evolve",
+   "name": "Evolve",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 170,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2015",
+   "name": "F1 2015",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2016",
+   "name": "F1 2016",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2017",
+   "name": "F1 2017",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2018",
+   "name": "F1 2018",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2019",
+   "name": "F1 2019",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2020",
+   "name": "F1 2020",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2021",
+   "name": "F1 2021",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 550,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2022",
+   "name": "F1 2022",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-f1-2024",
+   "name": "F1 2024",
+   "platform": "ps4",
+   "sell": 1999,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "ps4-fallout-4",
+   "name": "Fallout 4",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377160/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-fallout-4-g-o-t-y",
+   "name": "Fallout 4 G.O.T.Y.",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/377160/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-fallout-76",
+   "name": "Fallout 76",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1151340/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-far-cry-3-classic-edition",
+   "name": "FAR CRY 3 Classic Edition",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-far-cry-4",
+   "name": "FAR CRY 4",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/298110/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-far-cry-5",
+   "name": "FAR CRY 5",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/552520/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-far-cry-6",
+   "name": "FAR CRY 6",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2369390/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-far-cry-new-dawn",
+   "name": "FAR CRY New Dawn",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/939960/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-far-cry-primal",
+   "name": "FAR CRY Primal",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/371660/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-farming-simulator-17",
+   "name": "Farming Simulator 17",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/447020/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-farming-simulator-18",
+   "name": "Farming Simulator 18",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-farming-simulator-19",
+   "name": "Farming Simulator 19",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/787860/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-farming-simulator-22",
+   "name": "Farming Simulator 22",
+   "platform": "ps4",
+   "sell": 1699,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1248130/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-fast-furious",
+   "name": "Fast & Furious",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-fc-24-turkce",
+   "name": "FC 24 Türkçe",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-fc-25-turkce",
+   "name": "FC 25 Türkçe",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-fc-26-turkce-spiker",
+   "name": "FC 26 Türkçe Spiker",
+   "platform": "ps4",
+   "sell": 1999,
+   "buy": 1500,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-14-turkce",
+   "name": "Fifa 14 Türkçe",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-15-turkce",
+   "name": "Fifa 15 Türkçe",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-16-turkce",
+   "name": "Fifa 16 Türkçe",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-17-turkce",
+   "name": "Fifa 17 Türkçe",
+   "platform": "ps4",
+   "sell": 349,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-18-turkce",
+   "name": "Fifa 18 Türkçe",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-19-turkce",
+   "name": "Fifa 19 Türkçe",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-20-turkce",
+   "name": "Fifa 20 Türkçe",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-21-turkce",
+   "name": "Fifa 21 Türkçe",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps4-fifa-22-turkce",
+   "name": "Fifa 22 Türkçe",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1506830/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-fifa-23-turkce",
+   "name": "Fifa 23 Türkçe",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-final-fantasy-15",
+   "name": "Final Fantasy 15",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-final-fantasy-vii-remake",
+   "name": "Final Fantasy VII Remake",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1462040/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-for-honor",
+   "name": "For Honor",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304390/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-friday-the-13th",
+   "name": "Friday The 13TH",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-gang-beats",
+   "name": "Gang Beats",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-ghost-of-tsushima-director-s-cut-turkce",
+   "name": "Ghost Of Tsushima Director's Cut Türkçe",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "ps4-ghost-of-tsushima-turkce",
+   "name": "Ghost Of Tsushima Türkçe",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps4-ghost-recon-breakpoint",
+   "name": "Ghost Recon Breakpoint",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2231380/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ghost-recon-wildlands",
+   "name": "Ghost Recon Wildlands",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/460930/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-god-of-war-2018-turkce",
+   "name": "God Of War 2018 TÜRKÇE",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-god-of-war-3-remastered-turkce",
+   "name": "God Of War 3 Remastered Türkçe",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-god-of-war-ragnarok",
+   "name": "God Of War Ragnarök",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-gran-turismo-7-turkce",
+   "name": "Gran Turismo 7 Türkçe",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-gran-turismo-sport",
+   "name": "Gran Turismo Sport",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-gran-turismo-sport-vr-turkce",
+   "name": "Gran Turismo Sport VR Türkçe",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps4-grid-legends",
+   "name": "Grid Legends",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1307710/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-gta-5",
+   "name": "GTA 5",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-gta-the-trilogy",
+   "name": "GTA The Trilogy",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-guardians-of-the-galaxy",
+   "name": "Guardians Of The Galaxy",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1088850/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-guitar-hero-live-tek-gitar",
+   "name": "Guitar Hero Live + Tek Gitar",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps4-heavy-rain-beyond-two-souls-collection",
+   "name": "Heavy Rain & Beyond Two Souls Collection",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-hello-neigbor-2",
+   "name": "Hello Neigbor 2",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps4-hello-neigbor-hide-seek",
+   "name": "Hello Neigbor Hide & Seek",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-hello-neighbor",
+   "name": "Hello Neighbor",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/521890/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-hitman-1",
+   "name": "Hitman 1",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-hitman-2",
+   "name": "Hitman 2",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-hitman-3",
+   "name": "Hitman 3",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "ps4-hogwarts-legacy",
+   "name": "Hogwarts Legacy",
+   "platform": "ps4",
+   "sell": 1999,
+   "buy": 850,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-homefront-the-revolution",
+   "name": "Homefront The Revolution",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/223100/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-horizon-forbidden-west-turkce",
+   "name": "Horizon Forbidden West Türkçe",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2420110/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-horizon-zero-dawn",
+   "name": "Horizon Zero Dawn",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 150,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2561580/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-horizon-zero-dawn-complete-edition",
+   "name": "Horizon Zero Dawn Complete Edition",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2561580/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ice-age-scart-s-nutty-adventure",
+   "name": "ice Age Scart's Nutty Adventure",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-infamous-first-light-turkce",
+   "name": "inFAMOUS First Light TÜRKÇE",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-infamous-second-son-turkce",
+   "name": "inFAMOUS Second Son TÜRKÇE",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-injustice-1",
+   "name": "injustice 1",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-injustice-2",
+   "name": "injustice 2",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/627270/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-i-mmortals-fenyx-rising",
+   "name": "İmmortals Fenyx Rising",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-i-t-takes-two",
+   "name": "İt Takes Two",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-journey-collector-s-edition",
+   "name": "Journey Collector's Edition",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-journey-collector-s-edition-turkce",
+   "name": "Journey Collector's Edition Türkçe",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps4-judgment",
+   "name": "Judgment",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058180/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-jumanji",
+   "name": "Jumanji",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-jump-force",
+   "name": "Jump Force",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-just-cause-3",
+   "name": "Just Cause 3",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/225540/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-just-cause-4",
+   "name": "Just Cause 4",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/517630/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-killzone-shadow-fall-turkce",
+   "name": "Killzone Shadow Fall türkçe",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-kingdom-come-deliverance",
+   "name": "Kingdom Come Deliverance",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/379430/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-kingdom-hearts-3",
+   "name": "Kingdom Hearts 3",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-kingdom-hearts-all-i-n-one-package",
+   "name": "Kingdom Hearts All İn One Package",
+   "platform": "ps4",
+   "sell": 2199,
+   "buy": 1600,
+   "image": null
+  },
+  {
+   "id": "ps4-kingdom-hearts-hd-1-5-2-5-remix",
+   "name": "Kingdom Hearts HD 1.5+2.5 Remix",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-kingdom-hearts-hd-2-8",
+   "name": "Kingdom Hearts HD 2.8",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-knack-1",
+   "name": "Knack 1",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-knack-2",
+   "name": "Knack 2",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-l-a-noire",
+   "name": "L.A. Noire",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/110800/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-batman-3-beyond-gotham",
+   "name": "LEGO Batman 3 Beyond Gotham",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/313690/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-city-undercover",
+   "name": "LEGO City Undercover",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/578330/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-dc-super-villains",
+   "name": "LEGO DC Super Villains",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/829110/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-harry-potter-collection",
+   "name": "LEGO Harry Potter Collection",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2950340/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-i-ncredibles",
+   "name": "LEGO İncredibles",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps4-lego-jurassic-world",
+   "name": "LEGO Jurassic World",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/352400/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-marvel-avengers",
+   "name": "LEGO Marvel Avengers",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/405310/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-marvel-collection",
+   "name": "LEGO Marvel Collection",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 650,
+   "image": null
+  },
+  {
+   "id": "ps4-lego-marvel-super-heroes",
+   "name": "LEGO Marvel Super Heroes",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/249130/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-marvel-super-heroes-2",
+   "name": "LEGO Marvel Super Heroes 2",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/647830/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-movie-videogame",
+   "name": "LEGO Movie Videogame",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/267530/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-movie-videogame-2",
+   "name": "LEGO Movie Videogame 2",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-lego-ninja-go",
+   "name": "LEGO Ninja Go",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-lego-starwars",
+   "name": "LEGO Starwars",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-lego-the-hobbit",
+   "name": "LEGO The Hobbit",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/285160/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lego-worlds",
+   "name": "LEGO Worlds",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/332310/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-life-is-strange-true-colors",
+   "name": "Life Is Strange True Colors",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/936790/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-little-big-planet-3",
+   "name": "Little Big Planet 3",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-little-nightmares-1",
+   "name": "Little Nightmares 1",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-little-nightmares-1-2",
+   "name": "Little Nightmares 1&2",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-little-nightmares-2",
+   "name": "Little Nightmares 2",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/860510/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-lords-of-the-fallen",
+   "name": "Lords of the Fallen",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1501750/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mad-max",
+   "name": "Mad Max",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/234140/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mafia-3",
+   "name": "Mafia 3",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-mafia-definitive-edition",
+   "name": "Mafia Definitive Edition",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-mafia-trilogy",
+   "name": "Mafia Trilogy",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps4-marvel-avengers",
+   "name": "Marvel Avengers",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/405310/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-marvel-vs-capcom-infinite",
+   "name": "Marvel VS Capcom Infinite",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/493840/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mass-effect-andromeda",
+   "name": "Mass Effect Andromeda",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238000/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mass-effect-legendary-edition",
+   "name": "Mass Effect Legendary Edition",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1328670/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-matterfall",
+   "name": "Matterfall",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-medievil-turkce",
+   "name": "MediEvil Türkçe",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 550,
+   "image": null
+  },
+  {
+   "id": "ps4-metal-gear-solid-5-ground-zeroes",
+   "name": "Metal Gear Solid 5 Ground Zeroes",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/311340/header.jpg"
+  },
+  {
+   "id": "ps4-metal-gear-solid-5-the-definitive-experience",
+   "name": "Metal Gear Solid 5 The Definitive Experience",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-metal-gear-solid-5-the-phantom-pain",
+   "name": "Metal Gear Solid 5 The Phantom Pain",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/287700/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-metal-gear-survive",
+   "name": "Metal Gear Survive",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 150,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/543900/header.jpg"
+  },
+  {
+   "id": "ps4-metro-2033-last-light-redux",
+   "name": "Metro 2033+Last Light Redux",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-metro-exodus",
+   "name": "Metro Exodus",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/412020/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-middle-earth-shadow-of-mordor",
+   "name": "Middle Earth Shadow of Mordor",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/241930/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-middle-earth-shadow-of-mordor-goty",
+   "name": "Middle Earth Shadow of Mordor GOTY",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/241930/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-middle-earth-shadow-of-war",
+   "name": "Middle Earth Shadow of War",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/356190/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-minecraft",
+   "name": "Minecraft",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps4-minecraft-dungeons",
+   "name": "Minecraft Dungeons",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1672970/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mirror-s-edge",
+   "name": "Mirror's Edge",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/17410/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-monster-hunter-world",
+   "name": "Monster Hunter World",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582010/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mortal-kombat-11",
+   "name": "Mortal Kombat 11",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/976310/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mortal-kombat-11-ultimate",
+   "name": "Mortal Kombat 11 Ultimate",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps4-mortal-kombat-x",
+   "name": "Mortal Kombat X",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/307780/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mortal-kombat-xl",
+   "name": "Mortal Kombat XL",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-mount-and-blade-warband-turkce",
+   "name": "Mount And Blade Warband Türkçe",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/48700/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-mud-runner",
+   "name": "Mud Runner",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/675010/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-murdered-soul-suspect",
+   "name": "Murdered Soul Suspect",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/233290/header.jpg"
+  },
+  {
+   "id": "ps4-mxgp-1",
+   "name": "MXGP-1",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-mxgp-2",
+   "name": "MXGP-2",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-mxgp-3",
+   "name": "MXGP-3",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-naruto-shippuden-ultimate-ninja-storm-4",
+   "name": "Naruto Shippuden Ultimate Ninja Storm 4",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/349040/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto",
+   "name": "Naruto Shippuden Ultimate Ninja Storm 4 Road To Boruto",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-naruto-to-boruto-shinobi-striker",
+   "name": "Naruto To Boruto Shinobi Striker",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/633230/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-naruto-trilogy-3",
+   "name": "Naruto Trilogy 3",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k-playgrounds-2",
+   "name": "NBA 2K Playgrounds 2",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k14",
+   "name": "NBA 2K14",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k15",
+   "name": "NBA 2K15",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k16",
+   "name": "NBA 2K16",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k17",
+   "name": "NBA 2K17",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k18",
+   "name": "NBA 2K18",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k19",
+   "name": "NBA 2K19",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k20",
+   "name": "NBA 2K20",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k21",
+   "name": "NBA 2K21",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k22",
+   "name": "NBA 2K22",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k23",
+   "name": "NBA 2K23",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k24",
+   "name": "NBA 2K24",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-2k25",
+   "name": "NBA 2K25",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-nba-2k26",
+   "name": "NBA 2K26",
+   "platform": "ps4",
+   "sell": 2199,
+   "buy": 1700,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-live-14",
+   "name": "NBA Live 14",
+   "platform": "ps4",
+   "sell": 199,
+   "buy": 100,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-live-15",
+   "name": "NBA Live 15",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-live-16",
+   "name": "NBA Live 16",
+   "platform": "ps4",
+   "sell": 349,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-live-18",
+   "name": "NBA Live 18",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-nba-live-19",
+   "name": "NBA Live 19",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-need-for-speed-2015",
+   "name": "Need For Speed 2015",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-need-for-speed-heat",
+   "name": "Need For Speed Heat",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222680/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-need-for-speed-hot-pursuit",
+   "name": "Need For Speed Hot Pursuit",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1328660/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-need-for-speed-payback",
+   "name": "Need For Speed Payback",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 550,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1262580/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-need-for-speed-rivals",
+   "name": "Need For Speed Rivals",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1262600/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-nier-automata",
+   "name": "Nier Automata",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/524220/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-nier-automata-game-of-the-year-edition",
+   "name": "Nier Automata Game Of The Year Edition",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/524220/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-nier-replicant-ver-1-22474487139",
+   "name": "Nier Replicant VER.1.22474487139…",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-nioh",
+   "name": "Nioh",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-nioh-1",
+   "name": "Nioh 1",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps4-nioh-2",
+   "name": "Nioh 2",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-no-man-s-sky",
+   "name": "No Man's Sky",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/275850/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-one-piece-burning-blood",
+   "name": "One Piece Burning Blood",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/425220/header.jpg"
+  },
+  {
+   "id": "ps4-one-piece-pirate-warriors-3",
+   "name": "One Piece Pirate Warriors 3",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/331600/header.jpg"
+  },
+  {
+   "id": "ps4-outlast-trinity",
+   "name": "Outlast Trinity",
+   "platform": "ps4",
+   "sell": 2499,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps4-outriders",
+   "name": "Outriders",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/680420/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-overcooked-1-overcooked-2",
+   "name": "Overcooked 1+ Overcooked 2",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 550,
+   "image": null
+  },
+  {
+   "id": "ps4-payday-2-crime-wave-edition",
+   "name": "Payday 2 Crime wave Edition",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-payday-2-the-big-score",
+   "name": "Payday 2 The Big Score",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-persona-3-reload",
+   "name": "Persona 3 Reload",
+   "platform": "ps4",
+   "sell": 1699,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-persona-5",
+   "name": "Persona 5",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1687950/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-persona-5-strikers",
+   "name": "Persona 5 Strikers",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1382330/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-persona-5-tactica",
+   "name": "Persona 5 Tactica",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2254740/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-pes-2015-turkce",
+   "name": "Pes 2015 Türkçe",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-pes-2016-turkce",
+   "name": "Pes 2016 Türkçe",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-pes-2017-turkce",
+   "name": "Pes 2017 Türkçe",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-pes-2018-turkce",
+   "name": "Pes 2018 Türkçe",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-pes-2019-turkce",
+   "name": "Pes 2019 Türkçe",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-pes-2020-turkce",
+   "name": "Pes 2020 Türkçe",
+   "platform": "ps4",
+   "sell": 1999,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "ps4-pes-2021-turklce",
+   "name": "Pes 2021 Türklçe",
+   "platform": "ps4",
+   "sell": 3999,
+   "buy": 3300,
+   "image": null
+  },
+  {
+   "id": "ps4-plants-vs-zombies-battle-for-neighborville",
+   "name": "Plants vs Zombies Battle For Neighborville",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1262240/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-plants-vs-zombies-garden-warfare",
+   "name": "Plants vs Zombies Garden Warfare",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1922560/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-plants-vs-zombies-garden-warfare-2",
+   "name": "Plants vs Zombies Garden Warfare 2",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1922560/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-predator-hunting-grounds",
+   "name": "Predator Hunting Grounds",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1556200/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-prey",
+   "name": "Prey",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/480490/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-prince-of-persia-the-lost-crown",
+   "name": "Prince OF Persia The Lost Crown",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2751000/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-project-cars-1",
+   "name": "Project CARS 1",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-project-cars-2",
+   "name": "Project CARS 2",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-project-cars-3",
+   "name": "Project CARS 3",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-pubg",
+   "name": "PUBG",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps4-rabbids-invasion",
+   "name": "Rabbids invasion",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-rage-2",
+   "name": "RAGE 2",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/548570/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-rainbow-six-siege-tom-clancy-s",
+   "name": "Rainbow Six Siege Tom Clancy’s",
+   "platform": "ps4",
+   "sell": 299,
+   "buy": 150,
+   "image": null
+  },
+  {
+   "id": "ps4-ratchet-and-clank-turkce-dublaj",
+   "name": "Ratchet And Clank Türkçe Dublaj",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps4-rayman-legends",
+   "name": "Rayman Legends",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg"
+  },
+  {
+   "id": "ps4-red-dead-redemption-1",
+   "name": "Red Dead Redemption 1",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps4-red-dead-redemption-2",
+   "name": "Red Dead Redemption 2",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-2",
+   "name": "Resident Evil 2",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-3",
+   "name": "Resident Evil 3",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/952060/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-4-eski",
+   "name": "Resident Evil 4 Eski",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-4-yeni",
+   "name": "Resident Evil 4 Yeni",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-4-yeni-gold-edition",
+   "name": "Resident Evil 4 Yeni Gold Edition",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-5",
+   "name": "Resident Evil 5",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/21690/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-6",
+   "name": "Resident Evil 6",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/221040/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-7-vr",
+   "name": "Resident Evil 7 VR",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-resident-evil-7-vr-gold-edition",
+   "name": "Resident Evil 7 VR Gold Edition",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps4-resident-evil-origins-collection",
+   "name": "Resident Evil Origins Collection",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-resident-evil-revelations-1",
+   "name": "Resident Evil Revelatıons 1",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-resident-evil-revelations-2",
+   "name": "Resident Evil Revelatıons 2",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/287290/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-village",
+   "name": "Resident Evil Village",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-resident-evil-village-gold-edition",
+   "name": "Resident Evil Village Gold Edition",
+   "platform": "ps4",
+   "sell": 1599,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ride-1",
+   "name": "Ride 1",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps4-ride-2",
+   "name": "Ride 2",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/477770/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ride-3",
+   "name": "Ride 3",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/759740/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ride-4",
+   "name": "Ride 4",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 650,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259980/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-rocket-league",
+   "name": "Rocket League",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-rocket-league-ultimate-edition",
+   "name": "Rocket League Ultimate Edition",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-sackboy-a-big-adventure",
+   "name": "Sackboy A Big Adventure",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-saints-row-4-re-elected-and-gat-out-of-hell",
+   "name": "Saints Row 4 Re-Elected And Gat Out Of Hell",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-sebastien-loeb-rally-evo",
+   "name": "Sebastien Loeb Rally Evo",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/355060/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sekiro",
+   "name": "Sekiro",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-shadow-of-colossus-turkce",
+   "name": "Shadow Of Colossus Türkçe",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-sims-4",
+   "name": "Sims 4",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222670/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sleeping-dogs",
+   "name": "Sleeping Dogs",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/202170/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sniper-elite-3",
+   "name": "Sniper Elite 3",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/238090/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sniper-elite-4",
+   "name": "Sniper Elite 4",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/312660/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sniper-elite-5",
+   "name": "Sniper Elite 5",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1029690/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sniper-elite-resistance",
+   "name": "Sniper Elite Resistance",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2169200/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sniper-ghost-warrior-3",
+   "name": "Sniper Ghost Warrior 3",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368070/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sniper-ghost-warrior-contracts",
+   "name": "Sniper Ghost Warrior Contracts",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/973580/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sniper-ghost-warrior-contracts-2",
+   "name": "Sniper Ghost Warrior Contracts 2",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1338770/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-snow-runner",
+   "name": "Snow Runner",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1465360/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sonic-colors-ultimate",
+   "name": "Sonic Colors Ultimate",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2055290/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sonic-forces",
+   "name": "Sonic Forces",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/637100/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sonic-frontiers",
+   "name": "Sonic Frontiers",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1237320/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sonic-mania-plus",
+   "name": "Sonic Mania Plus",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-sonic-superstars",
+   "name": "Sonic Superstars",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2022670/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-sonic-team-racing",
+   "name": "Sonic Team Racing",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-sonic-x-shadow-generations",
+   "name": "Sonic X Shadow Generations",
+   "platform": "ps4",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2513280/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-soul-calibur-vi",
+   "name": "Soul Calibur VI",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 250,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/544750/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-spider-man-marvel",
+   "name": "Spider-Man Marvel",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-spider-man-the-amazing-2",
+   "name": "Spider-Man The Amazing 2",
+   "platform": "ps4",
+   "sell": 1999,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "ps4-spiderman-miles-morales",
+   "name": "Spiderman Miles Morales",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-spyro-reignited-trilogy",
+   "name": "Spyro Reignited Trilogy",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/996580/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-star-wars-battlefront",
+   "name": "Star Wars Battlefront",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1237980/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-star-wars-battlefront-2",
+   "name": "Star Wars Battlefront 2",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1237950/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-star-wars-jedi-fallen-order",
+   "name": "Star Wars Jedi Fallen Order",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172380/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-star-wars-jedi-fallen-survivor",
+   "name": "Star Wars Jedi Fallen Survivor",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-star-wars-squadrons",
+   "name": "Star Wars Squadrons",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1222730/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-steep",
+   "name": "Steep",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/460920/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-street-fighter-30th-anniversary-collection",
+   "name": "Street Fighter 30th Anniversary Collection",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/586200/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-street-fighter-6",
+   "name": "Street Fighter 6",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-street-fighter-v",
+   "name": "Street Fighter V",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/310950/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-street-fighter-v-arcade-edition",
+   "name": "Street Fighter V Arcade Edition",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/807290/header.jpg"
+  },
+  {
+   "id": "ps4-street-fighter-v-champion-edition",
+   "name": "Street Fighter V Champion Edition",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps4-styx-shards-of-darkness",
+   "name": "Styx Shards of Darkness",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/355790/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-tales-from-the-borderlands",
+   "name": "Tales from the Borderlands",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/330830/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-tearaway-unfolded",
+   "name": "Tearaway Unfolded",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-technomancer",
+   "name": "Technomancer",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/338390/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-tekken-7",
+   "name": "Tekken 7",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/389730/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-terminator-resistance",
+   "name": "Terminator Resistance",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/954740/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-crew-2",
+   "name": "The Crew 2",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/646910/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-crew-motorfest",
+   "name": "The Crew MOTORFEST",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2698940/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-elder-scrolls-online",
+   "name": "The Elder Scrolls Online",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/306130/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-elder-scrolls-skyrim",
+   "name": "The Elder Scrolls Skyrim",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-the-evil-within-1",
+   "name": "The Evil Within 1",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-the-evil-within-2",
+   "name": "The Evil Within 2",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/601430/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-last-guardian-turkce",
+   "name": "The Last Guardian Türkçe",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-the-last-of-us-1-turkce",
+   "name": "The Last of Us 1 Türkçe",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-the-last-of-us-2-turkce",
+   "name": "The Last Of Us 2 Türkçe",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-the-order-1886-turkce",
+   "name": "The Order 1886 Türkçe",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-the-outer-worlds",
+   "name": "The Outer Worlds",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1449110/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-witcher-3",
+   "name": "The Witcher 3",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": null,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2684660/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-witcher-3-goty-turkce",
+   "name": "The Witcher 3 Goty Türkçe",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2684660/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-the-witcher-3-wild-hunt",
+   "name": "The Witcher 3 Wild Hunt",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-thief",
+   "name": "Thief",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/239160/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-tiny-tina-s-wonderlands",
+   "name": "Tiny Tina's Wonderlands",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1286680/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-titanfall-2",
+   "name": "Titanfall 2",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1237970/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-tomb-raider-definitive-edition",
+   "name": "Tomb Raider Definitive Edition",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-tomb-raider-rise-of",
+   "name": "Tomb Raider Rise of",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-tomb-raider-shadow-of-the",
+   "name": "Tomb Raider Shadow Of The",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-transformers-devastation",
+   "name": "Transformers Devastation",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": null
+  },
+  {
+   "id": "ps4-transformers-rise-of-the-dark-spark",
+   "name": "Transformers Rise of the Dark Spark",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-trials-fusion",
+   "name": "Trials Fusion",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/245490/header.jpg"
+  },
+  {
+   "id": "ps4-truck-driver",
+   "name": "Truck Driver",
+   "platform": "ps4",
+   "sell": 949,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/768180/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-ufc-1",
+   "name": "UFC 1",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-ufc-2",
+   "name": "UFC 2",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-ufc-3",
+   "name": "UFC 3",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-ufc-4",
+   "name": "UFC 4",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-uncharted-4-turkce-dublaj",
+   "name": "Uncharted 4 Türkçe Dublaj",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-uncharted-collection-turkce-dublaj",
+   "name": "Uncharted Collection Türkçe Dublaj",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-uncharted-kayip-miras-turkce-dublaj",
+   "name": "Uncharted Kayıp Miras Türkçe Dublaj",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-until-dawn",
+   "name": "Until Dawn",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2172010/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-until-dawn-turkce",
+   "name": "Until Dawn Türkçe",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": null,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2172010/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-valentino-rossi",
+   "name": "Valentino Rossi",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/438430/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-vampyr",
+   "name": "Vampyr",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427290/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-viking-wolves-of-midgard",
+   "name": "Viking Wolves Of Midgard",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/404590/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-warhammer-vermintide-2-deluxe-edition",
+   "name": "Warhammer Vermintide 2 Deluxe Edition",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/552500/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-watch-dogs-1",
+   "name": "Watch Dogs 1",
+   "platform": "ps4",
+   "sell": 399,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps4-watch-dogs-2",
+   "name": "Watch Dogs 2",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/447040/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-watch-dogs-legion",
+   "name": "Watch Dogs Legion",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 350,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2239550/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-wipeout-omega-collection",
+   "name": "Wipeout Omega Collection",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-wolfenstein-2",
+   "name": "Wolfenstein 2",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-wolfenstein-the-new-order",
+   "name": "Wolfenstein The New Order",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/201810/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-wolfenstein-the-old-blood",
+   "name": "Wolfenstein The Old Blood",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/350080/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-wolfenstein-youngblood",
+   "name": "Wolfenstein Youngblood",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1056960/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-world-war-z",
+   "name": "World War Z",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/699130/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-wrc-10",
+   "name": "WRC 10",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-wrc-5",
+   "name": "WRC 5",
+   "platform": "ps4",
+   "sell": 499,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps4-wrc-6",
+   "name": "WRC 6",
+   "platform": "ps4",
+   "sell": 599,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps4-wrc-7",
+   "name": "WRC 7",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-wrc-8",
+   "name": "WRC 8",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-wrc-9",
+   "name": "WRC 9",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 550,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k15",
+   "name": "WWE 2K15",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k16",
+   "name": "WWE 2K16",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k17",
+   "name": "WWE 2K17",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k18",
+   "name": "WWE 2K18",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k19",
+   "name": "WWE 2K19",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k20",
+   "name": "WWE 2K20",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k22",
+   "name": "WWE 2K22",
+   "platform": "ps4",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k23",
+   "name": "WWE 2K23",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-wwe-2k24",
+   "name": "WWE 2K24",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2315690/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-wwe-2k25",
+   "name": "WWE 2K25",
+   "platform": "ps4",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878960/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-wwe-battlegrounds",
+   "name": "WWE Battlegrounds",
+   "platform": "ps4",
+   "sell": 699,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps4-xcom-2",
+   "name": "XCOM 2",
+   "platform": "ps4",
+   "sell": 799,
+   "buy": 450,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/268500/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-yakuza-0-zero",
+   "name": "Yakuza 0 Zero",
+   "platform": "ps4",
+   "sell": 1399,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps4-yakuza-6",
+   "name": "Yakuza 6",
+   "platform": "ps4",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps4-yakuza-kiwami",
+   "name": "Yakuza Kiwami",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps4-yakuza-kiwami-2",
+   "name": "Yakuza Kiwami 2",
+   "platform": "ps4",
+   "sell": 1199,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps4-yakuza-like-a-dragon",
+   "name": "Yakuza Like A Dragon",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1235140/library_600x900.jpg"
+  },
+  {
+   "id": "ps4-zombi",
+   "name": "Zombi",
+   "platform": "ps4",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps4-zombie-army-trilogy",
+   "name": "Zombie Army Trilogy",
+   "platform": "ps4",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/301640/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-a-plague-tale-innocence",
+   "name": "A Plague Tale Innocence",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/752590/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-a-plague-tale-requiem",
+   "name": "A Plague Tale Requiem",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1182900/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-alan-wake-2",
+   "name": "Alan Wake 2",
+   "platform": "ps5",
+   "sell": 2299,
+   "buy": 1700,
+   "image": null
+  },
+  {
+   "id": "ps5-alan-wake-remastered",
+   "name": "Alan Wake Remastered",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/108710/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-alien-fireteam-elite",
+   "name": "Alien Fireteam Elite",
+   "platform": "ps5",
+   "sell": null,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1549970/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-aliens-fireteam-elite",
+   "name": "Aliens Fireteam Elite",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": null,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1549970/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-alone-in-the-dark",
+   "name": "Alone In The Dark",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1310410/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-anno-1800-console-edition",
+   "name": "Anno 1800 Console Edition",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-ark-survival-ascended",
+   "name": "ARK Survival Ascended",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2399830/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-armored-core-vi-fires-of-rubicon",
+   "name": "Armored Core VI Fires Of Rubicon",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888160/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-asphalt-legends-unite",
+   "name": "Asphalt Legends Unite",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-assassins-creed-mirage",
+   "name": "Assassins Creed Mirage",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-assassins-creed-shadows",
+   "name": "Assassins Creed Shadows",
+   "platform": "ps5",
+   "sell": 2199,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3159330/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-assassins-creed-valhalla",
+   "name": "Assassins Creed Valhalla",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2208920/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-assetto-corsa",
+   "name": "Assetto Corsa",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/244210/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-astro-bot",
+   "name": "Astro Bot",
+   "platform": "ps5",
+   "sell": 2699,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2720920/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-atomfall",
+   "name": "Atomfall",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/801800/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-atomic-heart",
+   "name": "Atomic Heart",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/668580/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-avatar-frontiers-of-pandora",
+   "name": "Avatar Frontiers Of Pandora",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2840770/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-avatar-the-last-airbender-quest-for-balance",
+   "name": "Avatar The Last Airbender Quest For Balance",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1620030/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-back-4-blood",
+   "name": "Back 4 Blood",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/924970/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-banishers-ghosts-of-new-eden",
+   "name": "Banishers Ghosts Of New Eden",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1493640/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-barbie-project-friendship",
+   "name": "Barbie Project Friendship",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-battlefield-2042",
+   "name": "Battlefield 2042",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1517290/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-battlefield-6",
+   "name": "Battlefield 6",
+   "platform": "ps5",
+   "sell": 2299,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2807960/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-black-myth-wukong-turkce",
+   "name": "Black Myth Wukong Türkçe",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-borderlands-4",
+   "name": "Borderlands 4",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1285190/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-call-of-duty-black-ops-5-cold-war",
+   "name": "Call Of Duty Black Ops 5 Cold War",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-call-of-duty-black-ops-6",
+   "name": "Call Of Duty Black Ops 6",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg"
+  },
+  {
+   "id": "ps5-call-of-duty-black-ops-7",
+   "name": "Call Of Duty Black Ops 7",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps5-call-of-duty-modern-warfare-2",
+   "name": "Call of Duty Modern Warfare 2",
+   "platform": "ps5",
+   "sell": 1599,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-call-of-duty-modern-warfare-3",
+   "name": "Call of Duty Modern Warfare 3",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "ps5-call-of-duty-vanguard",
+   "name": "Call Of Duty Vanguard",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1985820/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-chernobylite",
+   "name": "Chernobylite",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-civilization-vii",
+   "name": "Civilization VII",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1295660/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-code-vein-2",
+   "name": "Code Vein 2",
+   "platform": "ps5",
+   "sell": 2899,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps5-control-ultimate-edition",
+   "name": "Control Ultimate Edition",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-crash-team-rumble",
+   "name": "Crash Team Rumble",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-crimson-desert",
+   "name": "Crimson Desert",
+   "platform": "ps5",
+   "sell": 3799,
+   "buy": 3000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3321460/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-cronos-the-new-dawn",
+   "name": "Cronos The New Dawn",
+   "platform": "ps5",
+   "sell": 2199,
+   "buy": 1600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2101960/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-cyberpunk-2077-ultimate-edition",
+   "name": "Cyberpunk 2077 Ultimate Edition",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dead-island-2",
+   "name": "Dead Island 2",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/934700/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dead-rising-deluxe-remaster",
+   "name": "Dead Rising Deluxe Remaster",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2527390/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dead-space",
+   "name": "Dead Space",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693980/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-death-stranding-2-on-the-beach",
+   "name": "Death Stranding 2 On The Beach",
+   "platform": "ps5",
+   "sell": 2799,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "ps5-death-stranding-director-s-cut",
+   "name": "Death Stranding Director's Cut",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps5-deathloop",
+   "name": "Deathloop",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1252330/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-demon-slayer-the-hinokami-chronicles-2",
+   "name": "Demon Slayer The Hinokami Chronicles 2",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 1800,
+   "image": null
+  },
+  {
+   "id": "ps5-demon-s-souls",
+   "name": "Demon's Souls",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-destruction-allstars",
+   "name": "Destruction Allstars",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps5-devil-may-cry-5",
+   "name": "Devil May Cry 5",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/601150/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-diablo-iv",
+   "name": "Diablo IV",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2344520/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dirt-5",
+   "name": "Dirt 5",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1038250/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-doom-the-dark-ages",
+   "name": "Doom The Dark Ages",
+   "platform": "ps5",
+   "sell": 2399,
+   "buy": 1800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dragon-age-the-veilguard",
+   "name": "Dragon Age The Veilguard",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1845910/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dragon-ball-fighter-z",
+   "name": "Dragon Ball Fighter Z",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/678950/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dragon-ball-z-kakarot",
+   "name": "Dragon Ball Z : Kakarot",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/851850/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dragons-dogma-2",
+   "name": "Dragons Dogma 2",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2054970/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-dying-light-2",
+   "name": "Dying Light 2",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-elden-ring",
+   "name": "Elden Ring",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-elden-ring-nightreign",
+   "name": "Elden Ring Nightreign",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-elden-ring-shadow",
+   "name": "Elden Ring Shadow",
+   "platform": "ps5",
+   "sell": 1899,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps5-epic-mickey-rebrushed",
+   "name": "Epic Mickey Rebrushed",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1522160/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-evil-west",
+   "name": "Evil West",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1065310/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-expedition-33",
+   "name": "Expedition 33",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 1800,
+   "image": null
+  },
+  {
+   "id": "ps5-expeditions-a-mudrunner-game",
+   "name": "Expeditions: A Mudrunner Game",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-f1-2021",
+   "name": "F1 2021",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps5-f1-2022",
+   "name": "F1 2022",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps5-f1-2023",
+   "name": "F1 2023",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps5-f1-2024",
+   "name": "F1 2024",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-f1-2025",
+   "name": "F1 2025",
+   "platform": "ps5",
+   "sell": 2999,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "ps5-famring-simulator-22",
+   "name": "Famring Simulator 22",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps5-far-cry-6",
+   "name": "FAR CRY 6",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2369390/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-farming-simulator-22",
+   "name": "Farming Simulator 22",
+   "platform": "ps5",
+   "sell": null,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1248130/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-farming-simulator-25",
+   "name": "Farming Simulator 25",
+   "platform": "ps5",
+   "sell": 2199,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2300320/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-fatal-frame-2-crimson-butterfly-remake",
+   "name": "Fatal Frame 2 Crimson Butterfly Remake",
+   "platform": "ps5",
+   "sell": 3499,
+   "buy": 2800,
+   "image": null
+  },
+  {
+   "id": "ps5-fc-24-turkce",
+   "name": "FC 24 Türkçe",
+   "platform": "ps5",
+   "sell": 599,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps5-fc-25-turkce",
+   "name": "FC 25 Türkçe",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps5-fc-26-turkce-spiker",
+   "name": "FC 26 Türkçe Spiker",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": null
+  },
+  {
+   "id": "ps5-fifa-21-turkce",
+   "name": "Fifa 21 Türkçe",
+   "platform": "ps5",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps5-fifa-22-turkce",
+   "name": "Fifa 22 Türkçe",
+   "platform": "ps5",
+   "sell": 299,
+   "buy": 200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1506830/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-fifa-23-turkce",
+   "name": "Fifa 23 Türkçe",
+   "platform": "ps5",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps5-final-fantasy-vii-crisis-core-reunion",
+   "name": "Final Fantasy VII Crisis Core Reunion",
+   "platform": "ps5",
+   "sell": 1899,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "ps5-final-fantasy-vii-rebirth",
+   "name": "Final Fantasy VII Rebirth",
+   "platform": "ps5",
+   "sell": 2199,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2909400/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-final-fantasy-vii-remake-intergrade",
+   "name": "Final Fantasy VII Remake Intergrade",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1462040/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-final-fantasy-xvi",
+   "name": "Final Fantasy XVI",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2515020/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-football-manager-2024",
+   "name": "Football Manager 2024",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2473420/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-forspoken",
+   "name": "Forspoken",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1680880/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-funko-fusion",
+   "name": "Funko Fusion",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1843310/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-gear-club-2-unlimited",
+   "name": "Gear Club 2 Unlimited",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-gears-of-war-reloaded",
+   "name": "Gears Of War Reloaded",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": null
+  },
+  {
+   "id": "ps5-ghost-of-tsushima-director-s-cut",
+   "name": "Ghost Of Tsushima Director's Cut",
+   "platform": "ps5",
+   "sell": null,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "ps5-ghost-of-tsushima-director-s-cut-turkce",
+   "name": "Ghost Of Tsushima Director's Cut Türkçe",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "ps5-ghost-of-y-tei",
+   "name": "Ghost of Yōtei",
+   "platform": "ps5",
+   "sell": 3199,
+   "buy": 2500,
+   "image": null
+  },
+  {
+   "id": "ps5-ghost-runner-2",
+   "name": "Ghost Runner 2",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2144740/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-ghostwire-tokyo",
+   "name": "Ghostwire Tokyo",
+   "platform": "ps5",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1475810/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-goat-simulator-remastered",
+   "name": "Goat Simulator Remastered",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/265930/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-god-of-war-ragnarok",
+   "name": "God Of War Ragnarök",
+   "platform": "ps5",
+   "sell": 1599,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-godfall",
+   "name": "Godfall",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps5-gotham-knights",
+   "name": "Gotham Knights",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 650,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1496790/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-gran-turismo-7-turkce",
+   "name": "Gran Turismo 7 Türkçe",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "ps5-greed-fall",
+   "name": "Greed Fall",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/606880/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-grid-legends",
+   "name": "Grid Legends",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1307710/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-gta-5",
+   "name": "GTA 5",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-guardians-of-the-galaxy",
+   "name": "Guardians Of The Galaxy",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1088850/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-halloween-ash-evil-dead-retro",
+   "name": "Halloween - Ash & Evil Dead Retro",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "ps5-harry-potter-quidditch-champions",
+   "name": "Harry Potter Quidditch Champions",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878600/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-heavy-cargo-the-truck-simulator",
+   "name": "Heavy Cargo The Truck Simulator",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1474930/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-heavy-duty-challenge",
+   "name": "Heavy Duty Challenge",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-hell-is-us",
+   "name": "Hell Is Us",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1620730/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-helldivers-2",
+   "name": "Helldivers 2",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553850/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-hello-neighbor-2",
+   "name": "Hello Neighbor 2",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1321680/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-hired-gun",
+   "name": "Hired Gun",
+   "platform": "ps5",
+   "sell": 499,
+   "buy": 310,
+   "image": null
+  },
+  {
+   "id": "ps5-hitman-1-2-3",
+   "name": "Hitman 1-2-3",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-hitman-3",
+   "name": "Hitman 3",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-hogwarts-legacy",
+   "name": "Hogwarts Legacy",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-horizon-forbidden-west",
+   "name": "Horizon Forbidden West",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2420110/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-horizon-zero-dawn",
+   "name": "Horizon Zero Dawn",
+   "platform": "ps5",
+   "sell": 1899,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2561580/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-hot-wheels-unleashed",
+   "name": "Hot Wheels Unleashed",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1050,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1271700/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-hot-wheels-unleashed-2",
+   "name": "Hot Wheels Unleashed 2",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1050,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2051120/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-house-of-ashes",
+   "name": "House Of Ashes",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-immortals-fenyx-rising",
+   "name": "Immortals Fenyx Rising",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2221920/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-indiana-jones-and-the-great-circle",
+   "name": "Indiana Jones and the Great Circle",
+   "platform": "ps5",
+   "sell": 2899,
+   "buy": 2300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2677660/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-invincible-vs",
+   "name": "Invincible VS",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps5-judgment",
+   "name": "Judgment",
+   "platform": "ps5",
+   "sell": 749,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058180/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-jumanji",
+   "name": "Jumanji",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps5-jurassic-world-evolution-2",
+   "name": "Jurassic World Evolution 2",
+   "platform": "ps5",
+   "sell": 1599,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1244460/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-just-dance-2021",
+   "name": "Just Dance 2021",
+   "platform": "ps5",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps5-just-dance-2022",
+   "name": "Just Dance 2022",
+   "platform": "ps5",
+   "sell": 599,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps5-karma-the-dark-world",
+   "name": "Karma The Dark World",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1376200/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-kena-bridge-of-spirits",
+   "name": "Kena Bridge Of Spirits",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1954200/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-kingdom-come-deliverance-2",
+   "name": "Kingdom Come Deliverance 2",
+   "platform": "ps5",
+   "sell": 2199,
+   "buy": 1700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1771300/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-lego-2k-drive",
+   "name": "Lego 2K Drive",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps5-lego-horizon-adventures",
+   "name": "Lego Horizon Adventures",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2428810/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-lego-party",
+   "name": "Lego Party",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "ps5-lego-star-wars",
+   "name": "Lego Star Wars",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-lies-of-p",
+   "name": "Lies Of P",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1627720/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-life-is-strange-collection",
+   "name": "Life Is Strange Collection",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps5-like-a-dragon-infinite-wealth",
+   "name": "Like A Dragon Infinite Wealth",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2072450/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-like-a-dragon-ishin",
+   "name": "Like A Dragon Ishin",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1805480/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-like-a-dragon-pirate-yakuza-in-hawaii",
+   "name": "Like A Dragon Pirate Yakuza In Hawaii",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3061810/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-like-a-dragon-yakuza",
+   "name": "Like A Dragon Yakuza",
+   "platform": "ps5",
+   "sell": 1599,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-little-nightmares-2",
+   "name": "Little Nightmares 2",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/860510/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-little-nightmares-3",
+   "name": "Little Nightmares 3",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1392860/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-lords-of-the-fallen",
+   "name": "Lords Of The Fallen",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1501750/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-lost-judgment",
+   "name": "Lost Judgment",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2058190/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-mafia-the-old-country",
+   "name": "Mafia The Old Country",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1941540/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-marvel-avengers",
+   "name": "Marvel Avengers",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/405310/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-marvel-midnight-suns",
+   "name": "Marvel Midnight Suns",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368260/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-metal-gear-solid-delta-snake-eater",
+   "name": "Metal Gear Solid Delta : Snake Eater",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps5-metal-gear-solid-master-collection",
+   "name": "Metal Gear Solid Master Collection",
+   "platform": "ps5",
+   "sell": 2799,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps5-metaphor-refantazio",
+   "name": "Metaphor : Refantazio",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-metro-exodus-complete-edition",
+   "name": "Metro Exodus Complete Edition",
+   "platform": "ps5",
+   "sell": null,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/412020/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-metro-exodus-complette-edition",
+   "name": "Metro Exodus Complette Edition",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": null,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/412020/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-minecraft",
+   "name": "Minecraft",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-minecraft-legends-deluxe-edition",
+   "name": "Minecraft Legends Deluxe Edition",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1928870/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-monster-hunter-wilds",
+   "name": "Monster Hunter Wilds",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2246340/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-monster-truck-championship",
+   "name": "Monster Truck Championship",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1209360/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-mortal-kombat-1",
+   "name": "Mortal Kombat 1",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1971870/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-mortal-kombat-11-ultimate",
+   "name": "Mortal Kombat 11 Ultimate",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps5-mortal-kombat-legacy-kollection",
+   "name": "Mortal Kombat Legacy Kollection",
+   "platform": "ps5",
+   "sell": 2299,
+   "buy": 1800,
+   "image": null
+  },
+  {
+   "id": "ps5-moto-gp-25",
+   "name": "MOTO GP 25",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3077390/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-mount-and-blade-2-bannerlord",
+   "name": "Mount And Blade 2 Bannerlord",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/261550/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-moving-out-2",
+   "name": "Moving Out 2",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1641700/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-naruto-x-boruto-u-n-s-connections",
+   "name": "Naruto X Boruto U.N.S. Connections",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1020790/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-nba-2k21",
+   "name": "NBA 2K21",
+   "platform": "ps5",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "ps5-nba-2k22",
+   "name": "NBA 2K22",
+   "platform": "ps5",
+   "sell": 499,
+   "buy": 300,
+   "image": null
+  },
+  {
+   "id": "ps5-nba-2k23",
+   "name": "NBA 2K23",
+   "platform": "ps5",
+   "sell": 599,
+   "buy": 350,
+   "image": null
+  },
+  {
+   "id": "ps5-nba-2k24",
+   "name": "NBA 2K24",
+   "platform": "ps5",
+   "sell": 799,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "ps5-nba-2k25",
+   "name": "NBA 2K25",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-nba-2k26",
+   "name": "NBA 2K26",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "ps5-new-tales-from-the-borderlands",
+   "name": "New Tales From The Borderlands",
+   "platform": "ps5",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "ps5-nfs-unbound",
+   "name": "NFS Unbound",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-nhl-24",
+   "name": "NHL 24",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-nhl-25",
+   "name": "NHL 25",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": null
+  },
+  {
+   "id": "ps5-ninja-gaiden-2-black",
+   "name": "Ninja Gaiden 2 Black",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3287520/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-ninja-gaiden-4",
+   "name": "Ninja Gaiden 4",
+   "platform": "ps5",
+   "sell": 2999,
+   "buy": 2500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2627260/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-ninja-gaiden-ragebound",
+   "name": "Ninja Gaiden Ragebound",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2542120/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-nioh-3",
+   "name": "Nioh 3",
+   "platform": "ps5",
+   "sell": 2899,
+   "buy": 2300,
+   "image": null
+  },
+  {
+   "id": "ps5-nioh-collection",
+   "name": "Nioh Collection",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "ps5-octopath-traveler-2",
+   "name": "Octopath Traveler 2",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1971650/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-on-the-road-truc-simulator",
+   "name": "On The Road Truc-Simulator",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-one-piece-odyssey",
+   "name": "One Piece Odyssey",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814000/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-outriders",
+   "name": "Outriders",
+   "platform": "ps5",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/680420/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-overcooked-all-you-can-eat",
+   "name": "Overcooked - All You Can Eat",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1243830/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-overpass-2",
+   "name": "Overpass 2",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1830630/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-payday-3",
+   "name": "PAYDAY 3",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1272080/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-persona-3",
+   "name": "Persona 3",
+   "platform": "ps5",
+   "sell": 1899,
+   "buy": 1400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-persona-5",
+   "name": "Persona 5",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1687950/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-poppy-playtime-triple-pack",
+   "name": "Poppy Playtime Triple Pack",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-pragmata",
+   "name": "Pragmata",
+   "platform": "ps5",
+   "sell": 3499,
+   "buy": 2800,
+   "image": null
+  },
+  {
+   "id": "ps5-prince-of-persia-the-lost-crown",
+   "name": "Prince Of Persia The Lost Crown",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2751000/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-rainbow-six-siege-deluxe-edition",
+   "name": "Rainbow Six Siege Deluxe Edition",
+   "platform": "ps5",
+   "sell": 799,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/359550/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-rainbow-six-siege-extraction",
+   "name": "Rainbow Six Siege Extraction",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps5-ratchet-clank-rift-apart",
+   "name": "Ratchet & Clank Rift Apart",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1895880/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-reanimal",
+   "name": "Reanimal",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2129530/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-remnant-2",
+   "name": "Remnant 2",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1282100/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-resident-evil-2",
+   "name": "Resident Evil 2",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/883710/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-resident-evil-3",
+   "name": "Resident Evil 3",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/952060/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-resident-evil-4",
+   "name": "Resident Evil 4",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-resident-evil-4-gold-editiyon",
+   "name": "Resident Evil 4 Gold Editiyon",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-resident-evil-7-gold-editiyon",
+   "name": "Resident Evil 7 Gold Editiyon",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-resident-evil-requiem",
+   "name": "Resident Evil Requiem",
+   "platform": "ps5",
+   "sell": 3499,
+   "buy": 2700,
+   "image": null
+  },
+  {
+   "id": "ps5-resident-evil-village",
+   "name": "Resident Evil Village",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-resident-evil-village-gold-edition",
+   "name": "Resident Evil Village Gold Edition",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-returnal",
+   "name": "Returnal",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1649240/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-ride-4",
+   "name": "Ride 4",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1259980/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-ride-5",
+   "name": "Ride 5",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1650010/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-riders-republic",
+   "name": "Riders Republic",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2290180/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-rise-of-the-ronin",
+   "name": "Rise Of The Ronin",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1340990/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-roadcraft",
+   "name": "Roadcraft",
+   "platform": "ps5",
+   "sell": 1899,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2104890/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-robocop-rogue-city",
+   "name": "Robocop Rogue City",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-robocop-rogue-city-unhinished-business",
+   "name": "Robocop Rogue City Unhinished Business",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-ruster",
+   "name": "Ruster",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-sackboy-a-big-adventure",
+   "name": "Sackboy A Big Adventure",
+   "platform": "ps5",
+   "sell": 1599,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-saints-row",
+   "name": "Saints Row",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/742420/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-saros",
+   "name": "Saros",
+   "platform": "ps5",
+   "sell": 3999,
+   "buy": 3200,
+   "image": null
+  },
+  {
+   "id": "ps5-screamer",
+   "name": "Screamer",
+   "platform": "ps5",
+   "sell": 2999,
+   "buy": 2400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2814990/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-sifu",
+   "name": "Sifu",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2138710/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-silent-hill-2",
+   "name": "Silent Hill 2",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124490/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-silent-hill-f",
+   "name": "Silent Hill F",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2947440/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-smurfs-collection",
+   "name": "Smurfs Collection",
+   "platform": "ps5",
+   "sell": 1899,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "ps5-smurfs-kart",
+   "name": "Smurfs Kart",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-sniper-elite-5",
+   "name": "Sniper Elite 5",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 850,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1029690/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-sniper-elite-resistance",
+   "name": "Sniper Elite Resistance",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2169200/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-sniper-ghost-warrior-contracts-2",
+   "name": "Sniper Ghost Warrior Contracts 2",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1338770/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-snow-runner",
+   "name": "Snow Runner",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1465360/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-sociable-soccer-25",
+   "name": "Sociable Soccer 25",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-sonic-frontiers",
+   "name": "Sonic Frontiers",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1237320/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-sonic-origins-plus",
+   "name": "Sonic Origins Plus",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-sonic-racing-cross-worlds",
+   "name": "Sonic Racing Cross Worlds",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2486820/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-sonic-superstars",
+   "name": "Sonic Superstars",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2022670/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-sonic-x-shadow-generation",
+   "name": "Sonic X Shadow Generation",
+   "platform": "ps5",
+   "sell": 1599,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2513280/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-space-marine-2",
+   "name": "Space Marine 2",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-spider-man-2-marvel",
+   "name": "Spider-Man 2 Marvel",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": null
+  },
+  {
+   "id": "ps5-spiderman-miles-morales",
+   "name": "Spiderman Miles Morales",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "ps5-split-fiction",
+   "name": "Split Fiction",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2001120/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-stalker-2-turkce",
+   "name": "Stalker 2 Türkçe",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "ps5-star-wars-jedi-fallen-order",
+   "name": "Star Wars Jedi Fallen Order",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172380/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-star-wars-jedi-survivor",
+   "name": "Star Wars Jedi Survivor",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1774580/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-star-wars-outlaws",
+   "name": "Star Wars Outlaws",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2842040/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-stellar-blade",
+   "name": "Stellar Blade",
+   "platform": "ps5",
+   "sell": 2599,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3489700/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-stray",
+   "name": "Stray",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1332010/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-street-fighter-6",
+   "name": "Street Fighter 6",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-suicide-squad",
+   "name": "Suicide Squad",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-tekken-8",
+   "name": "Tekken 8",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1778820/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-tennis-world-tour-2",
+   "name": "Tennis World Tour 2",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1223910/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-terminator-resistance",
+   "name": "Terminator Resistance",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/954740/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-test-drive-unlimited",
+   "name": "Test Drive Unlimited",
+   "platform": "ps5",
+   "sell": 1599,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1249970/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-the-callisto-protocol",
+   "name": "The Callisto Protocol",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1544020/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-the-crew-motorfest",
+   "name": "The Crew Motorfest",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2698940/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-the-elder-scrolls-iv-oblivion",
+   "name": "The Elder Scrolls IV Oblivion",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "ps5-the-first-berserker-khazan",
+   "name": "The First Berserker : Khazan",
+   "platform": "ps5",
+   "sell": 2399,
+   "buy": 1700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2680010/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-the-last-of-us-1-turkce-dublaj",
+   "name": "The Last Of Us 1 Türkçe Dublaj",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-the-last-of-us-2-turkce-dublaj",
+   "name": "The Last Of Us 2 Türkçe Dublaj",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-the-quarry",
+   "name": "The Quarry",
+   "platform": "ps5",
+   "sell": 799,
+   "buy": 550,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1577120/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-the-thing",
+   "name": "The Thing",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-the-witcher-3-wild-hunt",
+   "name": "The Witcher 3 Wild Hunt",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-tiny-tina-s-wonderlands",
+   "name": "Tiny Tina's Wonderlands",
+   "platform": "ps5",
+   "sell": 599,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1286680/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-tomb-raider-1-2-3-remastered",
+   "name": "Tomb Raider 1-2-3 Remastered",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "ps5-tomb-raider-iv-v-vi-remastered",
+   "name": "Tomb Raider IV-V-VI Remastered",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "ps5-truck-logistics-simulator",
+   "name": "Truck & Logistics Simulator",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/873840/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-truck-driver-the-american-dream",
+   "name": "Truck Driver The American Dream",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "ps5-turtles-the-cowabunga-collection",
+   "name": "Turtles The Cowabunga Collection",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659600/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-ufc-5",
+   "name": "UFC 5",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-uncharted-legacy-of-thieves",
+   "name": "Uncharted Legacy Of Thieves",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "ps5-undisputed",
+   "name": "Undisputed",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1451190/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-until-dawn",
+   "name": "Until Dawn",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2172010/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-vampire-the-masquerade-bloodlines-2",
+   "name": "Vampire The Masquerade Bloodlines 2",
+   "platform": "ps5",
+   "sell": 2299,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/532790/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-watch-dogs-legion",
+   "name": "Watch Dogs Legion",
+   "platform": "ps5",
+   "sell": 699,
+   "buy": 400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2239550/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-wo-long-fallen-dynasty",
+   "name": "Wo Long : Fallen Dynasty",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1448440/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-wrc-10",
+   "name": "WRC 10",
+   "platform": "ps5",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-wrc-9",
+   "name": "WRC 9",
+   "platform": "ps5",
+   "sell": 899,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps5-wrc-generations",
+   "name": "WRC Generations",
+   "platform": "ps5",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "ps5-wu-chang-fallen-feathers",
+   "name": "Wu Chang : Fallen Feathers",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "ps5-wwe-2k22",
+   "name": "WWE 2K22",
+   "platform": "ps5",
+   "sell": 699,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "ps5-wwe-2k23",
+   "name": "WWE 2K23",
+   "platform": "ps5",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "ps5-wwe-2k24",
+   "name": "WWE 2K24",
+   "platform": "ps5",
+   "sell": 1299,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2315690/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-wwe-2k25",
+   "name": "WWE 2K25",
+   "platform": "ps5",
+   "sell": 1799,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878960/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-wwe-2k26",
+   "name": "WWE 2K26",
+   "platform": "ps5",
+   "sell": 2999,
+   "buy": 2300,
+   "image": null
+  },
+  {
+   "id": "switch1-1-2-switch",
+   "name": "1-2 Switch",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-animal-crossing-new-horizons",
+   "name": "Animal Crossing New Horizons",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "switch1-animal-crosssing-new-horizons",
+   "name": "Animal Crosssing New Horizons",
+   "platform": "switch1",
+   "sell": null,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-arms",
+   "name": "Arms",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-batman-arkham-trilogy",
+   "name": "Batman Arkham Trilogy",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-bayonetta-3",
+   "name": "Bayonetta 3",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-burnout-paradise-remastered",
+   "name": "Burnout Paradise Remastered",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1238080/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-cars-3-driven-to-win",
+   "name": "Cars 3 Driven To Win",
+   "platform": "switch1",
+   "sell": 999,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "switch1-crash-bandicoot-4-it-s-about-time",
+   "name": "Crash Bandicoot 4 It's About Time",
+   "platform": "switch1",
+   "sell": 1599,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1378990/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-crash-bandicoot-n-sane-trilogy",
+   "name": "Crash Bandicoot N.Sane Trilogy",
+   "platform": "switch1",
+   "sell": 1599,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/731490/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-crash-team-racing-nitro-fueled",
+   "name": "Crash Team Racing Nitro-Fueled",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "switch1-crysis-remastered",
+   "name": "Crysis Remastered",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "switch1-cuphead",
+   "name": "Cuphead",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/268910/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-donkey-kong-country-tropical-freeze",
+   "name": "Donkey Kong Country Tropical Freeze",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-doom",
+   "name": "Doom",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/379720/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-dragon-quest-builders",
+   "name": "Dragon Quest Builders",
+   "platform": "switch1",
+   "sell": null,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2436570/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-dragon-quest-builders-1",
+   "name": "Dragon Quest Builders 1",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "switch1-dragon-quest-builders-2",
+   "name": "Dragon Quest Builders 2",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": null,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1072420/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-fc-24",
+   "name": "FC 24",
+   "platform": "switch1",
+   "sell": 999,
+   "buy": 500,
+   "image": null
+  },
+  {
+   "id": "switch1-fc-25",
+   "name": "FC 25",
+   "platform": "switch1",
+   "sell": 1999,
+   "buy": 1400,
+   "image": null
+  },
+  {
+   "id": "switch1-fifa-18",
+   "name": "Fifa 18",
+   "platform": "switch1",
+   "sell": 499,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "switch1-fifa-19",
+   "name": "Fifa 19",
+   "platform": "switch1",
+   "sell": 499,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "switch1-fifa-20",
+   "name": "Fifa 20",
+   "platform": "switch1",
+   "sell": 499,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "switch1-fifa-21",
+   "name": "Fifa 21",
+   "platform": "switch1",
+   "sell": 599,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "switch1-fifa-22",
+   "name": "Fifa 22",
+   "platform": "switch1",
+   "sell": 699,
+   "buy": 300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1506830/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-fifa-23",
+   "name": "Fifa 23",
+   "platform": "switch1",
+   "sell": 799,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "switch1-grand-theft-auto-the-trilogy",
+   "name": "Grand Theft Auto The Trilogy",
+   "platform": "switch1",
+   "sell": 1599,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-hello-neighbor-2",
+   "name": "Hello Neighbor 2",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1321680/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-hogwarts-legacy",
+   "name": "Hogwarts Legacy",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-i-ce-age-scrats-nutty-adventure",
+   "name": "İce Age Scrats Nutty Adventure",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "switch1-kirby-and-the-forgotten-land",
+   "name": "Kirby And The Forgotten Land",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-kirby-star-allies",
+   "name": "Kirby Star Allies",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-kirby-s-return-to-dream-land-deluxe",
+   "name": "Kirby's Return To Dream Land Deluxe",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-lego-2k-drive",
+   "name": "LEGO 2K Drive",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "switch1-lego-city-undercover",
+   "name": "LEGO City Undercover",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/578330/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-dc-super-villains",
+   "name": "LEGO DC Super Villains",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/829110/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-harry-potter-collection",
+   "name": "LEGO Harry Potter Collection",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2950340/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-horizon-adventures",
+   "name": "LEGO Horizon Adventures",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2428810/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-jurassic-world",
+   "name": "LEGO Jurassic World",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/352400/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-marvel-super-heroes-2",
+   "name": "LEGO Marvel Super Heroes 2",
+   "platform": "switch1",
+   "sell": 1299,
+   "buy": 650,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/647830/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-movie-2-video-game",
+   "name": "LEGO Movie 2 Video Game",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/881320/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-ninjago-movie-video-game",
+   "name": "LEGO NinjaGo Movie Video Game",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/640590/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-star-wars-the-skywalker-saga",
+   "name": "LEGO Star Wars The Skywalker Saga",
+   "platform": "switch1",
+   "sell": 1599,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/920210/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-lego-the-i-ncredibles",
+   "name": "LEGO The İncredibles",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "switch1-lego-worlds",
+   "name": "LEGO Worlds",
+   "platform": "switch1",
+   "sell": 899,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/332310/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-luigi-s-mansion-2-hd",
+   "name": "Luigi's Mansion 2 HD",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-luigis-mansion-3",
+   "name": "Luigis Mansion 3",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-mario-rabbids-kingdom-battle",
+   "name": "Mario + Rabbids Kingdom Battle",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 800,
+   "image": null
+  },
+  {
+   "id": "switch1-mario-rabbids-sparks-of-hope",
+   "name": "Mario + Rabbids Sparks Of Hope",
+   "platform": "switch1",
+   "sell": 1299,
+   "buy": 700,
+   "image": null
+  },
+  {
+   "id": "switch1-mario-golf-super-rush",
+   "name": "Mario Golf Super Rush",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-mario-kart-8-deluxe",
+   "name": "Mario Kart 8 Deluxe",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-mario-party-superstars",
+   "name": "Mario Party Superstars",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-mario-strikers-battle-league-football",
+   "name": "Mario Strikers Battle League Football",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-marvel-ultimate-alliance-3",
+   "name": "Marvel Ultimate Alliance 3",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "switch1-metro-redux",
+   "name": "Metro Redux",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/286690/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-metroid-dread",
+   "name": "Metroid Dread",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-metroid-prime-remastered",
+   "name": "Metroid Prime Remastered",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-minecraft",
+   "name": "Minecraft",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "switch1-minecraft-dungeons-hero-edition",
+   "name": "Minecraft Dungeons Hero Edition",
+   "platform": "switch1",
+   "sell": 1599,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "switch1-minecraft-dungeons-ultimate-edition",
+   "name": "Minecraft Dungeons Ultimate Edition",
+   "platform": "switch1",
+   "sell": 1599,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1672970/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-minecraft-legends",
+   "name": "Minecraft Legends",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1928870/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-monster-hunter-rise",
+   "name": "Monster Hunter Rise",
+   "platform": "switch1",
+   "sell": 1299,
+   "buy": 700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1446780/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-mortal-kombat-1",
+   "name": "Mortal Kombat 1",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1971870/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-mortal-kombat-11",
+   "name": "Mortal Kombat 11",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/976310/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-mortal-kombat-11-ultimate",
+   "name": "Mortal Kombat 11 Ultimate",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k18",
+   "name": "NBA 2K18",
+   "platform": "switch1",
+   "sell": 299,
+   "buy": 100,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k19",
+   "name": "NBA 2K19",
+   "platform": "switch1",
+   "sell": 299,
+   "buy": 100,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k20",
+   "name": "NBA 2K20",
+   "platform": "switch1",
+   "sell": 349,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k21",
+   "name": "NBA 2K21",
+   "platform": "switch1",
+   "sell": 399,
+   "buy": 200,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k22",
+   "name": "NBA 2K22",
+   "platform": "switch1",
+   "sell": 499,
+   "buy": 250,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k23",
+   "name": "NBA 2K23",
+   "platform": "switch1",
+   "sell": 799,
+   "buy": 400,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k24",
+   "name": "NBA 2K24",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "switch1-nba-2k25",
+   "name": "NBA 2K25",
+   "platform": "switch1",
+   "sell": 1999,
+   "buy": 1300,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-need-for-speed-hot-pursuit-remastered",
+   "name": "Need For Speed Hot Pursuit Remastered",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1328660/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-new-pokemon-snap",
+   "name": "New Pokemon Snap",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 120,
+   "image": null
+  },
+  {
+   "id": "switch1-olympic-games-the-official-video-games",
+   "name": "Olympic Games The Official Video Games",
+   "platform": "switch1",
+   "sell": null,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "switch1-olympic-games-tokyo-2020",
+   "name": "Olympic Games Tokyo 2020",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": null,
+   "image": null
+  },
+  {
+   "id": "switch1-overcooked-2",
+   "name": "Overcooked 2",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/728880/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-paper-mario-the-origami-king",
+   "name": "Paper Mario The Origami King",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-brilliant-diamond",
+   "name": "Pokemon Brilliant Diamond",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-legends-arceus",
+   "name": "Pokemon Legends Arceus",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-lets-go-eevee",
+   "name": "Pokemon Lets Go Eevee",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-lets-go-pikachu",
+   "name": "Pokemon Lets Go Pikachu",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-scarlet",
+   "name": "Pokemon Scarlet",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-shield",
+   "name": "Pokemon Shield",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-shining-pearl",
+   "name": "Pokemon Shining Pearl",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-sword",
+   "name": "Pokemon Sword",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-pokemon-violet",
+   "name": "Pokemon Violet",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-pokken-tournament-dx",
+   "name": "Pokken Tournament Dx",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-rayman-legends-definitive-edition",
+   "name": "Rayman Legends Definitive Edition",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg"
+  },
+  {
+   "id": "switch1-red-dead-redemption",
+   "name": "Red Dead Redemption",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2668510/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-resident-evil-origins-collection",
+   "name": "Resident Evil Origins Collection",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-sonic-mania-plus",
+   "name": "Sonic Mania Plus",
+   "platform": "switch1",
+   "sell": 1199,
+   "buy": 600,
+   "image": null
+  },
+  {
+   "id": "switch1-sonic-origins-plus",
+   "name": "Sonic Origins Plus",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1000,
+   "image": null
+  },
+  {
+   "id": "switch1-sonic-x-shadow-generations",
+   "name": "Sonic X Shadow Generations",
+   "platform": "switch1",
+   "sell": 1599,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2513280/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-splatoon-2",
+   "name": "Splatoon 2",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "switch1-splatoon-3",
+   "name": "Splatoon 3",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-sports-ve-ayak-bandi",
+   "name": "Sports Ve Ayak Bandı",
+   "platform": "switch1",
+   "sell": 1999,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-spyro-reignited-trilogy",
+   "name": "Spyro Reignited Trilogy",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/996580/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-stray",
+   "name": "Stray",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1100,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1332010/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-street-fighter-30th-anniversary-collection",
+   "name": "Street Fighter 30th Anniversary Collection",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 1000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/586200/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-super-mario-3d-all-stars",
+   "name": "Super Mario 3D All-Stars",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-3d-world-ve-bowser-s-fury",
+   "name": "Super Mario 3D World ve Bowser's Fury",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-bros-wonder",
+   "name": "Super Mario Bros Wonder",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-bros-u-deluxe",
+   "name": "Super Mario Bros.U Deluxe",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-maker-2",
+   "name": "Super Mario Maker 2",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-odyssey",
+   "name": "Super Mario Odyssey",
+   "platform": "switch1",
+   "sell": 1999,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-party",
+   "name": "Super Mario Party",
+   "platform": "switch1",
+   "sell": 1699,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-party-jamboree",
+   "name": "Super Mario Party Jamboree",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-super-mario-rpg",
+   "name": "Super Mario RPG",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-super-smash-bros-ultimate",
+   "name": "Super Smash Bros Ultimate",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-the-legend-of-zelda-breath-of-the-wild",
+   "name": "The Legend Of Zelda Breath Of The Wild",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "switch1-the-legend-of-zelda-echoes-of-wisdom",
+   "name": "The Legend Of Zelda Echoes Of Wisdom",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-the-legend-of-zelda-links-awakening",
+   "name": "The Legend Of Zelda Links Awakening",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-the-legend-of-zelda-skyward-sword-hd",
+   "name": "The Legend Of Zelda Skyward Sword Hd",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": null
+  },
+  {
+   "id": "switch1-the-legend-of-zelda-tears-of-the-kingdom",
+   "name": "The Legend Of Zelda Tears Of The Kingdom",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1300,
+   "image": null
+  },
+  {
+   "id": "switch1-the-witcher-3-wild-hunt-complete-edition",
+   "name": "The Witcher 3 Wild Hunt Complete Edition",
+   "platform": "switch1",
+   "sell": 1899,
+   "buy": 1200,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-wolfenstein-2-the-new-colossus",
+   "name": "Wolfenstein 2 The New Colossus",
+   "platform": "switch1",
+   "sell": 1399,
+   "buy": 800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/612880/library_600x900.jpg"
+  },
+  {
+   "id": "switch1-xenoblade-chronicles-2",
+   "name": "Xenoblade Chronicles 2",
+   "platform": "switch1",
+   "sell": 1499,
+   "buy": 900,
+   "image": null
+  },
+  {
+   "id": "switch1-xenoblade-chronicles-3",
+   "name": "Xenoblade Chronicles 3",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch1-yoshi-s-crafted-world",
+   "name": "Yoshi's Crafted World",
+   "platform": "switch1",
+   "sell": 1799,
+   "buy": 1100,
+   "image": null
+  },
+  {
+   "id": "switch2-cyberpunk-2077-ultimate-edition",
+   "name": "Cyberpunk 2077:Ultimate Edition",
+   "platform": "switch2",
+   "sell": 2699,
+   "buy": 2000,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg"
+  },
+  {
+   "id": "switch2-daemon-x-machina-titanic-scion",
+   "name": "Daemon X Machina: Titanic Scion",
+   "platform": "switch2",
+   "sell": 2999,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "switch2-donkey-kong-bananza",
+   "name": "Donkey Kong Bananza",
+   "platform": "switch2",
+   "sell": 3199,
+   "buy": 2400,
+   "image": null
+  },
+  {
+   "id": "switch2-fc-26",
+   "name": "FC 26",
+   "platform": "switch2",
+   "sell": 2699,
+   "buy": 2000,
+   "image": null
+  },
+  {
+   "id": "switch2-hitman-world-of-assassination",
+   "name": "Hitman World Of Assassination",
+   "platform": "switch2",
+   "sell": 2299,
+   "buy": 1700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1659040/library_600x900.jpg"
+  },
+  {
+   "id": "switch2-hogwarts-legacy",
+   "name": "Hogwarts Legacy",
+   "platform": "switch2",
+   "sell": 2299,
+   "buy": 1700,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900.jpg"
+  },
+  {
+   "id": "switch2-hyrule-warriors-age-of-imprisonment",
+   "name": "Hyrule Warriors: Age Of Imprisonment",
+   "platform": "switch2",
+   "sell": 3199,
+   "buy": 2400,
+   "image": null
+  },
+  {
+   "id": "switch2-kirby-air-riders",
+   "name": "Kirby Air Riders",
+   "platform": "switch2",
+   "sell": 3199,
+   "buy": 2400,
+   "image": null
+  },
+  {
+   "id": "switch2-kirby-and-the-forgetten-land-star-crossed-world",
+   "name": "Kirby And The Forgetten Land + Star-Crossed World",
+   "platform": "switch2",
+   "sell": 2999,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "switch2-little-nightmares-3",
+   "name": "Little Nightmares 3",
+   "platform": "switch2",
+   "sell": 1899,
+   "buy": 1400,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1392860/library_600x900.jpg"
+  },
+  {
+   "id": "switch2-mario-kart-world",
+   "name": "Mario Kart World",
+   "platform": "switch2",
+   "sell": 2999,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "switch2-nba-2k26",
+   "name": "NBA 2K26",
+   "platform": "switch2",
+   "sell": 2399,
+   "buy": 1800,
+   "image": null
+  },
+  {
+   "id": "switch2-persona-3-reload",
+   "name": "Persona 3 Reload",
+   "platform": "switch2",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg"
+  },
+  {
+   "id": "switch2-pokemon-legends-z-a",
+   "name": "Pokemon Legends: Z-A",
+   "platform": "switch2",
+   "sell": 2799,
+   "buy": 2100,
+   "image": null
+  },
+  {
+   "id": "switch2-sonic-x-shadow-generations",
+   "name": "Sonic X Shadow Generations",
+   "platform": "switch2",
+   "sell": 1999,
+   "buy": 1500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2513280/library_600x900.jpg"
+  },
+  {
+   "id": "switch2-star-wars-outlaws",
+   "name": "Star Wars Outlaws",
+   "platform": "switch2",
+   "sell": 2499,
+   "buy": 1800,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2842040/library_600x900.jpg"
+  },
+  {
+   "id": "switch2-super-mario-party-jamboree-jamboree-tv",
+   "name": "Super Mario Party Jamboree + Jamboree TV",
+   "platform": "switch2",
+   "sell": 2999,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "switch2-survival-kids",
+   "name": "Survival Kids",
+   "platform": "switch2",
+   "sell": 2499,
+   "buy": 1800,
+   "image": null
+  },
+  {
+   "id": "switch2-the-legend-of-zelda-breath-of-the-wild",
+   "name": "The Legend Of Zelda: Breath Of The Wild",
+   "platform": "switch2",
+   "sell": 2999,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "switch2-the-legend-of-zelda-tears-of-the-kingdom",
+   "name": "The Legend Of Zelda: Tears Of The Kingdom",
+   "platform": "switch2",
+   "sell": 2999,
+   "buy": 2200,
+   "image": null
+  },
+  {
+   "id": "switch2-w-2k25",
+   "name": "W 2K25",
+   "platform": "switch2",
+   "sell": 2499,
+   "buy": 1900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878960/library_600x900.jpg"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+name: Haftalık Oyun Listesi Güncelleme
+
+# Her Pazartesi 06:00 UTC (TR ~09:00) + elle tetikleme
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  guncelle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Veriyi CSV'lerden derle
+        run: python3 scripts/build_data.py
+
+      - name: Kapakları ekle — Steam (anahtarsız)
+        run: python3 scripts/enrich_images_steam.py || true
+
+      - name: Kapakları tamamla — RAWG (anahtar varsa)
+        if: ${{ secrets.RAWG_KEY != '' }}
+        env:
+          RAWG_KEY: ${{ secrets.RAWG_KEY }}
+        run: python3 scripts/enrich_images.py || true
+
+      - name: oyunmerkezi'nde yeni oyunları tara
+        run: python3 scripts/check_new_games.py || true
+
+      - name: Commit & push
+        run: |
+          git config user.name "KonsolTech Bot"
+          git config user.email "bot@konsoltech.tr"
+          git add data/games.json data/yeni-oyunlar.txt
+          if git diff --staged --quiet; then
+            echo "Değişiklik yok."
+          else
+            git commit -m "🤖 Haftalık oyun listesi güncellendi ($(date +%Y-%m-%d))"
+            git push
+          fi
