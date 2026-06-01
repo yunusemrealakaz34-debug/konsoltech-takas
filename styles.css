@@ -2467,16 +2467,16 @@ body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
    FİYAT MODU (Satış / Takas) — aynı anda biri
    ============================================================ */
 .kt-mode {
-  display: inline-flex;
+  display: flex;
+  width: max-content;
+  max-width: 100%;
   gap: 6px;
   padding: 5px;
   border-radius: 14px;
   background: var(--kt-surface);
   border: 1px solid var(--kt-border);
-  margin: 0 auto 16px;
+  margin: 0 auto 16px;   /* yalnızca kendini ortalar, kardeşleri etkilemez */
 }
-.kt-takas-head .kt-mode { display: flex; width: max-content; }
-.kt-mode-wrap { display: flex; justify-content: center; }
 .kt-mode-btn {
   border: none;
   background: transparent;
@@ -2497,15 +2497,6 @@ body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
   color: #fff;
   box-shadow: 0 8px 22px rgba(0,168,255,.30);
 }
-/* mod çubuğunu ortala */
-.kt-takas-head .container > .kt-mode { display: flex; }
-#ktMode { align-self: center; }
-.kt-takas-head .container { text-align: center; }
-.kt-takas-head .container .kt-section-title,
-.kt-takas-head .container .kt-takas-controls,
-.kt-takas-head .container .kt-takas-meta,
-.kt-takas-head .container .kt-game-grid { text-align: left; }
-#ktMode { margin-left: auto; margin-right: auto; }
 
 /* tek fiyat: ortalı, biraz daha belirgin */
 .kt-price-single { justify-content: stretch; }
