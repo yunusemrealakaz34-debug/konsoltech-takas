@@ -84,7 +84,7 @@
    "platform": "ps4",
    "sell": 1299,
    "buy": 700,
-   "image": null
+   "image": "https://media.rawg.io/media/screenshots/c44/c44e6b06e90235bf8558636ec1efae8b.jpg"
   },
   {
    "id": "ps4-anthem",
@@ -1764,7 +1764,7 @@
    "platform": "ps4",
    "sell": 699,
    "buy": 400,
-   "image": null
+   "image": "https://media.rawg.io/media/games/f60/f607e3212c540e3d25c2418c2edb6306.jpg"
   },
   {
    "id": "ps4-lego-starwars",
@@ -4612,7 +4612,7 @@
    "platform": "ps5",
    "sell": 1299,
    "buy": 800,
-   "image": null
+   "image": "https://media.rawg.io/media/screenshots/31a/31a46e0f5e2a555f10714a5035b4859f.jpg"
   },
   {
    "id": "ps5-hell-is-us",
@@ -4748,7 +4748,7 @@
    "platform": "ps5",
    "sell": 999,
    "buy": 700,
-   "image": null
+   "image": "https://media.rawg.io/media/games/338/338881eaa4cbad6d154f9d0581fdb125.jpg"
   },
   {
    "id": "ps5-jurassic-world-evolution-2",
@@ -5132,7 +5132,7 @@
    "platform": "ps5",
    "sell": 1299,
    "buy": 800,
-   "image": null
+   "image": "https://media.rawg.io/media/games/9ef/9eff74427541e502c1587a33f08dfca5.jpg"
   },
   {
    "id": "ps5-nhl-25",
@@ -5564,7 +5564,7 @@
    "platform": "ps5",
    "sell": 1399,
    "buy": 900,
-   "image": null
+   "image": "https://media.rawg.io/media/screenshots/b52/b52cfb69d1468236cf1dfd3601123024.jpg"
   },
   {
    "id": "ps5-sonic-frontiers",
@@ -5860,7 +5860,7 @@
    "platform": "ps5",
    "sell": 1699,
    "buy": 1100,
-   "image": null
+   "image": "https://media.rawg.io/media/games/187/18712fa218a19396d209393a8958ae00.jpg"
   },
   {
    "id": "ps5-uncharted-legacy-of-thieves",
