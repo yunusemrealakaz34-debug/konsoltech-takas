@@ -2510,3 +2510,51 @@ body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
 @media (max-width: 575px) {
   .kt-mode-btn { padding: 10px 14px; font-size: 13.5px; }
 }
+
+
+/* ============================================================
+   MOBİL / TABLET UYUMLULUK — ince ayarlar
+   ============================================================ */
+@media (max-width: 600px) {
+  /* fiyat modu: tam genişlik, eşit iki buton (taşma yok) */
+  .kt-mode { width: 100%; }
+  .kt-mode-btn { flex: 1 1 0; justify-content: center; padding: 12px 6px; }
+
+  /* arama + kategori alt alta düzgün dursun */
+  .kt-takas-controls { gap: 10px; }
+  .kt-search { flex: 1 1 100%; min-width: 0; }
+
+  /* meta satırı ortalı ve sarmalı */
+  .kt-takas-meta { flex-direction: column; gap: 6px; text-align: center; }
+  .kt-legend { font-size: 12px; }
+}
+
+@media (max-width: 400px) {
+  .kt-mode-btn { font-size: 12.5px; gap: 5px; padding: 11px 4px; }
+  .kt-mode-btn i { font-size: 13px; }
+  /* 2 sütun grid garanti, kart içi sıkışmasın */
+  .kt-game-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .kt-game-body { padding: 11px 11px 12px; }
+  .kt-game-body h5 { font-size: 13px; min-height: 34px; }
+  .kt-price-single .kt-price b { font-size: 15px; }
+  .kt-select-hint { font-size: 12px; }
+}
+
+/* dokunmatik: hover yerine aktif/seçili durum belirgin; tıklama alanı geniş */
+@media (hover: none) {
+  .kt-game-card { -webkit-tap-highlight-color: transparent; }
+  .kt-select-tick { width: 32px; height: 32px; }       /* daha kolay görünür */
+  .kt-card-wa { width: 36px; height: 36px; }            /* parmakla rahat */
+}
+
+/* toplu çubuk çok dar ekranda: sayım + tek toplam yan yana, buton tam */
+@media (max-width: 420px) {
+  .kt-bulk-count { font-size: 13.5px; }
+  .kt-bulk-tot { padding: 5px 9px; }
+  .kt-bulk-tot b { font-size: 14px; }
+  .kt-bulk-clear { padding: 11px 12px; }
+}
+
+/* yatay kaydırma kesin engeli */
+html, body { max-width: 100%; overflow-x: hidden; }
+img, video { max-width: 100%; height: auto; }
