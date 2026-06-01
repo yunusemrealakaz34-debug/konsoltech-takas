@@ -2349,3 +2349,115 @@ select:focus-visible {
   .kt-tab { flex: 1; padding: 0 10px; height: 48px; font-size: 13px; }
   .kt-takas-meta { justify-content: center; text-align: center; }
 }
+
+
+/* ============================================================
+   ÇOKLU SEÇİM + TOPLU FİYAT ÇUBUĞU
+   ============================================================ */
+.kt-game-card { cursor: pointer; position: relative; }
+
+/* seçim onay işareti (görsel köşesi) */
+.kt-select-tick {
+  position: absolute;
+  top: 8px; right: 8px;
+  width: 30px; height: 30px;
+  border-radius: 9px;
+  background: rgba(6,14,31,.62);
+  border: 1.5px solid rgba(255,255,255,.30);
+  display: flex; align-items: center; justify-content: center;
+  color: transparent;
+  font-size: 17px;
+  backdrop-filter: blur(6px);
+  transition: all .16s;
+  z-index: 2;
+}
+.kt-game-card:hover .kt-select-tick { border-color: var(--kt-blue-hi); }
+.kt-game-card.is-selected { border-color: var(--kt-blue-hi); box-shadow: 0 0 0 2px var(--kt-blue-hi), 0 16px 40px rgba(0,0,0,.45); }
+.kt-game-card.is-selected .kt-select-tick {
+  background: var(--kt-blue-hi);
+  border-color: var(--kt-blue-hi);
+  color: #fff;
+}
+.kt-game-card.is-selected .kt-game-img::before {
+  content: ""; position: absolute; inset: 0;
+  background: rgba(0,168,255,.16); z-index: 1;
+}
+
+/* kart alt satırı: Seç ipucu + tek oyun WA */
+.kt-card-foot {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 8px;
+}
+.kt-select-hint {
+  font-size: 12.5px; font-weight: 700; color: var(--kt-body);
+  display: flex; align-items: center; gap: 5px;
+}
+.kt-select-hint i { color: var(--kt-blue-hi); }
+.kt-game-card.is-selected .kt-select-hint { color: var(--kt-blue-hi); }
+.kt-game-card.is-selected .kt-select-hint i::before { content: "\F26E"; } /* bi-check-lg */
+.kt-card-wa {
+  width: 32px; height: 32px; flex: 0 0 auto;
+  border-radius: 9px;
+  background: rgba(37,211,102,.14);
+  border: 1px solid rgba(37,211,102,.30);
+  display: flex; align-items: center; justify-content: center;
+  color: #25D366; font-size: 16px;
+  transition: background .15s;
+}
+.kt-card-wa:hover { background: rgba(37,211,102,.28); }
+
+/* Toplu seçim çubuğu (alt sabit) */
+.kt-bulkbar {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 1200;
+  background: rgba(15,30,54,.96);
+  backdrop-filter: saturate(180%) blur(18px);
+  border-top: 2px solid var(--kt-blue);
+  box-shadow: 0 -10px 40px rgba(0,0,0,.5);
+  animation: ktBulkUp .25s ease;
+}
+@keyframes ktBulkUp { from { transform: translateY(100%); } to { transform: translateY(0); } }
+.kt-bulk-inner {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 18px; padding: 14px 0; flex-wrap: wrap;
+}
+.kt-bulk-info { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; }
+.kt-bulk-count { font-size: 15px; font-weight: 800; color: #fff; white-space: nowrap; }
+.kt-bulk-count i { color: var(--kt-cyan); margin-right: 4px; }
+.kt-bulk-totals { display: flex; gap: 12px; }
+.kt-bulk-tot {
+  display: flex; flex-direction: column; line-height: 1.15;
+  padding: 6px 14px; border-radius: 11px; border: 1px solid var(--kt-border);
+}
+.kt-bulk-tot span { font-size: 10.5px; font-weight: 600; color: var(--kt-muted); text-transform: uppercase; letter-spacing: .4px; }
+.kt-bulk-tot b { font-size: 18px; font-weight: 900; }
+.kt-bulk-sell { background: rgba(0,168,255,.10); }
+.kt-bulk-sell b { color: var(--kt-blue-hi); }
+.kt-bulk-buy { background: rgba(46,229,255,.09); }
+.kt-bulk-buy b { color: var(--kt-cyan); }
+.kt-bulk-actions { display: flex; align-items: center; gap: 10px; }
+.kt-bulk-clear {
+  background: transparent; border: 1px solid var(--kt-border-hi);
+  color: var(--kt-body); font-weight: 700; font-size: 14px;
+  padding: 12px 18px; border-radius: 12px; cursor: pointer;
+  transition: all .15s;
+}
+.kt-bulk-clear:hover { background: var(--kt-surface2); color: #fff; }
+.kt-bulk-wa { margin: 0 !important; }
+
+/* çubuk açıkken içerik altına boşluk + WA butonu yukarı */
+body.kt-has-bulk { padding-bottom: 90px; }
+body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
+
+@media (max-width: 640px) {
+  .kt-bulk-inner { gap: 10px; padding: 12px 0; }
+  .kt-bulk-info { gap: 12px; width: 100%; justify-content: space-between; }
+  .kt-bulk-totals { gap: 8px; }
+  .kt-bulk-tot { padding: 5px 10px; }
+  .kt-bulk-tot b { font-size: 15px; }
+  .kt-bulk-actions { width: 100%; }
+  .kt-bulk-wa { flex: 1; justify-content: center; }
+  body.kt-has-bulk { padding-bottom: 150px; }
+  body.kt-has-bulk .kt-whatsapp { bottom: 164px; }
+}
