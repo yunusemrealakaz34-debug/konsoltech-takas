@@ -2556,6 +2556,8 @@ body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
   .kt-bulk-clear { padding: 11px 12px; }
 }
 
-/* yatay kaydırma kesin engeli */
-html, body { max-width: 100%; overflow-x: hidden; }
-img, video { max-width: 100%; height: auto; }
+/* yatay kaydırma kesin engeli (iOS Safari dahil) */
+html { overflow-x: hidden; }
+body { overflow-x: hidden; position: relative; width: 100%; max-width: 100%; }
+.kt-game-img img { height: 100%; }     /* kart kapaklarını global img kuralından koru */
+img, video { max-width: 100%; }
