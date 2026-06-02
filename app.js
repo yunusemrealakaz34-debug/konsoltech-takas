@@ -20,6 +20,9 @@
   var bulk = $("#ktBulk"), bulkCount = $("#ktBulkCount"),
       bulkSell = $("#ktBulkSell"), bulkBuy = $("#ktBulkBuy"),
       bulkWa = $("#ktBulkWa"), bulkClear = $("#ktBulkClear");
+  var bulkSellBox = $("#ktBulkSellBox"), bulkBuyBox = $("#ktBulkBuyBox"),
+      bulkSellLbl = $("#ktBulkSellLbl"), bulkBuyLbl = $("#ktBulkBuyLbl"),
+      bulkNet = $("#ktBulkNet"), bulkNetLbl = $("#ktBulkNetLbl"), bulkNetVal = $("#ktBulkNetVal");
 
   var PLACE = { ps4: "PS4", ps5: "PS5", switch1: "Switch", switch2: "Switch 2" };
   var LEGEND = {
@@ -49,7 +52,8 @@
   }
 
   function card(g) {
-    var sel = state.selected[g.id] ? " is-selected" : "";
+    var entry = state.selected[g.id];
+    var sel = entry ? " is-selected is-sel-" + entry.mode : "";
     var img = g.image
       ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" decoding="async" onerror="this.parentNode.classList.add(\'no-img\')">'
       : "";
@@ -58,11 +62,19 @@
     var price = (v != null)
       ? '<div class="kt-price ' + cls + '"><span>' + modeLabel() + '</span><b>' + fmt(v) + '</b></div>'
       : '<div class="kt-price kt-price-ask"><span>' + modeLabel() + '</span><b>Sor</b></div>';
+    var tag = entry
+      ? '<span class="kt-sel-tag kt-sel-tag-' + entry.mode + '">' +
+          (entry.mode === "sell"
+            ? '<i class="bi bi-bag-check-fill"></i> Alıyorsun'
+            : '<i class="bi bi-arrow-left-right"></i> Veriyorsun') +
+        '</span>'
+      : "";
 
-    return '<div class="kt-game-card' + (g.image ? "" : " no-img") + sel + '" data-id="' + g.id + '" role="button" tabindex="0" aria-pressed="' + (sel ? "true" : "false") + '">' +
+    return '<div class="kt-game-card' + (g.image ? "" : " no-img") + sel + '" data-id="' + g.id + '" role="button" tabindex="0" aria-pressed="' + (entry ? "true" : "false") + '">' +
       '<div class="kt-game-img">' + img +
         '<span class="kt-plat-badge kt-plat-' + g.platform + '">' + PLACE[g.platform] + '</span>' +
         '<span class="kt-select-tick" aria-hidden="true"><i class="bi bi-check-lg"></i></span>' +
+        tag +
       '</div>' +
       '<div class="kt-game-body">' +
         '<h5 title="' + g.name + '">' + g.name + '</h5>' +
@@ -115,53 +127,112 @@
   }
 
   /* ---------- ÇOKLU SEÇİM ---------- */
-  function toggleSelect(id, el) {
+  // Her seçim, seçildiği AN'daki moda göre etiketlenir:
+  //   mode "sell" = müşteri bizden alıyor  → Satış toplamına (ödediği) girer
+  //   mode "buy"  = müşteri bize veriyor    → Takas toplamına (aldığı) girer
+  function toggleSelect(id) {
     var g = state.byId[id];
     if (!g) return;
     if (state.selected[id]) {
       delete state.selected[id]; state.selCount--;
-      if (el) { el.classList.remove("is-selected"); el.setAttribute("aria-pressed", "false"); }
     } else {
-      state.selected[id] = g; state.selCount++;
-      if (el) { el.classList.add("is-selected"); el.setAttribute("aria-pressed", "true"); }
+      state.selected[id] = { g: g, mode: state.mode }; state.selCount++;
     }
+    refreshCard(id);
     updateBulk();
+  }
+
+  // Tek kartı yeniden çiz (etiket + seçim durumu güncellensin), klavye odağını koru.
+  function refreshCard(id) {
+    var el = grid.querySelector('.kt-game-card[data-id="' + id + '"]');
+    if (!el) return;
+    var hadFocus = document.activeElement === el;
+    el.outerHTML = card(state.byId[id]);
+    if (hadFocus) {
+      var nu = grid.querySelector('.kt-game-card[data-id="' + id + '"]');
+      if (nu) nu.focus();
+    }
   }
 
   function updateBulk() {
     var ids = Object.keys(state.selected);
-    var n = ids.length, sellSum = 0, buySum = 0;
+    var n = ids.length, sellSum = 0, buySum = 0, nSell = 0, nBuy = 0;
     ids.forEach(function (id) {
-      var g = state.selected[id];
-      if (typeof g.sell === "number") sellSum += g.sell;
-      if (typeof g.buy === "number") buySum += g.buy;
+      var e = state.selected[id], g = e.g;
+      if (e.mode === "sell") { nSell++; if (typeof g.sell === "number") sellSum += g.sell; }
+      else { nBuy++; if (typeof g.buy === "number") buySum += g.buy; }
     });
+
     bulkCount.textContent = n;
     bulkSell.textContent = sellSum.toLocaleString("tr-TR") + " ₺";
     bulkBuy.textContent = buySum.toLocaleString("tr-TR") + " ₺";
-    // aktif moda göre yalnızca ilgili toplamı göster
-    bulk.classList.toggle("kt-mode-sell", state.mode === "sell");
-    bulk.classList.toggle("kt-mode-buy", state.mode === "buy");
+    if (bulkSellLbl) bulkSellLbl.textContent = nSell ? ("Alıyorsun · " + nSell) : "Alıyorsun";
+    if (bulkBuyLbl)  bulkBuyLbl.textContent  = nBuy  ? ("Veriyorsun · " + nBuy) : "Veriyorsun";
+    if (bulkSellBox) bulkSellBox.classList.toggle("is-empty", nSell === 0);
+    if (bulkBuyBox)  bulkBuyBox.classList.toggle("is-empty", nBuy === 0);
+
+    // NET FARK — yalnızca her iki tarafta da seçim varsa göster
+    var net = sellSum - buySum;
+    if (bulkNet) {
+      if (nSell && nBuy) {
+        bulkNet.hidden = false;
+        if (net > 0) {
+          bulkNet.className = "kt-bulk-net is-pay";
+          bulkNetLbl.textContent = "Ödenecek fark";
+          bulkNetVal.textContent = net.toLocaleString("tr-TR") + " ₺";
+        } else if (net < 0) {
+          bulkNet.className = "kt-bulk-net is-credit";
+          bulkNetLbl.textContent = "Sana ödenecek";
+          bulkNetVal.textContent = Math.abs(net).toLocaleString("tr-TR") + " ₺";
+        } else {
+          bulkNet.className = "kt-bulk-net is-even";
+          bulkNetLbl.textContent = "Tam takas";
+          bulkNetVal.textContent = "Fark yok";
+        }
+      } else {
+        bulkNet.hidden = true;
+      }
+    }
+
     bulk.hidden = n === 0;
     document.body.classList.toggle("kt-has-bulk", n > 0);
 
-    var active = state.mode === "sell" ? "Satış" : "Takas";
-    var activeSum = state.mode === "sell" ? sellSum : buySum;
-    var lines = ids.map(function (id) {
-      var g = state.selected[id];
-      var v = state.mode === "sell" ? g.sell : g.buy;
-      return "• " + PLACE[g.platform] + " " + g.name + (typeof v === "number" ? " — " + active + " " + v.toLocaleString("tr-TR") + "₺" : "");
+    bulkWa.href = WA + "?text=" + encodeURIComponent(buildWaMsg(ids, sellSum, buySum, net, nSell, nBuy));
+  }
+
+  // WhatsApp mesajı: aldıkların + verdiklerin + net fark
+  function buildWaMsg(ids, sellSum, buySum, net, nSell, nBuy) {
+    var buy = [], give = [];
+    ids.forEach(function (id) {
+      var e = state.selected[id], g = e.g;
+      if (e.mode === "sell") {
+        buy.push("• " + PLACE[g.platform] + " " + g.name +
+          (typeof g.sell === "number" ? " — " + g.sell.toLocaleString("tr-TR") + "₺" : ""));
+      } else {
+        give.push("• " + PLACE[g.platform] + " " + g.name +
+          (typeof g.buy === "number" ? " — " + g.buy.toLocaleString("tr-TR") + "₺" : ""));
+      }
     });
-    var msg = "Merhaba, şu oyunlarla ilgileniyorum (" + active + "):\n" + lines.join("\n") +
-      "\n\n" + active + " toplam: " + activeSum.toLocaleString("tr-TR") + "₺";
-    bulkWa.href = WA + "?text=" + encodeURIComponent(msg);
+    var parts = ["Merhaba, takas hesabım:"];
+    if (buy.length) {
+      parts.push("\nALDIKLARIM (Satış):\n" + buy.join("\n") +
+        "\nSatış toplam: " + sellSum.toLocaleString("tr-TR") + "₺");
+    }
+    if (give.length) {
+      parts.push("\nVERDİKLERİM (Takas):\n" + give.join("\n") +
+        "\nTakas toplam: " + buySum.toLocaleString("tr-TR") + "₺");
+    }
+    if (nSell && nBuy) {
+      if (net > 0) parts.push("\nÖdenecek fark: " + net.toLocaleString("tr-TR") + "₺");
+      else if (net < 0) parts.push("\nBana ödenecek: " + Math.abs(net).toLocaleString("tr-TR") + "₺");
+      else parts.push("\nTam takas — fark yok.");
+    }
+    return parts.join("\n");
   }
 
   function clearSelection() {
     state.selected = Object.create(null); state.selCount = 0;
-    [].forEach.call(grid.querySelectorAll(".kt-game-card.is-selected"), function (el) {
-      el.classList.remove("is-selected"); el.setAttribute("aria-pressed", "false");
-    });
+    reRender();
     updateBulk();
   }
 
@@ -169,12 +240,12 @@
   grid.addEventListener("click", function (e) {
     if (e.target.closest(".kt-card-wa")) return;
     var c = e.target.closest(".kt-game-card");
-    if (c) toggleSelect(c.getAttribute("data-id"), c);
+    if (c) toggleSelect(c.getAttribute("data-id"));
   });
   grid.addEventListener("keydown", function (e) {
     if (e.key !== "Enter" && e.key !== " ") return;
     var c = e.target.closest(".kt-game-card");
-    if (c) { e.preventDefault(); toggleSelect(c.getAttribute("data-id"), c); }
+    if (c) { e.preventDefault(); toggleSelect(c.getAttribute("data-id")); }
   });
   if (bulkClear) bulkClear.addEventListener("click", clearSelection);
   if (modeEl) modeEl.addEventListener("click", function (e) {

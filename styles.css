@@ -2384,6 +2384,23 @@ select:focus-visible {
   background: rgba(0,168,255,.16); z-index: 1;
 }
 
+/* Takas (buy) modunda seçilen kart cyan vurguyla ayrışır */
+.kt-game-card.is-sel-buy { border-color: var(--kt-cyan); box-shadow: 0 0 0 2px var(--kt-cyan), 0 16px 40px rgba(0,0,0,.45); }
+.kt-game-card.is-sel-buy .kt-select-tick { background: var(--kt-cyan); border-color: var(--kt-cyan); color: #06121f; }
+.kt-game-card.is-sel-buy .kt-game-img::before { background: rgba(46,229,255,.16); }
+
+/* seçili kart etiketi: Alıyorsun / Veriyorsun */
+.kt-sel-tag {
+  position: absolute; left: 8px; bottom: 8px; z-index: 3;
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 4px 9px; border-radius: 8px;
+  font-size: 11px; font-weight: 800; letter-spacing: .2px;
+  color: #06121f; box-shadow: 0 4px 14px rgba(0,0,0,.4);
+}
+.kt-sel-tag i { font-size: 12px; }
+.kt-sel-tag-sell { background: var(--kt-blue-hi); }
+.kt-sel-tag-buy  { background: var(--kt-cyan); }
+
 /* kart alt satırı: Seç ipucu + tek oyun WA */
 .kt-card-foot {
   display: flex; align-items: center; justify-content: space-between;
@@ -2454,9 +2471,9 @@ body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
 @media (max-width: 640px) {
   .kt-bulk-inner { gap: 10px; padding: 12px 0; }
   .kt-bulk-info { gap: 12px; width: 100%; justify-content: space-between; }
-  .kt-bulk-totals { gap: 8px; }
-  .kt-bulk-tot { padding: 5px 10px; }
-  .kt-bulk-tot b { font-size: 15px; }
+  .kt-bulk-totals { gap: 8px; flex-wrap: wrap; }
+  .kt-bulk-tot, .kt-bulk-net { padding: 5px 10px; }
+  .kt-bulk-tot b, .kt-bulk-net b { font-size: 15px; }
   .kt-bulk-actions { width: 100%; }
   .kt-bulk-wa { flex: 1; justify-content: center; }
   body.kt-has-bulk { padding-bottom: 150px; }
@@ -2504,9 +2521,21 @@ body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
 .kt-price-single .kt-price { flex: 1; }
 .kt-price-single .kt-price b { font-size: 16px; }
 
-/* toplu çubukta moda göre yalnızca aktif toplam */
-.kt-bulkbar.kt-mode-sell .kt-bulk-buy { display: none; }
-.kt-bulkbar.kt-mode-buy  .kt-bulk-sell { display: none; }
+/* toplu çubukta her iki toplam + net fark aynı anda görünür */
+.kt-bulk-tot.is-empty { opacity: .4; }
+.kt-bulk-net {
+  display: flex; flex-direction: column; line-height: 1.15;
+  padding: 6px 14px; border-radius: 11px;
+  border: 1px dashed var(--kt-border-hi);
+}
+.kt-bulk-net span { font-size: 10.5px; font-weight: 600; color: var(--kt-muted); text-transform: uppercase; letter-spacing: .4px; }
+.kt-bulk-net b { font-size: 18px; font-weight: 900; }
+.kt-bulk-net.is-pay    { background: rgba(255,176,32,.12); border-color: rgba(255,176,32,.55); }
+.kt-bulk-net.is-pay b  { color: #FFB020; }
+.kt-bulk-net.is-credit { background: rgba(43,217,128,.12); border-color: rgba(43,217,128,.55); }
+.kt-bulk-net.is-credit b { color: #2BD980; }
+.kt-bulk-net.is-even   { background: rgba(143,163,199,.12); }
+.kt-bulk-net.is-even b { color: var(--kt-body); }
 
 @media (max-width: 575px) {
   .kt-mode-btn { padding: 10px 14px; font-size: 13.5px; }

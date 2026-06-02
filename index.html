@@ -44,7 +44,7 @@
 }
 </script>
 
-<link rel="stylesheet" href="styles.css?v=8">
+<link rel="stylesheet" href="styles.css?v=9">
 </head>
 
 <body>
@@ -220,8 +220,9 @@
     <div class="kt-bulk-info">
       <span class="kt-bulk-count"><i class="bi bi-controller"></i> <b id="ktBulkCount">0</b> oyun seçili</span>
       <div class="kt-bulk-totals">
-        <span class="kt-bulk-tot kt-bulk-sell"><span>Satış toplam</span><b id="ktBulkSell">0 ₺</b></span>
-        <span class="kt-bulk-tot kt-bulk-buy"><span>Takas toplam</span><b id="ktBulkBuy">0 ₺</b></span>
+        <span class="kt-bulk-tot kt-bulk-sell" id="ktBulkSellBox"><span id="ktBulkSellLbl">Alıyorsun</span><b id="ktBulkSell">0 ₺</b></span>
+        <span class="kt-bulk-tot kt-bulk-buy" id="ktBulkBuyBox"><span id="ktBulkBuyLbl">Veriyorsun</span><b id="ktBulkBuy">0 ₺</b></span>
+        <span class="kt-bulk-net" id="ktBulkNet" hidden><span id="ktBulkNetLbl">Ödenecek fark</span><b id="ktBulkNetVal">0 ₺</b></span>
       </div>
     </div>
     <div class="kt-bulk-actions">
@@ -237,6 +238,6 @@
 </a>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="app.js?v=8"></script>
+<script src="app.js?v=9"></script>
 </body>
 </html>
