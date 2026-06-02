@@ -2344,7 +2344,8 @@ select:focus-visible {
 .kt-loadmore:hover { background: var(--kt-surface2); border-color: var(--kt-blue-hi); }
 
 @media (max-width: 575px) {
-  .kt-game-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+  /* taşma-imkansız 2 sütun (minmax 0 → asla viewport'u aşmaz) */
+  .kt-game-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
   .kt-tabs { width: 100%; }
   .kt-tab { flex: 1; padding: 0 10px; height: 48px; font-size: 13px; }
   .kt-takas-meta { justify-content: center; text-align: center; }
