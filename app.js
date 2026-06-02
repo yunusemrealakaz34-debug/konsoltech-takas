@@ -42,6 +42,7 @@
   }
   function priceOf(g) { return state.mode === "sell" ? g.sell : g.buy; }
   function modeLabel() { return state.mode === "sell" ? "Satış" : "Takas"; }
+  function selKey(mode, id) { return mode + "|" + id; }
 
   function waSingle(g) {
     var v = priceOf(g);
@@ -52,8 +53,9 @@
   }
 
   function card(g) {
-    var entry = state.selected[g.id];
-    var sel = entry ? " is-selected is-sel-" + entry.mode : "";
+    // seçim aktif moda göredir: Satış'ta seçili olmak, Takas'ta seçili olmak anlamına gelmez
+    var entry = state.selected[selKey(state.mode, g.id)];
+    var sel = entry ? " is-selected is-sel-" + state.mode : "";
     var img = g.image
       ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" decoding="async" onerror="this.parentNode.classList.add(\'no-img\')">'
       : "";
@@ -63,8 +65,8 @@
       ? '<div class="kt-price ' + cls + '"><span>' + modeLabel() + '</span><b>' + fmt(v) + '</b></div>'
       : '<div class="kt-price kt-price-ask"><span>' + modeLabel() + '</span><b>Sor</b></div>';
     var tag = entry
-      ? '<span class="kt-sel-tag kt-sel-tag-' + entry.mode + '">' +
-          (entry.mode === "sell"
+      ? '<span class="kt-sel-tag kt-sel-tag-' + state.mode + '">' +
+          (state.mode === "sell"
             ? '<i class="bi bi-bag-check-fill"></i> Alıyorsun'
             : '<i class="bi bi-arrow-left-right"></i> Veriyorsun') +
         '</span>'
@@ -133,10 +135,11 @@
   function toggleSelect(id) {
     var g = state.byId[id];
     if (!g) return;
-    if (state.selected[id]) {
-      delete state.selected[id]; state.selCount--;
+    var key = selKey(state.mode, id);
+    if (state.selected[key]) {
+      delete state.selected[key]; state.selCount--;
     } else {
-      state.selected[id] = { g: g, mode: state.mode }; state.selCount++;
+      state.selected[key] = { g: g, mode: state.mode }; state.selCount++;
     }
     refreshCard(id);
     updateBulk();
@@ -155,10 +158,10 @@
   }
 
   function updateBulk() {
-    var ids = Object.keys(state.selected);
-    var n = ids.length, sellSum = 0, buySum = 0, nSell = 0, nBuy = 0;
-    ids.forEach(function (id) {
-      var e = state.selected[id], g = e.g;
+    var keys = Object.keys(state.selected);
+    var n = keys.length, sellSum = 0, buySum = 0, nSell = 0, nBuy = 0;
+    keys.forEach(function (k) {
+      var e = state.selected[k], g = e.g;
       if (e.mode === "sell") { nSell++; if (typeof g.sell === "number") sellSum += g.sell; }
       else { nBuy++; if (typeof g.buy === "number") buySum += g.buy; }
     });
@@ -197,14 +200,14 @@
     bulk.hidden = n === 0;
     document.body.classList.toggle("kt-has-bulk", n > 0);
 
-    bulkWa.href = WA + "?text=" + encodeURIComponent(buildWaMsg(ids, sellSum, buySum, net, nSell, nBuy));
+    bulkWa.href = WA + "?text=" + encodeURIComponent(buildWaMsg(keys, sellSum, buySum, net, nSell, nBuy));
   }
 
   // WhatsApp mesajı: aldıkların + verdiklerin + net fark
-  function buildWaMsg(ids, sellSum, buySum, net, nSell, nBuy) {
+  function buildWaMsg(keys, sellSum, buySum, net, nSell, nBuy) {
     var buy = [], give = [];
-    ids.forEach(function (id) {
-      var e = state.selected[id], g = e.g;
+    keys.forEach(function (k) {
+      var e = state.selected[k], g = e.g;
       if (e.mode === "sell") {
         buy.push("• " + PLACE[g.platform] + " " + g.name +
           (typeof g.sell === "number" ? " — " + g.sell.toLocaleString("tr-TR") + "₺" : ""));
