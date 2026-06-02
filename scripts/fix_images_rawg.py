@@ -35,6 +35,13 @@ SUFFIX = ["Türkçe Dublaj", "Türkçe Spiker", "Türkçe", "Turkçe", "TÜRKÇE
           "VR Uyumlu", "Eski", "Yeni"]
 
 
+def small(url):
+    """RAWG tam-boyut görselini hafif resize CDN sürümüne çevir (~220KB→~20KB)."""
+    if url and "media.rawg.io/media/" in url and "/resize/" not in url:
+        return url.replace("/media/", "/media/resize/420/-/", 1)
+    return url
+
+
 def query_of(name):
     n = name
     for j in SUFFIX:
@@ -91,7 +98,7 @@ def best_cover(name, platform):
         if s > best_s and it.get("background_image"):
             best, best_s = it, s
     if best and best_s >= 0.72:
-        return best["background_image"], best_s
+        return small(best["background_image"]), best_s
     return None, best_s
 
 

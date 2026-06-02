@@ -51,7 +51,7 @@
   function card(g) {
     var sel = state.selected[g.id] ? " is-selected" : "";
     var img = g.image
-      ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" onerror="this.parentNode.classList.add(\'no-img\')">'
+      ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" decoding="async" onerror="this.parentNode.classList.add(\'no-img\')">'
       : "";
     var v = priceOf(g);
     var cls = state.mode === "sell" ? "kt-price-sell" : "kt-price-buy";

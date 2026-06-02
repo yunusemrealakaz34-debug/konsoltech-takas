@@ -61,7 +61,10 @@ def fetch_cover(name, platform):
             data = json.loads(r.read().decode("utf-8"))
         results = data.get("results") or []
         if results:
-            return results[0].get("background_image")
+            u = results[0].get("background_image")
+            if u and "media.rawg.io/media/" in u and "/resize/" not in u:
+                u = u.replace("/media/", "/media/resize/420/-/", 1)  # hafif sürüm
+            return u
     except Exception as e:
         print(f"   ! {name}: {e}", file=sys.stderr)
     return None
