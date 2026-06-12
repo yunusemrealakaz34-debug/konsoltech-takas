@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-01 13:31",
+ "updatedAt": "2026-06-12 05:20",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -7,12 +7,12 @@
   "switch2": "Nintendo Switch 2"
  },
  "counts": {
-  "ps4": 459,
-  "ps5": 276,
-  "switch1": 118,
+  "ps4": 466,
+  "ps5": 280,
+  "switch1": 121,
   "switch2": 21
  },
- "total": 874,
+ "total": 888,
  "games": [
   {
    "id": "ps4-7-days-to-die",
@@ -31,11 +31,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/473/473bd9a5e9522629d6cb28b701fb836a.jpg"
   },
   {
+   "id": "ps4-ace-combat-7",
+   "name": "Ace Combat 7",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 600,
+   "image": "https://media.rawg.io/media/resize/420/-/games/c28/c2802dffd26db3d5af8244044fa1e78c.jpg"
+  },
+  {
    "id": "ps4-ace-combat-7-vr-uyumlu",
    "name": "Ace Combat 7 Vr Uyumlu",
    "platform": "ps4",
    "sell": 999,
-   "buy": 600,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/c28/c2802dffd26db3d5af8244044fa1e78c.jpg"
   },
   {
@@ -287,6 +295,14 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/abd/abd7b98d0ebe13e7e8f2b3bb8300bc0b.jpg"
   },
   {
+   "id": "ps4-bloodborne-goty-turkce",
+   "name": "Bloodborne GOTY TÜRKÇE",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 700,
+   "image": "https://media.rawg.io/media/resize/420/-/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
+  },
+  {
    "id": "ps4-bloodborne-turkce",
    "name": "Bloodborne Türkçe",
    "platform": "ps4",
@@ -299,7 +315,7 @@
    "name": "Bloodborne Türkçe GOTY",
    "platform": "ps4",
    "sell": 1199,
-   "buy": 700,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
   },
   {
@@ -1311,11 +1327,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/3f6/3f6a04b856f23310d3c2f5be8c5963f7.jpg"
   },
   {
+   "id": "ps4-gran-turismo-sport",
+   "name": "Gran Turismo Sport",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 500,
+   "image": "https://media.rawg.io/media/resize/420/-/games/e98/e989eb7026737bbb7bd386c1d16a5735.jpg"
+  },
+  {
    "id": "ps4-gran-turismo-sport-vr-turkce",
    "name": "Gran Turismo Sport VR Türkçe",
    "platform": "ps4",
    "sell": 799,
-   "buy": 500,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/e98/e989eb7026737bbb7bd386c1d16a5735.jpg"
   },
   {
@@ -1411,7 +1435,7 @@
    "name": "Hitman 3",
    "platform": "ps4",
    "sell": 1299,
-   "buy": 780,
+   "buy": 1300,
    "image": "https://media.rawg.io/media/resize/420/-/games/126/126fbd5ceacddc6ad16fc96e50b1265b.jpg"
   },
   {
@@ -1511,11 +1535,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg"
   },
   {
+   "id": "ps4-journey-collector-s-edition",
+   "name": "Journey Collector's Edition",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 500,
+   "image": "https://media.rawg.io/media/resize/420/-/screenshots/e78/e7892a28e3eb05f6798b02406d5e12c0.jpg"
+  },
+  {
    "id": "ps4-journey-collector-s-edition-turkce",
    "name": "Journey Collector's Edition Türkçe",
    "platform": "ps4",
    "sell": 899,
-   "buy": 500,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/baf/baf9905270314e07e6850cffdb51df41.jpg"
   },
   {
@@ -1547,7 +1579,7 @@
    "name": "Just Cause 3",
    "platform": "ps4",
    "sell": 499,
-   "buy": 300,
+   "buy": 500,
    "image": "https://media.rawg.io/media/resize/420/-/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg"
   },
   {
@@ -2319,11 +2351,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/3ac/3ac2b5356ad764a87092d15cdcbee809.jpg"
   },
   {
+   "id": "ps4-nioh",
+   "name": "Nioh",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 150,
+   "image": "https://media.rawg.io/media/resize/420/-/games/f84/f84c7c45e074117fb81fecf427f8b41f.jpg"
+  },
+  {
    "id": "ps4-nioh-1",
    "name": "Nioh 1",
    "platform": "ps4",
    "sell": 299,
-   "buy": 150,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/f84/f84c7c45e074117fb81fecf427f8b41f.jpg"
   },
   {
@@ -3227,7 +3267,7 @@
    "name": "The Witcher 3",
    "platform": "ps4",
    "sell": 899,
-   "buy": 500,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
   },
   {
@@ -3237,6 +3277,14 @@
    "sell": 1199,
    "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+  },
+  {
+   "id": "ps4-the-witcher-3-wild-hunt",
+   "name": "The Witcher 3 Wild Hunt",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 500,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg"
   },
   {
    "id": "ps4-thief",
@@ -3375,11 +3423,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/589/589fc47c5ae34160d65c4682e21fed66.jpg"
   },
   {
+   "id": "ps4-until-dawn",
+   "name": "Until Dawn",
+   "platform": "ps4",
+   "sell": null,
+   "buy": 600,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2172010/library_600x900.jpg"
+  },
+  {
    "id": "ps4-until-dawn-turkce",
    "name": "Until Dawn Türkçe",
    "platform": "ps4",
    "sell": 999,
-   "buy": 600,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/d64/d6443375f9971152866ea76bff97d6d6.jpg"
   },
   {
@@ -3719,11 +3775,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/685/685812b147f42b08e94391defa972898.jpg"
   },
   {
+   "id": "ps5-alien-fireteam-elite",
+   "name": "Alien Fireteam Elite",
+   "platform": "ps5",
+   "sell": null,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1549970/library_600x900.jpg"
+  },
+  {
    "id": "ps5-aliens-fireteam-elite",
    "name": "Aliens Fireteam Elite",
    "platform": "ps5",
    "sell": 1499,
-   "buy": 900,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/bb8/bb8a1de04cf151b55bcb9b5a38ba9a0b.jpg"
   },
   {
@@ -4247,12 +4311,12 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/3cb/3cbf69d79420191a2255ffe6a580889e.jpg"
   },
   {
-   "id": "ps5-farming-simulator-22",
-   "name": "Farming Simulator 22",
+   "id": "ps5-famring-simulator-22",
+   "name": "Famring Simulator 22",
    "platform": "ps5",
    "sell": 1299,
-   "buy": 800,
-   "image": "https://media.rawg.io/media/resize/420/-/games/dd9/dd90964966f6bf9b0bd635be432fbf8a.jpg"
+   "buy": null,
+   "image": "https://media.rawg.io/media/resize/420/-/games/3cb/3cbf69d79420191a2255ffe6a580889e.jpg"
   },
   {
    "id": "ps5-far-cry-6",
@@ -4261,6 +4325,14 @@
    "sell": 1199,
    "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/games/5dd/5dd4d2dd986d2826800bc37fff64aa4f.jpg"
+  },
+  {
+   "id": "ps5-farming-simulator-22",
+   "name": "Farming Simulator 22",
+   "platform": "ps5",
+   "sell": null,
+   "buy": 800,
+   "image": "https://media.rawg.io/media/resize/420/-/games/dd9/dd90964966f6bf9b0bd635be432fbf8a.jpg"
   },
   {
    "id": "ps5-farming-simulator-25",
@@ -4399,11 +4471,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/213/213248f2ede0b914431446123b291cc0.jpg"
   },
   {
+   "id": "ps5-ghost-of-tsushima-director-s-cut",
+   "name": "Ghost Of Tsushima Director's Cut",
+   "platform": "ps5",
+   "sell": null,
+   "buy": 1200,
+   "image": "https://media.rawg.io/media/resize/420/-/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg"
+  },
+  {
    "id": "ps5-ghost-of-tsushima-director-s-cut-turkce",
    "name": "Ghost Of Tsushima Director's Cut Türkçe",
    "platform": "ps5",
    "sell": 1799,
-   "buy": 1200,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg"
   },
   {
@@ -4882,9 +4962,17 @@
    "id": "ps5-metro-exodus-complete-edition",
    "name": "Metro Exodus Complete Edition",
    "platform": "ps5",
-   "sell": 1199,
+   "sell": null,
    "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/games/152/152e788b7504aa2753c86dae912fb34c.jpg"
+  },
+  {
+   "id": "ps5-metro-exodus-complette-edition",
+   "name": "Metro Exodus Complette Edition",
+   "platform": "ps5",
+   "sell": 1199,
+   "buy": null,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/412020/library_600x900.jpg"
   },
   {
    "id": "ps5-minecraft",
@@ -5907,6 +5995,14 @@
    "name": "Animal Crossing New Horizons",
    "platform": "switch1",
    "sell": 1799,
+   "buy": null,
+   "image": "https://media.rawg.io/media/resize/420/-/games/42f/42fe1abd4d7c11ca92d93a0fb0f8662b.jpg"
+  },
+  {
+   "id": "switch1-animal-crosssing-new-horizons",
+   "name": "Animal Crosssing New Horizons",
+   "platform": "switch1",
+   "sell": null,
    "buy": 1200,
    "image": "https://media.rawg.io/media/resize/420/-/games/42f/42fe1abd4d7c11ca92d93a0fb0f8662b.jpg"
   },
@@ -6007,11 +6103,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/47b/47b50d880be8453bf9cda6e5c007bc26.jpg"
   },
   {
+   "id": "switch1-dragon-quest-builders",
+   "name": "Dragon Quest Builders",
+   "platform": "switch1",
+   "sell": null,
+   "buy": 900,
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2436570/library_600x900.jpg"
+  },
+  {
    "id": "switch1-dragon-quest-builders-1",
    "name": "Dragon Quest Builders 1",
    "platform": "switch1",
    "sell": 1499,
-   "buy": 900,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/782/782e85426ac03b6f9c2d38f37b31b060.jpg"
   },
   {
@@ -6479,11 +6583,19 @@
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/967/967d912c7ae0a728bd2f78bce076eb9c.jpg"
   },
   {
+   "id": "switch1-olympic-games-the-official-video-games",
+   "name": "Olympic Games The Official Video Games",
+   "platform": "switch1",
+   "sell": null,
+   "buy": 900,
+   "image": "https://media.rawg.io/media/resize/420/-/games/de5/de57139d20bf7ec96148726693d79057.jpg"
+  },
+  {
    "id": "switch1-olympic-games-tokyo-2020",
    "name": "Olympic Games Tokyo 2020",
    "platform": "switch1",
    "sell": 1699,
-   "buy": 900,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/de5/de57139d20bf7ec96148726693d79057.jpg"
   },
   {

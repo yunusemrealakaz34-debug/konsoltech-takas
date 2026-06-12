@@ -1,0 +1,34 @@
+KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
+Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
+============================================================
+
+## PS5 — sitede 280 oyun, bizde olmayan 0:
+  (hepsi listede ✓)
+
+## SWITCH1 — sitede 121 oyun, bizde olmayan 0:
+  (hepsi listede ✓)
+
+## SWITCH2 — sitede 21 oyun, bizde olmayan 0:
+  (hepsi listede ✓)
+
+## PS4 — sitede 486 oyun, bizde olmayan 20:
+  - Among Us Crewmate Edition
+  - Assassin's Creed IV black Flag
+  - Assassin's Creed Odysses
+  - Assassin's Creed Rouge
+  - Assassins Creed Mirage
+  - Asseetto Corsa
+  - Dragon Ball Xenoverse
+  - Hello Neighbor Hide & Seek
+  - LittleBigPlanet 3
+  - MafiaTrilogy
+  - Naruto Shippuden Ultimate Ninja Strom
+  - Naruto Trilogy
+  - Pes 2021 Türkçe
+  - Rabbids İnvasion
+  - Spider-Man 2 The Amazing
+  - Spider-Man Miles Morales
+  - The Outher Worlds
+  - Watch Dogs
+  - Wipeout Omega Colletion
+  - Zombie
