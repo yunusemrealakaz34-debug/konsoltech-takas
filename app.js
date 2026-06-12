@@ -57,7 +57,7 @@
     var entry = state.selected[selKey(state.mode, g.id)];
     var sel = entry ? " is-selected is-sel-" + state.mode : "";
     var img = g.image
-      ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" decoding="async" onerror="this.parentNode.classList.add(\'no-img\')">'
+      ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" decoding="async" width="420" height="236">'
       : "";
     var v = priceOf(g);
     var cls = state.mode === "sell" ? "kt-price-sell" : "kt-price-buy";
@@ -240,6 +240,15 @@
   }
 
   /* ---------- olaylar ---------- */
+  // Kapak yüklenemezse kartı no-img'e çevir (error bubble etmez, capture ile yakala)
+  grid.addEventListener("error", function (e) {
+    var t = e.target;
+    if (!t || t.tagName !== "IMG") return;
+    var c = t.closest(".kt-game-card");
+    if (c) c.classList.add("no-img");
+    t.remove();
+  }, true);
+
   grid.addEventListener("click", function (e) {
     if (e.target.closest(".kt-card-wa")) return;
     var c = e.target.closest(".kt-game-card");
