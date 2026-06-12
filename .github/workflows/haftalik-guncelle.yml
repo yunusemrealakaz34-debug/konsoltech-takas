@@ -25,10 +25,14 @@ jobs:
         run: python3 scripts/enrich_images_steam.py || true
 
       - name: Kapakları tamamla — RAWG (anahtar varsa)
-        if: ${{ secrets.RAWG_KEY != '' }}
         env:
           RAWG_KEY: ${{ secrets.RAWG_KEY }}
-        run: python3 scripts/enrich_images.py || true
+        run: |
+          if [ -n "$RAWG_KEY" ]; then
+            python3 scripts/enrich_images.py || true
+          else
+            echo "RAWG_KEY yok, atlanıyor."
+          fi
 
       - name: oyunmerkezi'nde yeni oyunları tara
         run: python3 scripts/check_new_games.py || true
