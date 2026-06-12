@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-12 08:26",
+ "updatedAt": "2026-06-12 23:55",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -3986,8 +3986,8 @@
    "id": "ps5-crimson-desert",
    "name": "Crimson Desert",
    "platform": "ps5",
-   "sell": 3799,
-   "buy": 3000,
+   "sell": 3299,
+   "buy": 2500,
    "image": "https://media.rawg.io/media/resize/420/-/games/dac/dacfcdeaef957a36416f4e6d5ec76229.jpg"
   },
   {
@@ -4274,8 +4274,8 @@
    "id": "ps5-fatal-frame-2-crimson-butterfly-remake",
    "name": "Fatal Frame 2 Crimson Butterfly Remake",
    "platform": "ps5",
-   "sell": 3499,
-   "buy": 2800,
+   "sell": 2999,
+   "buy": 2200,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/78d/78d5b7d94ade9903af80ba870d22cae9.jpg"
   },
   {
@@ -4858,15 +4858,15 @@
    "id": "ps5-metal-gear-solid-delta-snake-eater",
    "name": "Metal Gear Solid Delta : Snake Eater",
    "platform": "ps5",
-   "sell": 2499,
-   "buy": 2000,
+   "sell": 2299,
+   "buy": 1700,
    "image": "https://media.rawg.io/media/resize/420/-/games/1c0/1c0548b761f7c4e4c0da71172b3362bf.jpg"
   },
   {
    "id": "ps5-metal-gear-solid-master-collection",
    "name": "Metal Gear Solid Master Collection",
    "platform": "ps5",
-   "sell": 2799,
+   "sell": 2499,
    "buy": 2000,
    "image": "https://media.rawg.io/media/resize/420/-/games/565/565f65a11d90cc883f7b815a29eb7f02.jpg"
   },
@@ -5082,8 +5082,8 @@
    "id": "ps5-nioh-3",
    "name": "Nioh 3",
    "platform": "ps5",
-   "sell": 2899,
-   "buy": 2300,
+   "sell": 2499,
+   "buy": 2000,
    "image": "https://media.rawg.io/media/resize/420/-/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg"
   },
   {
@@ -5178,8 +5178,8 @@
    "id": "ps5-pragmata",
    "name": "Pragmata",
    "platform": "ps5",
-   "sell": 3499,
-   "buy": 2800,
+   "sell": 2999,
+   "buy": 2200,
    "image": "https://media.rawg.io/media/resize/420/-/games/9b2/9b20adbf00491d56ad6793654067f2fd.jpg"
   },
   {
@@ -5274,8 +5274,8 @@
    "id": "ps5-resident-evil-requiem",
    "name": "Resident Evil Requiem",
    "platform": "ps5",
-   "sell": 3499,
-   "buy": 2700,
+   "sell": 3199,
+   "buy": 2400,
    "image": "https://media.rawg.io/media/resize/420/-/games/ed6/ed613937e113a4d43fa0db771e527a2f.jpg"
   },
   {
@@ -5386,8 +5386,8 @@
    "id": "ps5-saros",
    "name": "Saros",
    "platform": "ps5",
-   "sell": 3999,
-   "buy": 3200,
+   "sell": 3299,
+   "buy": 2500,
    "image": "https://media.rawg.io/media/resize/420/-/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg"
   },
   {
