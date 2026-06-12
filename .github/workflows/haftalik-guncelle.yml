@@ -37,11 +37,14 @@ jobs:
       - name: oyunmerkezi'nde yeni oyunları tara
         run: python3 scripts/check_new_games.py || true
 
+      - name: Fiyat sapması / zarar riski tara
+        run: python3 scripts/check_prices.py || true
+
       - name: Commit & push
         run: |
           git config user.name "KonsolTech Bot"
           git config user.email "bot@konsoltech.tr"
-          git add data/games.json data/yeni-oyunlar.txt
+          git add data/games.json data/yeni-oyunlar.txt data/fiyat-uyari.txt
           if git diff --staged --quiet; then
             echo "Değişiklik yok."
           else

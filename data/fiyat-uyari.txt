@@ -1,0 +1,13 @@
+KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
+
+## ÇEKİLEMEDİ (URL/yapı değişmiş olabilir)
+  ps5: https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama
+
+## RİSK-1 — ZARAR: alışımız rakibin satışının üstünde (0)
+  yok ✓
+
+## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (0)
+  yok ✓
+
+## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (0)
+  yok ✓
