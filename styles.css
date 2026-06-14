@@ -2462,6 +2462,14 @@ select:focus-visible {
   transition: all .15s;
 }
 .kt-bulk-clear:hover { background: var(--kt-surface2); color: #fff; }
+.kt-bulk-view {
+  background: transparent; border: 1px solid rgba(46,229,255,.35);
+  color: var(--kt-cyan); font-weight: 700; font-size: 14px;
+  padding: 12px 18px; border-radius: 12px; cursor: pointer;
+  transition: all .15s; white-space: nowrap;
+}
+.kt-bulk-view:hover { background: rgba(46,229,255,.12); }
+.kt-bulk-view.is-active { background: var(--kt-cyan); color: #0a0f1e; border-color: var(--kt-cyan); }
 .kt-bulk-wa { margin: 0 !important; }
 
 /* çubuk açıkken içerik altına boşluk + WA butonu yukarı */
@@ -2474,7 +2482,8 @@ body.kt-has-bulk .kt-whatsapp { bottom: 104px; }
   .kt-bulk-totals { gap: 8px; flex-wrap: wrap; }
   .kt-bulk-tot, .kt-bulk-net { padding: 5px 10px; }
   .kt-bulk-tot b, .kt-bulk-net b { font-size: 15px; }
-  .kt-bulk-actions { width: 100%; }
+  .kt-bulk-actions { width: 100%; flex-wrap: wrap; }
+  .kt-bulk-view { flex: 1; }
   .kt-bulk-wa { flex: 1; justify-content: center; }
   body.kt-has-bulk { padding-bottom: 150px; }
   body.kt-has-bulk .kt-whatsapp { bottom: 164px; }

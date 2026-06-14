@@ -10,7 +10,8 @@
     all: [], filtered: [], byId: Object.create(null),
     platform: "all", query: "", shown: 0, labels: {},
     mode: "sell",                      // "sell" = Satış, "buy" = Takas
-    selected: Object.create(null), selCount: 0
+    selected: Object.create(null), selCount: 0,
+    showOnlySel: false
   };
 
   var $ = function (s) { return document.querySelector(s); };
@@ -19,7 +20,8 @@
       tabs = $("#ktTabs"), modeEl = $("#ktMode"), legendEl = $("#ktLegend");
   var bulk = $("#ktBulk"), bulkCount = $("#ktBulkCount"),
       bulkSell = $("#ktBulkSell"), bulkBuy = $("#ktBulkBuy"),
-      bulkWa = $("#ktBulkWa"), bulkClear = $("#ktBulkClear");
+      bulkWa = $("#ktBulkWa"), bulkClear = $("#ktBulkClear"),
+      bulkView = $("#ktBulkView");
   var bulkSellBox = $("#ktBulkSellBox"), bulkBuyBox = $("#ktBulkBuyBox"),
       bulkSellLbl = $("#ktBulkSellLbl"), bulkBuyLbl = $("#ktBulkBuyLbl"),
       bulkNet = $("#ktBulkNet"), bulkNetLbl = $("#ktBulkNetLbl"), bulkNetVal = $("#ktBulkNetVal");
@@ -90,15 +92,22 @@
 
   function applyFilter() {
     var q = normalize(state.query);
-    state.filtered = state.all.filter(function (g) {
-      if (state.platform !== "all" && g.platform !== state.platform) return false;
-      if (q && g._n.indexOf(q) === -1) return false;
-      return true;
-    });
+    if (state.showOnlySel) {
+      state.filtered = state.all.filter(function (g) {
+        return state.selected[selKey("sell", g.id)] || state.selected[selKey("buy", g.id)];
+      });
+      countEl.textContent = state.filtered.length.toLocaleString("tr-TR") + " seçili oyun";
+    } else {
+      state.filtered = state.all.filter(function (g) {
+        if (state.platform !== "all" && g.platform !== state.platform) return false;
+        if (q && g._n.indexOf(q) === -1) return false;
+        return true;
+      });
+      countEl.textContent = state.filtered.length.toLocaleString("tr-TR") + " oyun listeleniyor";
+    }
     state.shown = 0;
     grid.innerHTML = "";
     render();
-    countEl.textContent = state.filtered.length.toLocaleString("tr-TR") + " oyun listeleniyor";
     empty.hidden = state.filtered.length !== 0;
     grid.hidden = state.filtered.length === 0;
   }
@@ -141,8 +150,13 @@
     } else {
       state.selected[key] = { g: g, mode: state.mode }; state.selCount++;
     }
-    refreshCard(id);
+    var wasFiltered = state.showOnlySel;
     updateBulk();
+    if (wasFiltered) {
+      applyFilter();
+    } else {
+      refreshCard(id);
+    }
   }
 
   // Tek kartı yeniden çiz (etiket + seçim durumu güncellensin), klavye odağını koru.
@@ -197,6 +211,10 @@
       }
     }
 
+    if (n === 0 && state.showOnlySel) {
+      state.showOnlySel = false;
+      if (bulkView) { bulkView.classList.remove("is-active"); bulkView.innerHTML = '<i class="bi bi-check2-square"></i> Seçilenleri Gör'; }
+    }
     bulk.hidden = n === 0;
     document.body.classList.toggle("kt-has-bulk", n > 0);
 
@@ -235,8 +253,19 @@
 
   function clearSelection() {
     state.selected = Object.create(null); state.selCount = 0;
-    reRender();
+    state.showOnlySel = false;
+    if (bulkView) { bulkView.classList.remove("is-active"); bulkView.innerHTML = '<i class="bi bi-check2-square"></i> Seçilenleri Gör'; }
+    applyFilter();
     updateBulk();
+  }
+
+  function toggleView() {
+    state.showOnlySel = !state.showOnlySel;
+    bulkView.classList.toggle("is-active", state.showOnlySel);
+    bulkView.innerHTML = state.showOnlySel
+      ? '<i class="bi bi-grid-3x3-gap-fill"></i> Tümünü Gör'
+      : '<i class="bi bi-check2-square"></i> Seçilenleri Gör';
+    applyFilter();
   }
 
   /* ---------- olaylar ---------- */
@@ -260,6 +289,7 @@
     if (c) { e.preventDefault(); toggleSelect(c.getAttribute("data-id")); }
   });
   if (bulkClear) bulkClear.addEventListener("click", clearSelection);
+  if (bulkView) bulkView.addEventListener("click", toggleView);
   if (modeEl) modeEl.addEventListener("click", function (e) {
     var b = e.target.closest(".kt-mode-btn");
     if (b) setMode(b.dataset.mode);
