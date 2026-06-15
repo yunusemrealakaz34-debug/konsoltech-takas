@@ -2,33 +2,45 @@ KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
 Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
 ============================================================
 
-## PS5 — sitede 280 oyun, bizde olmayan 0:
-  (hepsi listede ✓)
+## PS5 — sitede 280 oyun, bizde olmayan 4:
+  - Alien Fireteam Elite
+  - Famring Simulator 22
+  - Ghost Of Tsushima Director's Cut
+  - Metro Exodus Complette Edition
 
-## SWITCH1 — sitede 121 oyun, bizde olmayan 0:
-  (hepsi listede ✓)
+## SWITCH1 — sitede 121 oyun, bizde olmayan 3:
+  - Animal Crosssing New Horizons
+  - Dragon Quest Builders
+  - Olympic Games The Official Video Games
 
 ## SWITCH2 — sitede 21 oyun, bizde olmayan 0:
   (hepsi listede ✓)
 
-## PS4 — sitede 486 oyun, bizde olmayan 20:
+## PS4 — sitede 486 oyun, bizde olmayan 27:
+  - Ace Combat 7
   - Among Us Crewmate Edition
   - Assassin's Creed IV black Flag
   - Assassin's Creed Odysses
   - Assassin's Creed Rouge
   - Assassins Creed Mirage
   - Asseetto Corsa
+  - Bloodborne GOTY TÜRKÇE
   - Dragon Ball Xenoverse
+  - Gran Turismo Sport
   - Hello Neighbor Hide & Seek
+  - Journey Collector's Edition
   - LittleBigPlanet 3
   - MafiaTrilogy
   - Naruto Shippuden Ultimate Ninja Strom
   - Naruto Trilogy
+  - Nioh
   - Pes 2021 Türkçe
   - Rabbids İnvasion
   - Spider-Man 2 The Amazing
   - Spider-Man Miles Morales
   - The Outher Worlds
+  - The Witcher 3 Wild Hunt
+  - Until Dawn
   - Watch Dogs
   - Wipeout Omega Colletion
   - Zombie
