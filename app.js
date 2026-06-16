@@ -45,7 +45,10 @@
   }
   function priceOf(g) {
     var s = state.stok[g.id];
-    if (s) return state.mode === "sell" ? s.satis : s.alis;  // stoktaki oyun: TM fiyatı (hibrit)
+    if (s) {
+      var tm = state.mode === "sell" ? s.satis : s.alis;
+      if (tm > 0) return tm;  // stoktaki oyun: TM fiyatı (0/girilmemişse games.json'a düş)
+    }
     return state.mode === "sell" ? g.sell : g.buy;
   }
   function modeLabel() { return state.mode === "sell" ? "Satış" : "Takas"; }
