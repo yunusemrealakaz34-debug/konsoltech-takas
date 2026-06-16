@@ -70,7 +70,7 @@
       ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" decoding="async" width="420" height="236">'
       : "";
     var v = priceOf(g);
-    var stokVar = state.stok[g.id] && state.stok[g.id].stokta;
+    var stokVar = state.mode === "sell" && state.stok[g.id] && state.stok[g.id].stokta;  // sadece Satış modunda
     var stokRozet = stokVar ? '<span class="kt-stok-badge">✅ Stokta</span>' : '';
     var cls = state.mode === "sell" ? "kt-price-sell" : "kt-price-buy";
     var price = (v != null)
