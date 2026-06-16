@@ -11,7 +11,8 @@
     platform: "all", query: "", shown: 0, labels: {},
     mode: "sell",                      // "sell" = Satış, "buy" = Takas
     selected: Object.create(null), selCount: 0,
-    showOnlySel: false
+    showOnlySel: false,
+    stok: Object.create(null)          // TM canlı stok durumu: games_id -> {stokta, alis, satis}
   };
 
   var $ = function (s) { return document.querySelector(s); };
@@ -42,7 +43,11 @@
       .replace(/ğ/g, "g").replace(/ü/g, "u").replace(/ö/g, "o").replace(/ç/g, "c")
       .replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ").trim();
   }
-  function priceOf(g) { return state.mode === "sell" ? g.sell : g.buy; }
+  function priceOf(g) {
+    var s = state.stok[g.id];
+    if (s) return state.mode === "sell" ? s.satis : s.alis;  // stoktaki oyun: TM fiyatı (hibrit)
+    return state.mode === "sell" ? g.sell : g.buy;
+  }
   function modeLabel() { return state.mode === "sell" ? "Satış" : "Takas"; }
   function selKey(mode, id) { return mode + "|" + id; }
 
@@ -62,6 +67,8 @@
       ? '<img src="' + g.image + '" alt="' + g.name + '" loading="lazy" decoding="async" width="420" height="236">'
       : "";
     var v = priceOf(g);
+    var stokVar = state.stok[g.id] && state.stok[g.id].stokta;
+    var stokRozet = stokVar ? '<span class="kt-stok-badge">✅ Stokta</span>' : '';
     var cls = state.mode === "sell" ? "kt-price-sell" : "kt-price-buy";
     var price = (v != null)
       ? '<div class="kt-price ' + cls + '"><span>' + modeLabel() + '</span><b>' + fmt(v) + '</b></div>'
@@ -77,6 +84,7 @@
     return '<div class="kt-game-card' + (g.image ? "" : " no-img") + sel + '" data-id="' + g.id + '" role="button" tabindex="0" aria-pressed="' + (entry ? "true" : "false") + '">' +
       '<div class="kt-game-img">' + img +
         '<span class="kt-plat-badge kt-plat-' + g.platform + '">' + PLACE[g.platform] + '</span>' +
+        stokRozet +
         '<span class="kt-select-tick" aria-hidden="true"><i class="bi bi-check-lg"></i></span>' +
         tag +
       '</div>' +
@@ -323,7 +331,11 @@
         var u = $("#ktUpdated");
         if (u) u.textContent = data.updatedAt.split(" ")[0] + " tarihinde";
       }
-      applyFilter();
+      // TM canlı stok durumu (opsiyonel — erişilemezse site normal çalışır)
+      fetch("https://app.konsoltech.tr/api/takas-stok.json", { cache: "no-cache" })
+        .then(function (r) { return r.ok ? r.json() : {}; })
+        .then(function (stok) { state.stok = stok || {}; applyFilter(); })
+        .catch(function () { state.stok = {}; applyFilter(); });
     })
     .catch(function (err) {
       countEl.textContent = "Liste yüklenemedi.";

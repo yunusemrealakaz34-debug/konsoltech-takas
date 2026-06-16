@@ -2599,3 +2599,6 @@ html { overflow-x: hidden; }
 body { overflow-x: hidden; position: relative; width: 100%; max-width: 100%; }
 .kt-game-img img { height: 100%; }     /* kart kapaklarını global img kuralından koru */
 img, video { max-width: 100%; }
+
+/* TM canli stok rozeti (B2 - stoktaki oyun) */
+.kt-stok-badge{position:absolute;top:8px;left:8px;background:#16a34a;color:#fff;font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:999px;box-shadow:0 1px 4px rgba(0,0,0,.2);z-index:2}
