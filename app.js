@@ -12,7 +12,8 @@
     mode: "sell",                      // "sell" = Satış, "buy" = Takas
     selected: Object.create(null), selCount: 0,
     showOnlySel: false,
-    stok: Object.create(null)          // TM canlı stok durumu: games_id -> {stokta, alis, satis}
+    stok: Object.create(null),         // TM canlı stok durumu: games_id -> {stokta, alis, satis}
+    stokFilter: "all"                  // "all" | "var" | "yok"
   };
 
   var $ = function (s) { return document.querySelector(s); };
@@ -23,6 +24,7 @@
       bulkSell = $("#ktBulkSell"), bulkBuy = $("#ktBulkBuy"),
       bulkWa = $("#ktBulkWa"), bulkClear = $("#ktBulkClear"),
       bulkView = $("#ktBulkView");
+  var stokBtns = document.querySelectorAll(".kt-stok-btn");
   var bulkSellBox = $("#ktBulkSellBox"), bulkBuyBox = $("#ktBulkBuyBox"),
       bulkSellLbl = $("#ktBulkSellLbl"), bulkBuyLbl = $("#ktBulkBuyLbl"),
       bulkNet = $("#ktBulkNet"), bulkNetLbl = $("#ktBulkNetLbl"), bulkNetVal = $("#ktBulkNetVal");
@@ -112,6 +114,8 @@
       state.filtered = state.all.filter(function (g) {
         if (state.platform !== "all" && g.platform !== state.platform) return false;
         if (q && g._n.indexOf(q) === -1) return false;
+        if (state.stokFilter === "var" && !(state.stok[g.id] && state.stok[g.id].stokta)) return false;
+        if (state.stokFilter === "yok" && (state.stok[g.id] && state.stok[g.id].stokta)) return false;
         return true;
       });
       countEl.textContent = state.filtered.length.toLocaleString("tr-TR") + " oyun listeleniyor";
@@ -301,6 +305,13 @@
   });
   if (bulkClear) bulkClear.addEventListener("click", clearSelection);
   if (bulkView) bulkView.addEventListener("click", toggleView);
+  [].forEach.call(stokBtns, function (btn) {
+    btn.addEventListener("click", function () {
+      state.stokFilter = btn.dataset.stok;
+      [].forEach.call(stokBtns, function (b) { b.classList.toggle("is-active", b === btn); });
+      applyFilter();
+    });
+  });
   if (modeEl) modeEl.addEventListener("click", function (e) {
     var b = e.target.closest(".kt-mode-btn");
     if (b) setMode(b.dataset.mode);

@@ -2601,4 +2601,15 @@ body { overflow-x: hidden; position: relative; width: 100%; max-width: 100%; }
 img, video { max-width: 100%; }
 
 /* TM canli stok rozeti (B2 - stoktaki oyun) */
-.kt-stok-badge{position:absolute;bottom:8px;left:8px;background:#16a34a;color:#fff;font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:999px;box-shadow:0 1px 4px rgba(0,0,0,.2);z-index:2}
+.kt-stok-badge{position:absolute;bottom:8px;right:8px;background:#16a34a;color:#fff;font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:999px;box-shadow:0 1px 4px rgba(0,0,0,.2);z-index:2}
+
+/* Stok filtre butonları */
+.kt-stok-tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+.kt-stok-btn {
+  background: transparent; border: 1px solid var(--kt-border-hi);
+  color: var(--kt-muted); font-size: 13px; font-weight: 600;
+  padding: 6px 14px; border-radius: 20px; cursor: pointer;
+  transition: all .15s; display: inline-flex; align-items: center; gap: 5px;
+}
+.kt-stok-btn:hover { border-color: #16a34a; color: #4ade80; }
+.kt-stok-btn.is-active { background: rgba(22,163,74,.15); border-color: #16a34a; color: #4ade80; font-weight: 700; }
