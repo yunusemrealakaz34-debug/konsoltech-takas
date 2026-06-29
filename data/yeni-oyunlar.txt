@@ -2,19 +2,82 @@ KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
 Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
 ============================================================
 
-## PS5 — sitede 280 oyun, bizde olmayan 4:
+## PS5 — sitede 282 oyun, bizde olmayan 6:
   - Alien Fireteam Elite
   - Famring Simulator 22
   - Ghost Of Tsushima Director's Cut
+  - Lego Batman
   - Metro Exodus Complette Edition
+  - UFC 6
 
-## SWITCH1 — sitede 121 oyun, bizde olmayan 3:
+## SWITCH1 — sitede 146 oyun, bizde olmayan 34:
   - Animal Crosssing New Horizons
+  - Astral Chain
   - Dragon Quest Builders
+  - FC 26
+  - Fire Emblem Engage
+  - Fire Emblem Three Hopes
+  - Fire Emblem Three Houses
+  - LEGO Movie 1 Video Game
+  - Mario Luigi Brothership
+  - Mario Tennis Aces
+  - Mario Vs Donkey Kong
+  - Mortal Kombat Legacy
+  - Mortal Kombat Legacy]p+2999]
+  - NBA 2K26
   - Olympic Games The Official Video Games
+  - Ori The Collection
+  - Paper Mario The Thousand-Year Door
+  - Pikmin 4
+  - Pokemon Z-A
+  - Prince Of Persia The Lost Crown
+  - Princess Peach Showtime
+  - Resident Evil Triple Pack
+  - Ring Fit set
+  - Scribblenatus Showdown
+  - Sniper Elite V2
+  - Sonic Colors Ultimate
+  - Sonic Forces
+  - Sonic Frontiers
+  - Sonic Superstars
+  - Sonic Team Racing
+  - Super Mario Galaxy + Galaxy 2
+  - The Elder Scrolls V Skyrim
+  - Tomodachi Life
+  - İt Takes Two
 
-## SWITCH2 — sitede 21 oyun, bizde olmayan 0:
-  (hepsi listede ✓)
+## SWITCH2 — sitede 52 oyun, bizde olmayan 31:
+  - Animal Crossing New Horizons
+  - Assasins Creed Shadows
+  - Cronos The New Dawn
+  - Dragon Ball Sparking Zero
+  - E Football Kick Off
+  - Final Fantasy VII Rebirth
+  - Gear Club Unlimited 3
+  - Hades 2
+  - Mario Tennis Fever
+  - Metroit Prime 4 Beyond
+  - Monster Hunter Stories 3
+  - Mortal Kombat Legacy Kollection
+  - Pokemon Pokopia
+  - Pragmata
+  - Prince Of Persia The Rogue
+  - Reanimal
+  - Resident Evil Requiem
+  - Resident Evil Village
+  - Sonic Racing Crossworlds
+  - Split Fiction
+  - Street Figter 6 Years 1-2
+  - Super Mario Bros Wonder
+  - Tales Of Arise Beyond The Dawn
+  - The Legend Of Heroes Trails Beyond The Horizon
+  - W 2K26
+  - Wild Hearts
+  - Yakuza 0 Directors Cut
+  - Yakuza Kiwami 1
+  - Yakuza Kiwami 2
+  - Yoshi and the Mysterious Book
+  - İndiana Jones
 
 ## PS4 — sitede 486 oyun, bizde olmayan 27:
   - Ace Combat 7

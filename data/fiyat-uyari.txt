@@ -3,8 +3,22 @@ KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
 ## RİSK-1 — ZARAR: alışımız rakibin satışının üstünde (0)
   yok ✓
 
-## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (0)
-  yok ✓
+## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (14)
+  PS5     Resident Evil Requiem                      bizim alış 2400 > rakip alış 2200
+  SWITCH1 FC 25                                      bizim alış 1400 > rakip alış 900
+  SWITCH1 LEGO Movie 2 Video Game                    bizim alış 700 > rakip alış 600
+  SWITCH1 Mario Golf Super Rush                      bizim alış 1200 > rakip alış 1100
+  SWITCH1 Mario Strikers Battle League Football      bizim alış 1200 > rakip alış 1100
+  SWITCH1 NBA 2K25                                   bizim alış 1300 > rakip alış 1000
+  SWITCH1 Paper Mario The Origami King               bizim alış 1100 > rakip alış 1000
+  SWITCH1 Splatoon 2                                 bizim alış 900 > rakip alış 800
+  SWITCH1 The Witcher 3 Wild Hunt Complete Edition   bizim alış 1200 > rakip alış 1000
+  SWITCH2 Donkey Kong Bananza                        bizim alış 2400 > rakip alış 2200
+  SWITCH2 Hyrule Warriors: Age Of Imprisonment       bizim alış 2400 > rakip alış 2200
+  SWITCH2 Kirby Air Riders                           bizim alış 2400 > rakip alış 2100
+  SWITCH2 Kirby And The Forgetten Land + Star-Crosse bizim alış 2200 > rakip alış 2100
+  SWITCH2 W 2K25                                     bizim alış 1900 > rakip alış 1500
 
-## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (0)
-  yok ✓
+## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (2)
+  PS5     Resident Evil Requiem                      bizim satış 3199 > rakip satış 2999
+  SWITCH1 FC 25                                      bizim satış 1999 > rakip satış 1799
