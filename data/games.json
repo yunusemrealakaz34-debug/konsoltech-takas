@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-23 13:17",
+ "updatedAt": "2026-07-23 13:25",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -8,11 +8,11 @@
  },
  "counts": {
   "ps4": 462,
-  "ps5": 276,
+  "ps5": 280,
   "switch1": 119,
   "switch2": 21
  },
- "total": 878,
+ "total": 882,
  "games": [
   {
    "id": "ps4-7-days-to-die",
@@ -2495,12 +2495,12 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/2ed/2ed38a102fe66a0ea98a8e09c660a458.jpg"
   },
   {
-   "id": "ps4-pes-2021-turklce",
-   "name": "Pes 2021 Türklçe",
+   "id": "ps4-pes-2021-turkce",
+   "name": "Pes 2021 Türkçe",
    "platform": "ps4",
    "sell": 3999,
    "buy": 3300,
-   "image": "https://media.rawg.io/media/resize/420/-/games/6a8/6a805daef1a6eb02d4254fbc3fa74607.jpg"
+   "image": null
   },
   {
    "id": "ps4-plants-vs-zombies-battle-for-neighborville",
@@ -3831,6 +3831,14 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/b19/b19cdd6be95ffffd63fdd2d1fbac057a.jpg"
   },
   {
+   "id": "ps5-atari-50-the-anniversary-celebration",
+   "name": "Atari 50 The Anniversary Celebration",
+   "platform": "ps5",
+   "sell": 2499,
+   "buy": 1500,
+   "image": null
+  },
+  {
    "id": "ps5-atomfall",
    "name": "Atomfall",
    "platform": "ps5",
@@ -4391,6 +4399,14 @@
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/6b0/6b09ec8abc44fb8900e7b639ba02731d.jpg"
   },
   {
+   "id": "ps5-football-manager-26",
+   "name": "Football Manager 26",
+   "platform": "ps5",
+   "sell": 2699,
+   "buy": 1700,
+   "image": null
+  },
+  {
    "id": "ps5-forspoken",
    "name": "Forspoken",
    "platform": "ps5",
@@ -4431,12 +4447,12 @@
    "image": "https://media.rawg.io/media/resize/420/-/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg"
   },
   {
-   "id": "ps5-ghost-of-y-tei",
-   "name": "Ghost of Yōtei",
+   "id": "ps5-ghost-of-yotei",
+   "name": "Ghost of Yotei",
    "platform": "ps5",
    "sell": 3199,
    "buy": 2500,
-   "image": "https://media.rawg.io/media/resize/420/-/games/30b/30b195c2321d763f807366967ffad793.jpg"
+   "image": null
   },
   {
    "id": "ps5-ghost-runner-2",
@@ -4653,6 +4669,14 @@
    "sell": 1299,
    "buy": 800,
    "image": "https://media.rawg.io/media/resize/420/-/games/326/326cbbdc3bc2da0b10cc3f7edd57161a.jpg"
+  },
+  {
+   "id": "ps5-humankind-heritage-edition",
+   "name": "Humankind Heritage Edition",
+   "platform": "ps5",
+   "sell": 1699,
+   "buy": 1000,
+   "image": null
   },
   {
    "id": "ps5-immortals-fenyx-rising",
@@ -5717,6 +5741,14 @@
    "sell": 1699,
    "buy": 1100,
    "image": "https://media.rawg.io/media/resize/420/-/games/909/909974d1c7863c2027241e265fe7011f.jpg"
+  },
+  {
+   "id": "ps5-the-light-brigade",
+   "name": "The Light Brigade",
+   "platform": "ps5",
+   "sell": 1999,
+   "buy": 1200,
+   "image": null
   },
   {
    "id": "ps5-the-quarry",
