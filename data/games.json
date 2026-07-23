@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-20 09:17",
+ "updatedAt": "2026-07-23 13:17",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -7,12 +7,12 @@
   "switch2": "Nintendo Switch 2"
  },
  "counts": {
-  "ps4": 459,
+  "ps4": 462,
   "ps5": 276,
-  "switch1": 118,
+  "switch1": 119,
   "switch2": 21
  },
- "total": 874,
+ "total": 878,
  "games": [
   {
    "id": "ps4-7-days-to-die",
@@ -827,7 +827,7 @@
    "name": "Dragon Ball 2 Xenoverse",
    "platform": "ps4",
    "sell": 599,
-   "buy": 200,
+   "buy": 300,
    "image": "https://media.rawg.io/media/resize/420/-/games/e58/e58c97f607ceafe069b80a769d021ae2.jpg"
   },
   {
@@ -1221,6 +1221,14 @@
    "sell": 1499,
    "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg"
+  },
+  {
+   "id": "ps4-final-fantasy-xii-the-zodiac-age",
+   "name": "Final Fantasy XII The Zodiac Age",
+   "platform": "ps4",
+   "sell": 1200,
+   "buy": 550,
+   "image": null
   },
   {
    "id": "ps4-for-honor",
@@ -1813,6 +1821,14 @@
    "sell": 799,
    "buy": 500,
    "image": "https://media.rawg.io/media/resize/420/-/games/d7d/d7d33daa1892e2468cd0263d5dfc957e.jpg"
+  },
+  {
+   "id": "ps4-madden-nfl-20",
+   "name": "Madden NFL 20",
+   "platform": "ps4",
+   "sell": 700,
+   "buy": 350,
+   "image": null
   },
   {
    "id": "ps4-mafia-3",
@@ -2821,6 +2837,14 @@
    "sell": 1499,
    "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/5c5/5c5089af36b99bf9465357a8556449f9.jpg"
+  },
+  {
+   "id": "ps4-shenmue-3",
+   "name": "Shenmue 3",
+   "platform": "ps4",
+   "sell": 900,
+   "buy": 450,
+   "image": null
   },
   {
    "id": "ps4-sims-4",
@@ -6477,6 +6501,14 @@
    "sell": 1899,
    "buy": 120,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/967/967d912c7ae0a728bd2f78bce076eb9c.jpg"
+  },
+  {
+   "id": "switch1-nintendo-switch-sports",
+   "name": "Nintendo Switch Sports",
+   "platform": "switch1",
+   "sell": 1999,
+   "buy": 1200,
+   "image": null
   },
   {
    "id": "switch1-olympic-games-tokyo-2020",
