@@ -2,12 +2,13 @@ KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
 Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
 ============================================================
 
-## PS5 — sitede 285 oyun, bizde olmayan 9:
+## PS5 — sitede 285 oyun, bizde olmayan 10:
   - 007 First Light
   - Alien Fireteam Elite
   - Assasins Creed Black Flag Resynced
   - Famring Simulator 22
   - Ghost Of Tsushima Director's Cut
+  - Ghost of Yōtei
   - Kingdom Come Deliverance 1
   - Lego Batman
   - Metro Exodus Complette Edition
@@ -100,7 +101,7 @@ Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
   - Naruto Shippuden Ultimate Ninja Strom
   - Naruto Trilogy
   - Nioh
-  - Pes 2021 Türkçe
+  - Pes 2021 Türklçe
   - Rabbids İnvasion
   - Spider-Man 2 The Amazing
   - Spider-Man Miles Morales

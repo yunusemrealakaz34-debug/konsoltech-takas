@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-07-23 13:25",
+ "updatedAt": "2026-07-27 09:55",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -1228,7 +1228,7 @@
    "platform": "ps4",
    "sell": 1200,
    "buy": 550,
-   "image": null
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/595520/library_600x900.jpg"
   },
   {
    "id": "ps4-for-honor",
@@ -1828,7 +1828,7 @@
    "platform": "ps4",
    "sell": 700,
    "buy": 350,
-   "image": null
+   "image": "https://media.rawg.io/media/resize/420/-/games/0b8/0b8a262e733065e807995becfef6d9cc.jpg"
   },
   {
    "id": "ps4-mafia-3",
@@ -2500,7 +2500,7 @@
    "platform": "ps4",
    "sell": 3999,
    "buy": 3300,
-   "image": null
+   "image": "https://media.rawg.io/media/resize/420/-/games/6a8/6a805daef1a6eb02d4254fbc3fa74607.jpg"
   },
   {
    "id": "ps4-plants-vs-zombies-battle-for-neighborville",
@@ -2844,7 +2844,7 @@
    "platform": "ps4",
    "sell": 900,
    "buy": 450,
-   "image": null
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/878670/library_600x900.jpg"
   },
   {
    "id": "ps4-sims-4",
@@ -3836,7 +3836,7 @@
    "platform": "ps5",
    "sell": 2499,
    "buy": 1500,
-   "image": null
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1919470/library_600x900.jpg"
   },
   {
    "id": "ps5-atomfall",
@@ -4404,7 +4404,7 @@
    "platform": "ps5",
    "sell": 2699,
    "buy": 1700,
-   "image": null
+   "image": "https://media.rawg.io/media/resize/420/-/screenshots/70f/70fb740261ef152d0d3392a9a306c9ca.jpg"
   },
   {
    "id": "ps5-forspoken",
@@ -4452,7 +4452,7 @@
    "platform": "ps5",
    "sell": 3199,
    "buy": 2500,
-   "image": null
+   "image": "https://media.rawg.io/media/resize/420/-/games/30b/30b195c2321d763f807366967ffad793.jpg"
   },
   {
    "id": "ps5-ghost-runner-2",
@@ -4676,7 +4676,7 @@
    "platform": "ps5",
    "sell": 1699,
    "buy": 1000,
-   "image": null
+   "image": "https://media.rawg.io/media/resize/420/-/screenshots/b3a/b3aec73220f89df3000d61e49d57ac34.jpg"
   },
   {
    "id": "ps5-immortals-fenyx-rising",
@@ -5748,7 +5748,7 @@
    "platform": "ps5",
    "sell": 1999,
    "buy": 1200,
-   "image": null
+   "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1579880/library_600x900.jpg"
   },
   {
    "id": "ps5-the-quarry",
@@ -6540,7 +6540,7 @@
    "platform": "switch1",
    "sell": 1999,
    "buy": 1200,
-   "image": null
+   "image": "https://media.rawg.io/media/resize/420/-/games/ea1/ea1a98c673cdd4c290aa29bc2e2fbd9b.jpg"
   },
   {
    "id": "switch1-olympic-games-tokyo-2020",
