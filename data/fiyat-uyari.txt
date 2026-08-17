@@ -1,9 +1,12 @@
 KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
 
-## RİSK-1 — ZARAR: alışımız rakibin satışının üstünde (0)
-  yok ✓
+## ÇEKİLEMEDİ (URL/yapı değişmiş olabilir)
+  ps4: https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama
 
-## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (24)
+## RİSK-1 — ZARAR: alışımız rakibin satışının üstünde (1)
+  PS5     FC 26 Türkçe Spiker                        bizim alış 1500 >= rakip satış 1499
+
+## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (26)
   PS5     Crimson Desert                             bizim alış 2500 > rakip alış 2000
   PS5     Gears Of War Reloaded                      bizim alış 1500 > rakip alış 1300
   PS5     Godfall                                    bizim alış 600 > rakip alış 500
@@ -14,7 +17,9 @@ KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
   PS5     Hello Neighbor 2                           bizim alış 900 > rakip alış 800
   PS5     Hitman 3                                   bizim alış 800 > rakip alış 700
   PS5     Kingdom Come Deliverance 2                 bizim alış 1700 > rakip alış 1600
+  PS5     NBA 2K26                                   bizim alış 1300 > rakip alış 900
   PS5     Resident Evil Requiem                      bizim alış 2400 > rakip alış 2000
+  PS5     Undisputed                                 bizim alış 1200 > rakip alış 1100
   SWITCH1 FC 25                                      bizim alış 1400 > rakip alış 900
   SWITCH1 LEGO Movie 2 Video Game                    bizim alış 700 > rakip alış 600
   SWITCH1 Mario Golf Super Rush                      bizim alış 1200 > rakip alış 1100
@@ -29,8 +34,10 @@ KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
   SWITCH2 Kirby And The Forgetten Land + Star-Crosse bizim alış 2200 > rakip alış 2100
   SWITCH2 W 2K25                                     bizim alış 1900 > rakip alış 1500
 
-## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (4)
+## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (6)
   PS5     Crimson Desert                             bizim satış 3299 > rakip satış 2799
+  PS5     FC 26 Türkçe Spiker                        bizim satış 1999 > rakip satış 1499
   PS5     Gears Of War Reloaded                      bizim satış 1999 > rakip satış 1799
+  PS5     NBA 2K26                                   bizim satış 1799 > rakip satış 1499
   PS5     Resident Evil Requiem                      bizim satış 3199 > rakip satış 2699
   SWITCH1 FC 25                                      bizim satış 1999 > rakip satış 1799
