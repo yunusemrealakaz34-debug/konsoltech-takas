@@ -2,17 +2,19 @@ KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
 Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
 ============================================================
 
-## PS5 — sitede 288 oyun, bizde olmayan 13:
+## PS5 — sitede 290 oyun, bizde olmayan 15:
   - 007 First Light
   - Alien Fireteam Elite
   - Assasins Creed Black Flag Resynced
   - Famring Simulator 22
   - Ghost Of Tsushima Director's Cut
   - Ghost of Yōtei
+  - Halo Campaign Evolved
   - Kingdom Come Deliverance 1
   - Lego Batman
   - Marvel Tokon Fighting Souls
   - Metro Exodus Complette Edition
+  - Mortal Shell 2
   - Red Dead Redemption
   - Starfield
   - UFC 6
@@ -86,4 +88,34 @@ Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
   - Yoshi and the Mysterious Book
   - İndiana Jones
 
-## PS4 — çekilemedi (URL/yapı değişmiş olabilir)
+## PS4 — sitede 489 oyun, bizde olmayan 30:
+  - Ace Combat 7
+  - Among Us Crewmate Edition
+  - Assassin's Creed IV black Flag
+  - Assassin's Creed Odysses
+  - Assassin's Creed Rouge
+  - Assassins Creed Mirage
+  - Asseetto Corsa
+  - Bloodborne GOTY TÜRKÇE
+  - Dragon Ball Xenoverse
+  - Gran Turismo Sport
+  - Hello Neighbor Hide & Seek
+  - Journey Collector's Edition
+  - LittleBigPlanet 3
+  - MafiaTrilogy
+  - Naruto Shippuden Ultimate Ninja Strom
+  - Naruto Trilogy
+  - Nioh
+  - One Piece Odyssey
+  - One Piece Pirate Warriors 4
+  - One Piece World Seeker
+  - Pes 2021 Türklçe
+  - Rabbids İnvasion
+  - Spider-Man 2 The Amazing
+  - Spider-Man Miles Morales
+  - The Outher Worlds
+  - The Witcher 3 Wild Hunt
+  - Until Dawn
+  - Watch Dogs
+  - Wipeout Omega Colletion
+  - Zombie
