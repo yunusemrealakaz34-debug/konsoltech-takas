@@ -2,10 +2,12 @@ KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
 Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
 ============================================================
 
-## PS5 — sitede 290 oyun, bizde olmayan 15:
+## PS5 — sitede 294 oyun, bizde olmayan 20:
   - 007 First Light
+  - A Plague Tale Resonance
   - Alien Fireteam Elite
   - Assasins Creed Black Flag Resynced
+  - Beast Of Reincarnation
   - Famring Simulator 22
   - Ghost Of Tsushima Director's Cut
   - Ghost of Yōtei
@@ -13,9 +15,12 @@ Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
   - Kingdom Come Deliverance 1
   - Lego Batman
   - Marvel Tokon Fighting Souls
+  - Metal Gear Solid Master Collection Vol 1
+  - Metal Gear Solid Master Collection Vol 2
   - Metro Exodus Complette Edition
   - Mortal Shell 2
   - Red Dead Redemption
+  - Ride 6
   - Starfield
   - UFC 6
 
