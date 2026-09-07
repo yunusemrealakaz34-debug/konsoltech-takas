@@ -2,17 +2,20 @@ KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
 
 ## RİSK-1 — ZARAR: alışımız rakibin satışının üstünde (2)
   PS5     FC 26 Türkçe Spiker                        bizim alış 1500 >= rakip satış 1499
-  PS5     Resident Evil Requiem                      bizim alış 2400 >= rakip satış 2399
+  PS5     Resident Evil Requiem                      bizim alış 2400 >= rakip satış 1999
 
-## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (34)
+## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (37)
   PS4     Call Of Duty WW II                         bizim alış 900 > rakip alış 700
+  PS4     Crash Bandicoot                            bizim alış 700 > rakip alış 500
+  PS4     Crash Bandicoot 4 Its Aboult Time          bizim alış 1000 > rakip alış 900
   PS4     Cyberpunk 2077 Türkçe                      bizim alış 1200 > rakip alış 1000
-  PS4     Ghost Of Tsushima Director's Cut Türkçe    bizim alış 1200 > rakip alış 1100
-  PS4     Ghost Of Tsushima Türkçe                   bizim alış 900 > rakip alış 800
+  PS4     Ghost Of Tsushima Director's Cut Türkçe    bizim alış 1200 > rakip alış 1000
+  PS4     Ghost Of Tsushima Türkçe                   bizim alış 900 > rakip alış 700
   PS4     NBA 2K25                                   bizim alış 800 > rakip alış 700
   PS4     NBA 2K26                                   bizim alış 1700 > rakip alış 1200
   PS4     Outlast Trinity                            bizim alış 2000 > rakip alış 1700
   PS4     Pes 2017 Türkçe                            bizim alış 450 > rakip alış 400
+  PS5     Call Of Duty Black Ops 7                   bizim alış 2000 > rakip alış 1600
   PS5     Crimson Desert                             bizim alış 2500 > rakip alış 2000
   PS5     Gears Of War Reloaded                      bizim alış 1500 > rakip alış 1300
   PS5     Godfall                                    bizim alış 600 > rakip alış 500
@@ -40,15 +43,19 @@ KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
   SWITCH2 Kirby And The Forgetten Land + Star-Crosse bizim alış 2200 > rakip alış 2100
   SWITCH2 W 2K25                                     bizim alış 1900 > rakip alış 1500
 
-## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (11)
+## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (15)
   PS4     Call Of Duty WW II                         bizim satış 1499 > rakip satış 1299
+  PS4     Crash Bandicoot                            bizim satış 1199 > rakip satış 999
   PS4     Cyberpunk 2077 Türkçe                      bizim satış 1799 > rakip satış 1599
+  PS4     Ghost Of Tsushima Director's Cut Türkçe    bizim satış 1799 > rakip satış 1699
+  PS4     Ghost Of Tsushima Türkçe                   bizim satış 1399 > rakip satış 1299
   PS4     NBA 2K25                                   bizim satış 1299 > rakip satış 1199
   PS4     NBA 2K26                                   bizim satış 2199 > rakip satış 1999
+  PS5     Call Of Duty Black Ops 7                   bizim satış 2499 > rakip satış 2199
   PS5     Crimson Desert                             bizim satış 3299 > rakip satış 2799
   PS5     FC 26 Türkçe Spiker                        bizim satış 1999 > rakip satış 1499
   PS5     Gears Of War Reloaded                      bizim satış 1999 > rakip satış 1799
   PS5     Little Nightmares 3                        bizim satış 1799 > rakip satış 1699
   PS5     NBA 2K26                                   bizim satış 1799 > rakip satış 1499
-  PS5     Resident Evil Requiem                      bizim satış 3199 > rakip satış 2399
+  PS5     Resident Evil Requiem                      bizim satış 3199 > rakip satış 1999
   SWITCH1 FC 25                                      bizim satış 1999 > rakip satış 1799

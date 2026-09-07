@@ -2,12 +2,13 @@ KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
 Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
 ============================================================
 
-## PS5 — sitede 294 oyun, bizde olmayan 20:
+## PS5 — sitede 297 oyun, bizde olmayan 23:
   - 007 First Light
   - A Plague Tale Resonance
   - Alien Fireteam Elite
   - Assasins Creed Black Flag Resynced
   - Beast Of Reincarnation
+  - Captain Tsubasa 2 World Fighters
   - Famring Simulator 22
   - Ghost Of Tsushima Director's Cut
   - Ghost of Yōtei
@@ -18,10 +19,12 @@ Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
   - Metal Gear Solid Master Collection Vol 1
   - Metal Gear Solid Master Collection Vol 2
   - Metro Exodus Complette Edition
+  - Microsoft Flight Simulator 2024
   - Mortal Shell 2
   - Red Dead Redemption
   - Ride 6
   - Starfield
+  - The Blood Of Dawnwalker
   - UFC 6
 
 ## SWITCH1 — sitede 146 oyun, bizde olmayan 34:
@@ -93,7 +96,7 @@ Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
   - Yoshi and the Mysterious Book
   - İndiana Jones
 
-## PS4 — sitede 489 oyun, bizde olmayan 30:
+## PS4 — sitede 490 oyun, bizde olmayan 31:
   - Ace Combat 7
   - Among Us Crewmate Edition
   - Assassin's Creed IV black Flag
@@ -102,6 +105,7 @@ Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
   - Assassins Creed Mirage
   - Asseetto Corsa
   - Bloodborne GOTY TÜRKÇE
+  - Crash Team Rumble Deluxe
   - Dragon Ball Xenoverse
   - Gran Turismo Sport
   - Hello Neighbor Hide & Seek
