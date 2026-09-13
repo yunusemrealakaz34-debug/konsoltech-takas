@@ -2601,7 +2601,23 @@ body { overflow-x: hidden; position: relative; width: 100%; max-width: 100%; }
 img, video { max-width: 100%; }
 
 /* TM canli stok rozeti (B2 - stoktaki oyun) */
-.kt-stok-badge{position:absolute;bottom:8px;right:8px;background:#16a34a;color:#fff;font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:999px;box-shadow:0 1px 4px rgba(0,0,0,.2);z-index:2}
+.kt-game-badges { display: flex; align-items: center; flex-wrap: wrap; gap: 5px; }
+.kt-condition-badge, .kt-stok-badge {
+  display: inline-flex; align-items: center;
+  font-size: 10.5px; font-weight: 800; line-height: 1.4;
+  padding: 3px 7px; border-radius: 7px;
+}
+.kt-condition-2el { color: #dde7f7; background: rgba(143,163,199,.16); }
+.kt-condition-sifir { color: #a5f3fc; background: rgba(46,229,255,.13); }
+.kt-stok-badge { background: #166534; color: #fff; }
+.kt-stok-status { color: var(--kt-muted); font-size: 12px; }
+.kt-bulk-net.is-unknown b { color: var(--kt-muted); }
+.kt-bulk-totals { flex-wrap: wrap; }
+
+/* Bileşen display kuralları hidden durumunu geçersiz kılmasın. */
+.kt-stok-tabs[hidden], .kt-stok-status[hidden], .kt-game-grid[hidden],
+.kt-empty[hidden], .kt-loadmore[hidden], .kt-search-clear[hidden],
+.kt-bulkbar[hidden], .kt-bulk-net[hidden] { display: none !important; }
 
 /* Stok filtre butonları */
 .kt-stok-tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
