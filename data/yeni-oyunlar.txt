@@ -2,7 +2,7 @@ KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
 Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
 ============================================================
 
-## PS5 — sitede 297 oyun, bizde olmayan 23:
+## PS5 — sitede 299 oyun, bizde olmayan 25:
   - 007 First Light
   - A Plague Tale Resonance
   - Alien Fireteam Elite
@@ -21,6 +21,8 @@ Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
   - Metro Exodus Complette Edition
   - Microsoft Flight Simulator 2024
   - Mortal Shell 2
+  - NBA 2K27
+  - Onimusha Way Of The Sword
   - Red Dead Redemption
   - Ride 6
   - Starfield
