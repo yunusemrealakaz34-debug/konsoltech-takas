@@ -1,4 +1,4 @@
-name: Haftalık Oyun Listesi Güncelleme
+name: Haftalık Oyun Kataloğu ve Fiyat Denetimi
 
 # Her Pazartesi 06:00 UTC (TR ~09:00) + elle tetikleme
 on:
@@ -17,6 +17,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Katalog ve takas akışı testleri
+        run: |
+          python3 -m unittest discover -s tests -p 'test_*.py'
+          node --test tests/frontend.test.cjs
 
       - name: Veriyi CSV'lerden derle
         run: python3 scripts/build_data.py
@@ -34,20 +42,25 @@ jobs:
             echo "RAWG_KEY yok, atlanıyor."
           fi
 
-      - name: oyunmerkezi'nde yeni oyunları tara
-        run: python3 scripts/check_new_games.py || true
+      - name: Canlı fiyat ve eksik oyun denetimi
+        run: python3 scripts/check_prices.py
 
-      - name: Fiyat sapması / zarar riski tara
-        run: python3 scripts/check_prices.py || true
+      - name: Başarısız denetim ayrıntıları
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fiyat-denetim-hata
+          path: data/fiyat-denetim-hata.json
+          if-no-files-found: ignore
 
       - name: Commit & push
         run: |
           git config user.name "KonsolTech Bot"
           git config user.email "bot@konsoltech.tr"
-          git add data/games.json data/yeni-oyunlar.txt data/fiyat-uyari.txt
+          git add data/games.json data/yeni-oyunlar.txt data/fiyat-uyari.txt data/fiyat-denetim.json
           if git diff --staged --quiet; then
             echo "Değişiklik yok."
           else
-            git commit -m "🤖 Haftalık oyun listesi güncellendi ($(date +%Y-%m-%d))"
+            git commit -m "Haftalık katalog ve fiyat denetimi ($(date +%Y-%m-%d))"
             git push
           fi

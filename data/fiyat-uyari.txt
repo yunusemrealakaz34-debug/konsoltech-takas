@@ -1,76 +1,348 @@
-KonsolTech — Fiyat Sapma Raporu (rakip: oyunmerkezi/psoyunmerkezi)
+KonsolTech — Fiyat Karşılaştırması
+2026-10-04T14:18:16+03:00
+İlan fiyatlarıdır; rakip stok/kondisyon garanti değildir. Fiyatlar otomatik değiştirilmez.
+{"catalog_total": 894, "matched": 870, "missing_candidates": 100, "missing_by_platform": {"ps4": 12, "ps5": 24, "switch1": 33, "switch2": 31}, "sale_price_differences": 324, "trade_price_differences": 247, "at_or_above_own_sale": 2, "at_or_above_competitor_sale": 4}
 
-## RİSK-1 — ZARAR: alışımız rakibin satışının üstünde (4)
-  PS4     FC 26 Türkçe Spiker                        bizim alış 1500 >= rakip satış 1399
-  PS5     FC 26 Türkçe Spiker                        bizim alış 1500 >= rakip satış 1299
-  PS5     Resident Evil Requiem                      bizim alış 2400 >= rakip satış 1999
-  SWITCH2 FC 26                                      bizim alış 2000 >= rakip satış 1999
-
-## RİSK-2 — FAZLA ÖDEME: alışımız rakibin alışının üstünde (43)
-  PS4     Call Of Duty WW II                         bizim alış 900 > rakip alış 600
-  PS4     Crash Bandicoot                            bizim alış 700 > rakip alış 500
-  PS4     Crash Bandicoot 4 Its Aboult Time          bizim alış 1000 > rakip alış 900
-  PS4     Cyberpunk 2077 Türkçe                      bizim alış 1200 > rakip alış 1000
-  PS4     Ghost Of Tsushima Director's Cut Türkçe    bizim alış 1200 > rakip alış 1000
-  PS4     Ghost Of Tsushima Türkçe                   bizim alış 900 > rakip alış 700
-  PS4     NBA 2K25                                   bizim alış 800 > rakip alış 700
-  PS4     NBA 2K26                                   bizim alış 1700 > rakip alış 1200
-  PS4     Outlast Trinity                            bizim alış 2000 > rakip alış 1700
-  PS4     Pes 2017 Türkçe                            bizim alış 450 > rakip alış 400
-  PS5     Call Of Duty Black Ops 7                   bizim alış 2000 > rakip alış 1600
-  PS5     Crimson Desert                             bizim alış 2500 > rakip alış 2200
-  PS5     Death Stranding 2 On The Beach             bizim alış 2200 > rakip alış 2000
-  PS5     Gears Of War Reloaded                      bizim alış 1500 > rakip alış 1300
-  PS5     Godfall                                    bizim alış 600 > rakip alış 500
-  PS5     Gotham Knights                             bizim alış 650 > rakip alış 600
-  PS5     GTA 5                                      bizim alış 800 > rakip alış 700
-  PS5     Heavy Cargo The Truck Simulator            bizim alış 1200 > rakip alış 1100
-  PS5     Hell Is Us                                 bizim alış 1500 > rakip alış 1400
-  PS5     Hello Neighbor 2                           bizim alış 900 > rakip alış 800
-  PS5     Hitman 3                                   bizim alış 800 > rakip alış 700
-  PS5     Kingdom Come Deliverance 2                 bizim alış 1700 > rakip alış 1600
-  PS5     Little Nightmares 3                        bizim alış 1200 > rakip alış 1000
-  PS5     NBA 2K25                                   bizim alış 800 > rakip alış 700
-  PS5     NBA 2K26                                   bizim alış 1300 > rakip alış 800
-  PS5     Riders Republic                            bizim alış 800 > rakip alış 600
-  PS5     Rise Of The Ronin                          bizim alış 1500 > rakip alış 1200
-  PS5     Roadcraft                                  bizim alış 1500 > rakip alış 1400
-  PS5     Saros                                      bizim alış 2500 > rakip alış 2300
-  PS5     Undisputed                                 bizim alış 1200 > rakip alış 1100
-  SWITCH1 FC 25                                      bizim alış 1400 > rakip alış 900
-  SWITCH1 LEGO Movie 2 Video Game                    bizim alış 700 > rakip alış 600
-  SWITCH1 Mario Golf Super Rush                      bizim alış 1200 > rakip alış 1100
-  SWITCH1 Mario Strikers Battle League Football      bizim alış 1200 > rakip alış 1100
-  SWITCH1 NBA 2K25                                   bizim alış 1300 > rakip alış 1000
-  SWITCH1 Paper Mario The Origami King               bizim alış 1100 > rakip alış 1000
-  SWITCH1 Splatoon 2                                 bizim alış 900 > rakip alış 800
-  SWITCH1 The Witcher 3 Wild Hunt Complete Edition   bizim alış 1200 > rakip alış 1000
-  SWITCH2 Donkey Kong Bananza                        bizim alış 2400 > rakip alış 2200
-  SWITCH2 Hyrule Warriors: Age Of Imprisonment       bizim alış 2400 > rakip alış 2200
-  SWITCH2 Kirby Air Riders                           bizim alış 2400 > rakip alış 2100
-  SWITCH2 Kirby And The Forgetten Land + Star-Crosse bizim alış 2200 > rakip alış 2100
-  SWITCH2 W 2K25                                     bizim alış 1900 > rakip alış 1500
-
-## BİLGİ — PAHALI GÖRÜNÜM: satışımız rakibin üstünde (22)
-  PS4     Call Of Duty WW II                         bizim satış 1499 > rakip satış 999
-  PS4     Crash Bandicoot                            bizim satış 1199 > rakip satış 999
-  PS4     Cyberpunk 2077 Türkçe                      bizim satış 1799 > rakip satış 1599
-  PS4     FC 26 Türkçe Spiker                        bizim satış 1999 > rakip satış 1399
-  PS4     Ghost Of Tsushima Director's Cut Türkçe    bizim satış 1799 > rakip satış 1699
-  PS4     Ghost Of Tsushima Türkçe                   bizim satış 1399 > rakip satış 1299
-  PS4     NBA 2K25                                   bizim satış 1299 > rakip satış 1199
-  PS4     NBA 2K26                                   bizim satış 2199 > rakip satış 1999
-  PS5     Call Of Duty Black Ops 7                   bizim satış 2499 > rakip satış 2199
-  PS5     Crimson Desert                             bizim satış 3299 > rakip satış 2899
-  PS5     Death Stranding 2 On The Beach             bizim satış 2799 > rakip satış 2599
-  PS5     FC 26 Türkçe Spiker                        bizim satış 1999 > rakip satış 1299
-  PS5     Gears Of War Reloaded                      bizim satış 1999 > rakip satış 1799
-  PS5     Little Nightmares 3                        bizim satış 1799 > rakip satış 1699
-  PS5     NBA 2K25                                   bizim satış 1299 > rakip satış 1199
-  PS5     NBA 2K26                                   bizim satış 1799 > rakip satış 1399
-  PS5     Resident Evil Requiem                      bizim satış 3199 > rakip satış 1999
-  PS5     Riders Republic                            bizim satış 1299 > rakip satış 999
-  PS5     Rise Of The Ronin                          bizim satış 1999 > rakip satış 1799
-  PS5     Saros                                      bizim satış 3299 > rakip satış 2999
-  SWITCH1 FC 25                                      bizim satış 1999 > rakip satış 1599
-  SWITCH2 FC 26                                      bizim satış 2699 > rakip satış 1999
+ps4 | Assetto Corsa | Biz alış/satış: 700/1200.0 | Rakip: 700/1299 |
+ps4 | Batman Arkham Knight | Biz alış/satış: 300/499 | Rakip: 300/599 |
+ps4 | Batman Return To Arkham | Biz alış/satış: 500/1000.0 | Rakip: 500/999 |
+ps4 | Battlefield 4 | Biz alış/satış: 400/600.0 | Rakip: 400/699 |
+ps4 | Battlefield 5 | Biz alış/satış: 600/999 | Rakip: 700/1299 |
+ps4 | Battlefield Hardline | Biz alış/satış: 350/800.0 | Rakip: 400/699 |
+ps4 | Ben 10 | Biz alış/satış: 600/999 | Rakip: 1000/1599 |
+ps4 | Call Of Duty Black Ops 6 | Biz alış/satış: 1700/2399 | Rakip: 1700/2499 |
+ps4 | Call Of Duty Black Ops 7 | Biz alış/satış: 2200/2899 | Rakip: 2200/2999 |
+ps4 | Call Of Duty İnfinite Warfare | Biz alış/satış: 500/600.0 | Rakip: 500/799 |
+ps4 | Call Of Duty WW II | Biz alış/satış: 900/1499 | Rakip: 600/999 | alış > rakip alış
+ps4 | Control | Biz alış/satış: 700/700.0 | Rakip: 700/1199 | alış ≥ kendi satışımız
+ps4 | Crash Bandicoot | Biz alış/satış: 700/1199 | Rakip: 500/999 | alış > rakip alış
+ps4 | Crash Bandicoot 4 Its Aboult Time | Biz alış/satış: 1000/1499 | Rakip: 900/1499 | alış > rakip alış
+ps4 | Cuphead | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
+ps4 | Cyberpunk 2077 Türkçe | Biz alış/satış: 1200/1300.0 | Rakip: 1000/1599 | alış > rakip alış
+ps4 | Dark Souls 1 | Biz alış/satış: 500/899 | Rakip: 700/1199 |
+ps4 | Dark Souls 2 | Biz alış/satış: 600/899 | Rakip: 700/1199 |
+ps4 | Dark Souls 3 | Biz alış/satış: 600/999.0 | Rakip: 800/1399 |
+ps4 | Dark Souls 3 Game Of The Year Edition | Biz alış/satış: 700/1199 | Rakip: 1000/1699 |
+ps4 | Dark Souls Trilogy | Biz alış/satış: 1400/1999 | Rakip: 2000/2799 |
+ps4 | Darksiders 1 Warmastered | Biz alış/satış: 500/799 | Rakip: 600/999 |
+ps4 | Darksiders 2 | Biz alış/satış: 450/699 | Rakip: 500/899 |
+ps4 | Days Gone Türkçe | Biz alış/satış: 400/699.0 | Rakip: 500/899 |
+ps4 | DeadPool | Biz alış/satış: 1000/1499 | Rakip: 1500/2299 |
+ps4 | Devil May Cry 5 | Biz alış/satış: 800/1299.0 | Rakip: 900/1399 |
+ps4 | Devil May Cry DMC | Biz alış/satış: 600/999 | Rakip: 800/1199 |
+ps4 | Devil May Cry HD Collection | Biz alış/satış: 800/1299 | Rakip: 1000/1499 |
+ps4 | Diablo 3 Reaper of Souls | Biz alış/satış: 350/500.0 | Rakip: 350/599 |
+ps4 | Dishonored 2 | Biz alış/satış: 200/399.0 | Rakip: 250/499 |
+ps4 | Dishonored Death Of The Outsider | Biz alış/satış: 250/449.0 | Rakip: 250/499 |
+ps4 | Dishonored Definitive Edition | Biz alış/satış: 250/449 | Rakip: 250/499 |
+ps4 | Division 2 | Biz alış/satış: 150/600.0 | Rakip: 150/349 |
+ps4 | F1 2015 | Biz alış/satış: 150/399 | Rakip: 500/899 |
+ps4 | F1 2016 | Biz alış/satış: 250/499 | Rakip: 500/899 |
+ps4 | F1 2017 | Biz alış/satış: 350/599 | Rakip: 600/999 |
+ps4 | F1 2018 | Biz alış/satış: 400/699 | Rakip: 700/1299 |
+ps4 | F1 2019 | Biz alış/satış: 450/799 | Rakip: 800/1399 |
+ps4 | F1 2020 | Biz alış/satış: 500/899 | Rakip: 900/1499 |
+ps4 | F1 2021 | Biz alış/satış: 550/999 | Rakip: 900/1499 |
+ps4 | F1 2022 | Biz alış/satış: 700/1199 | Rakip: 1000/1699 |
+ps4 | Fallout 4 | Biz alış/satış: 400/800.0 | Rakip: 400/699 |
+ps4 | FAR CRY Primal | Biz alış/satış: 350/700.0 | Rakip: 350/699 |
+ps4 | FC 24 Türkçe | Biz alış/satış: 700/700.0 | Rakip: 700/1199 | alış ≥ kendi satışımız
+ps4 | FC 26 Türkçe Spiker | Biz alış/satış: 1500/1999 | Rakip: 800/1399 | alış ≥ rakip satış, alış > rakip alış
+ps4 | Fifa 14 Türkçe | Biz alış/satış: 200/499.0 | Rakip: 300/599 |
+ps4 | Fifa 15 Türkçe | Biz alış/satış: 150/299.0 | Rakip: 200/499 |
+ps4 | Fifa 16 Türkçe | Biz alış/satış: 150/299.0 | Rakip: 200/399 |
+ps4 | Fifa 17 Türkçe | Biz alış/satış: 200/349 | Rakip: 300/499 |
+ps4 | Fifa 18 Türkçe | Biz alış/satış: 200/500.0 | Rakip: 300/499 |
+ps4 | Fifa 20 Türkçe | Biz alış/satış: 300/500.0 | Rakip: 300/599 |
+ps4 | Ghost Of Tsushima Director's Cut Türkçe | Biz alış/satış: 1200/1799.0 | Rakip: 1000/1699 | alış > rakip alış
+ps4 | Ghost Of Tsushima Türkçe | Biz alış/satış: 900/1399 | Rakip: 700/1299 | alış > rakip alış
+ps4 | God Of War 2018 TÜRKÇE | Biz alış/satış: 500/799.0 | Rakip: 500/899 |
+ps4 | God Of War 3 Remastered Türkçe | Biz alış/satış: 600/899.0 | Rakip: 600/999 |
+ps4 | Gran Turismo 7 Türkçe | Biz alış/satış: 700/1199 | Rakip: 1000/1599 |
+ps4 | Gran Turismo Sport VR Türkçe | Biz alış/satış: 500/799.0 | Rakip: None/999 |
+ps4 | GTA 5 | Biz alış/satış: 700/1000.0 | Rakip: 700/1299 |
+ps4 | GTA The Trilogy | Biz alış/satış: 800/1299 | Rakip: 1000/1699 |
+ps4 | Hitman 3 | Biz alış/satış: 780/1299 | Rakip: 1300/1299 |
+ps4 | Horizon Forbidden West Türkçe | Biz alış/satış: 800/1299 | Rakip: 800/1399 |
+ps4 | Horizon Zero Dawn | Biz alış/satış: 150/299 | Rakip: 200/399 |
+ps4 | Horizon Zero Dawn Complete Edition | Biz alış/satış: 200/399 | Rakip: 300/499 |
+ps4 | Just Cause 3 | Biz alış/satış: 300/499 | Rakip: 500/599 |
+ps4 | Just Cause 4 | Biz alış/satış: 300/799.0 | Rakip: 300/899 |
+ps4 | Kingdom Hearts All İn One Package | Biz alış/satış: 1600/2199 | Rakip: 1800/2499 |
+ps4 | Kingdom Hearts HD 2.8 | Biz alış/satış: 600/700.0 | Rakip: 600/999 |
+ps4 | LEGO DC Super Villains | Biz alış/satış: 350/599 | Rakip: 400/699 |
+ps4 | LEGO İncredibles | Biz alış/satış: 350/599 | Rakip: 400/799 |
+ps4 | LEGO Jurassic World | Biz alış/satış: 500/799 | Rakip: 500/899 |
+ps4 | LEGO Marvel Avengers | Biz alış/satış: 400/699.0 | Rakip: 500/899 |
+ps4 | LEGO Marvel Collection | Biz alış/satış: 650/999 | Rakip: 700/1199 |
+ps4 | LEGO Marvel Super Heroes | Biz alış/satış: 500/799 | Rakip: 600/999 |
+ps4 | LEGO Marvel Super Heroes 2 | Biz alış/satış: 500/799.0 | Rakip: 500/899 |
+ps4 | LEGO Ninja Go | Biz alış/satış: 400/699 | Rakip: 500/799 |
+ps4 | LEGO Worlds | Biz alış/satış: 350/599 | Rakip: 400/699 |
+ps4 | Little Big Planet 3 | Biz alış/satış: 700/1199.0 | Rakip: 700/1299 |
+ps4 | Mad Max | Biz alış/satış: 500/799 | Rakip: 600/999 |
+ps4 | Mafia Trilogy | Biz alış/satış: 900/1500.0 | Rakip: 1000/1699 |
+ps4 | Marvel Avengers | Biz alış/satış: 600/999 | Rakip: 700/1199 |
+ps4 | Mass Effect Andromeda | Biz alış/satış: 400/699 | Rakip: 500/799 |
+ps4 | Matterfall | Biz alış/satış: 200/399 | Rakip: 400/699 |
+ps4 | Metal Gear Solid 5 Ground Zeroes | Biz alış/satış: 350/599.0 | Rakip: 400/699 |
+ps4 | Metal Gear Solid 5 The Definitive Experience | Biz alış/satış: 500/899 | Rakip: 700/1199 |
+ps4 | Metal Gear Solid 5 The Phantom Pain | Biz alış/satış: 400/699.0 | Rakip: 500/899 |
+ps4 | Metal Gear Survive | Biz alış/satış: 150/299 | Rakip: 300/499 |
+ps4 | Minecraft | Biz alış/satış: 1100/1599.0 | Rakip: 1200/1699 |
+ps4 | Mirror's Edge | Biz alış/satış: 400/699 | Rakip: 500/899 |
+ps4 | Monster Hunter World | Biz alış/satış: 450/800.0 | Rakip: 450/799 |
+ps4 | NBA 2K20 | Biz alış/satış: 250/600.0 | Rakip: 250/499 |
+ps4 | NBA 2K23 | Biz alış/satış: 400/800.0 | Rakip: 400/699 |
+ps4 | NBA 2K24 | Biz alış/satış: 500/900.0 | Rakip: 500/799 |
+ps4 | NBA 2K25 | Biz alış/satış: 800/1299 | Rakip: 700/1199 | alış > rakip alış
+ps4 | NBA 2K26 | Biz alış/satış: 1700/2199 | Rakip: 1200/1999 | alış > rakip alış
+ps4 | Need For Speed 2015 | Biz alış/satış: 450/699 | Rakip: 500/799 |
+ps4 | Need For Speed Payback | Biz alış/satış: 550/899.0 | Rakip: 600/999 |
+ps4 | Need For Speed Rivals | Biz alış/satış: 500/899 | Rakip: 600/999 |
+ps4 | Nier Automata | Biz alış/satış: 800/1299 | Rakip: 900/1499 |
+ps4 | Nier Automata Game Of The Year Edition | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
+ps4 | Nier Replicant VER.1.22474487139… | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
+ps4 | Nioh 1 | Biz alış/satış: 150/299 | Rakip: None/699 |
+ps4 | Nioh 2 | Biz alış/satış: 300/599 | Rakip: 500/899 |
+ps4 | No Man's Sky | Biz alış/satış: 350/599.0 | Rakip: 500/899 |
+ps4 | One Piece Burning Blood | Biz alış/satış: 400/699 | Rakip: 600/999 |
+ps4 | One Piece Pirate Warriors 3 | Biz alış/satış: 450/799 | Rakip: 1000/1299 |
+ps4 | Outlast Trinity | Biz alış/satış: 2000/2499 | Rakip: 1700/2499 | alış > rakip alış
+ps4 | Pes 2015 Türkçe | Biz alış/satış: 250/499 | Rakip: 300/499 |
+ps4 | Pes 2016 Türkçe | Biz alış/satış: 400/699 | Rakip: 400/799 |
+ps4 | Pes 2017 Türkçe | Biz alış/satış: 450/799 | Rakip: 400/799 | alış > rakip alış
+ps4 | Pes 2018 Türkçe | Biz alış/satış: 1000/1499 | Rakip: 1000/1799 |
+ps4 | Pes 2019 Türkçe | Biz alış/satış: 1000/1599.0 | Rakip: 1100/1899 |
+ps4 | Predator Hunting Grounds | Biz alış/satış: 250/499 | Rakip: 500/899 |
+ps4 | Resident Evil 2 | Biz alış/satış: 700/900.0 | Rakip: 700/1199 |
+ps4 | Resident Evil Origins Collection | Biz alış/satış: 600/999 | Rakip: 1000/1699 |
+ps4 | Resident Evil Revelatıons 1 | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
+ps4 | Resident Evil Revelatıons 2 | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
+ps4 | Sniper Elite 3 | Biz alış/satış: 500/899 | Rakip: 700/1199 |
+ps4 | Sniper Elite 5 | Biz alış/satış: 800/1199 | Rakip: 800/1299 |
+ps4 | Sniper Elite Resistance | Biz alış/satış: 1300/1799 | Rakip: 1400/1999 |
+ps4 | Sniper Ghost Warrior 3 | Biz alış/satış: 500/899 | Rakip: 700/1199 |
+ps4 | Sniper Ghost Warrior Contracts | Biz alış/satış: 500/899 | Rakip: 900/1499 |
+ps4 | Sniper Ghost Warrior Contracts 2 | Biz alış/satış: 500/899 | Rakip: 900/1499 |
+ps4 | Sonic Forces | Biz alış/satış: 700/1199 | Rakip: 800/1399 |
+ps4 | Spider-Man Marvel | Biz alış/satış: 1000/1200.0 | Rakip: 1000/1499 |
+ps4 | The Crew MOTORFEST | Biz alış/satış: 800/1399 | Rakip: 900/1499 |
+ps4 | The Last of Us 1 Türkçe | Biz alış/satış: 500/799.0 | Rakip: 500/899 |
+ps4 | The Last Of Us 2 Türkçe | Biz alış/satış: 800/1299.0 | Rakip: 900/1399 |
+ps4 | Tomb Raider Definitive Edition | Biz alış/satış: 400/699 | Rakip: 600/999 |
+ps4 | Tomb Raider Rise of | Biz alış/satış: 500/899 | Rakip: 700/1199 |
+ps4 | Tomb Raider Shadow Of The | Biz alış/satış: 500/899.0 | Rakip: 700/1199 |
+ps4 | UFC 2 | Biz alış/satış: 500/700.0 | Rakip: 500/899 |
+ps4 | UFC 3 | Biz alış/satış: 600/999 | Rakip: 900/1399 |
+ps4 | UFC 4 | Biz alış/satış: 1000/1399 | Rakip: 1200/1699 |
+ps4 | Uncharted 4 Türkçe Dublaj | Biz alış/satış: 500/799.0 | Rakip: 600/999 |
+ps4 | Uncharted Collection Türkçe Dublaj | Biz alış/satış: 600/899.0 | Rakip: 700/1199 |
+ps4 | Uncharted Kayıp Miras Türkçe Dublaj | Biz alış/satış: 500/700.0 | Rakip: 500/899 |
+ps4 | WWE 2K17 | Biz alış/satış: 600/1000.0 | Rakip: 600/999 |
+ps5 | Avatar Frontiers Of Pandora | Biz alış/satış: 1000/1500.0 | Rakip: 1000/1499 |
+ps5 | Battlefield 6 | Biz alış/satış: 1500/1999.0 | Rakip: 1500/2299 |
+ps5 | Call Of Duty Black Ops 5 Cold War | Biz alış/satış: 1000/1499 | Rakip: 1200/1999 |
+ps5 | Call Of Duty Black Ops 7 | Biz alış/satış: 2000/2499 | Rakip: 1600/2199 | alış > rakip alış
+ps5 | Call of Duty Modern Warfare 2 | Biz alış/satış: 1100/1599 | Rakip: 1300/1999 |
+ps5 | Crimson Desert | Biz alış/satış: 2500/3299 | Rakip: 2200/2899 | alış > rakip alış
+ps5 | Cyberpunk 2077 Ultimate Edition | Biz alış/satış: 1200/1699 | Rakip: 1300/1899 |
+ps5 | Dead Island 2 | Biz alış/satış: 1300/1800.0 | Rakip: 1300/1799 |
+ps5 | Dead Space | Biz alış/satış: 1000/1499 | Rakip: 1200/1799 |
+ps5 | Death Stranding 2 On The Beach | Biz alış/satış: 2200/2799 | Rakip: 2000/2599 | alış > rakip alış
+ps5 | Devil May Cry 5 | Biz alış/satış: 800/1399 | Rakip: 900/1499 |
+ps5 | Dragon Ball Fighter Z | Biz alış/satış: 800/1300.0 | Rakip: 800/1299 |
+ps5 | Elden Ring | Biz alış/satış: 700/1299 | Rakip: 1000/1699 |
+ps5 | Elden Ring Shadow | Biz alış/satış: None/1899 | Rakip: None/1999 |
+ps5 | Farming Simulator 25 | Biz alış/satış: 1500/2199 | Rakip: 1800/2499 |
+ps5 | FC 26 Türkçe Spiker | Biz alış/satış: 1500/1999.0 | Rakip: 800/1299 | alış ≥ rakip satış, alış > rakip alış
+ps5 | Gears Of War Reloaded | Biz alış/satış: 1500/1999 | Rakip: 1300/1799 | alış > rakip alış
+ps5 | Ghost Of Tsushima Director's Cut Türkçe | Biz alış/satış: 1200/1799 | Rakip: None/1999 |
+ps5 | Ghost of Yotei | Biz alış/satış: 2500/2800.0 | Rakip: 2400/2999 | alış > rakip alış
+ps5 | Ghostwire Tokyo | Biz alış/satış: 400/699 | Rakip: 400/799 |
+ps5 | Goat Simulator Remastered | Biz alış/satış: 800/1399 | Rakip: 800/1499 |
+ps5 | God Of War Ragnarök | Biz alış/satış: 1100/1700.0 | Rakip: 1100/1599 |
+ps5 | Godfall | Biz alış/satış: 600/899 | Rakip: 500/899 | alış > rakip alış
+ps5 | Gotham Knights | Biz alış/satış: 650/999 | Rakip: 600/999 | alış > rakip alış
+ps5 | Gran Turismo 7 Türkçe | Biz alış/satış: 1200/1699.0 | Rakip: 1300/1899 |
+ps5 | GTA 5 | Biz alış/satış: 800/1299 | Rakip: 700/1299 | alış > rakip alış
+ps5 | Heavy Cargo The Truck Simulator | Biz alış/satış: 1200/1699 | Rakip: 1100/1699 | alış > rakip alış
+ps5 | Heavy Duty Challenge | Biz alış/satış: 800/1299 | Rakip: 800/1499 |
+ps5 | Hell Is Us | Biz alış/satış: 1500/1999 | Rakip: 1400/1999 | alış > rakip alış
+ps5 | Hello Neighbor 2 | Biz alış/satış: 900/1299 | Rakip: 800/1299 | alış > rakip alış
+ps5 | Hired Gun | Biz alış/satış: 310/499 | Rakip: 500/999 |
+ps5 | Hitman 1-2-3 | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
+ps5 | Hitman 3 | Biz alış/satış: 800/1199 | Rakip: 700/1199 | alış > rakip alış
+ps5 | Hogwarts Legacy | Biz alış/satış: 800/1300.0 | Rakip: 800/1299 |
+ps5 | Horizon Forbidden West | Biz alış/satış: 1000/1499 | Rakip: 1300/1899 |
+ps5 | Judgment | Biz alış/satış: 400/749 | Rakip: 600/999 |
+ps5 | Jumanji | Biz alış/satış: 700/999 | Rakip: 700/1199 |
+ps5 | Kena Bridge Of Spirits | Biz alış/satış: 800/1299 | Rakip: 800/1499 |
+ps5 | Kingdom Come Deliverance 2 | Biz alış/satış: 1700/2199 | Rakip: 1600/2199 | alış > rakip alış
+ps5 | Lies Of P | Biz alış/satış: 1300/1799 | Rakip: 1400/1999 |
+ps5 | Little Nightmares 3 | Biz alış/satış: 1200/1799 | Rakip: 1000/1699 | alış > rakip alış
+ps5 | Metro Exodus Complete Edition | Biz alış/satış: 700/1199 | Rakip: 900/1499 |
+ps5 | Minecraft | Biz alış/satış: 1100/1699 | Rakip: 1300/1899 |
+ps5 | Minecraft Legends Deluxe Edition | Biz alış/satış: 900/1399 | Rakip: 900/1499 |
+ps5 | Mortal Kombat 1 | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
+ps5 | Mortal Kombat 11 Ultimate | Biz alış/satış: 600/999 | Rakip: 900/1499 |
+ps5 | Mount And Blade 2 Bannerlord | Biz alış/satış: 1000/1499 | Rakip: 1000/1599 |
+ps5 | NBA 2K24 | Biz alış/satış: 400/1000.0 | Rakip: 400/799 |
+ps5 | NBA 2K25 | Biz alış/satış: 800/1299 | Rakip: 700/1199 | alış > rakip alış
+ps5 | NBA 2K26 | Biz alış/satış: 1300/1799 | Rakip: 800/1399 | alış > rakip alış
+ps5 | NFS Unbound | Biz alış/satış: 800/1299 | Rakip: 1000/1599 |
+ps5 | One Piece Odyssey | Biz alış/satış: 800/1300.0 | Rakip: 800/1299 |
+ps5 | Resident Evil 2 | Biz alış/satış: 900/1399 | Rakip: 900/1499 |
+ps5 | Resident Evil 3 | Biz alış/satış: 900/1399 | Rakip: 900/1499 |
+ps5 | Resident Evil 4 | Biz alış/satış: 800/1299 | Rakip: 900/1499 |
+ps5 | Resident Evil 4 Gold Editiyon | Biz alış/satış: 1000/1499 | Rakip: 1100/1799 |
+ps5 | Resident Evil 7 Gold Editiyon | Biz alış/satış: 900/1399 | Rakip: 900/1499 |
+ps5 | Resident Evil Requiem | Biz alış/satış: 2400/3199.0 | Rakip: 1400/1999 | alış ≥ rakip satış, alış > rakip alış
+ps5 | Resident Evil Village | Biz alış/satış: 900/1299 | Rakip: 900/1499 |
+ps5 | Resident Evil Village Gold Edition | Biz alış/satış: 1000/1499 | Rakip: 1100/1799 |
+ps5 | Riders Republic | Biz alış/satış: 800/1299 | Rakip: 600/999 | alış > rakip alış
+ps5 | Rise Of The Ronin | Biz alış/satış: 1500/1999 | Rakip: 1200/1799 | alış > rakip alış
+ps5 | Roadcraft | Biz alış/satış: 1500/1899 | Rakip: 1400/1899 | alış > rakip alış
+ps5 | Sackboy A Big Adventure | Biz alış/satış: 1000/1599 | Rakip: 1200/1799 |
+ps5 | Saros | Biz alış/satış: 2500/3299 | Rakip: 2300/2999 | alış > rakip alış
+ps5 | Snow Runner | Biz alış/satış: 800/1300.0 | Rakip: 800/1299 |
+ps5 | Sonic Origins Plus | Biz alış/satış: 900/1399 | Rakip: 1100/1699 |
+ps5 | Spiderman Miles Morales | Biz alış/satış: 800/1299 | Rakip: 900/1399 |
+ps5 | Split Fiction | Biz alış/satış: 1500/1999 | Rakip: 1600/2199 |
+ps5 | Tekken 8 | Biz alış/satış: 1200/1699 | Rakip: 1200/1799 |
+ps5 | The Crew Motorfest | Biz alış/satış: 1000/1499 | Rakip: 1000/1599 |
+ps5 | The Last Of Us 1 Türkçe Dublaj | Biz alış/satış: 1100/1699 | Rakip: 1200/1799 |
+ps5 | The Last Of Us 2 Türkçe Dublaj | Biz alış/satış: 1100/1699 | Rakip: 1200/1799 |
+ps5 | The Witcher 3 Wild Hunt | Biz alış/satış: 800/1399.0 | Rakip: 1000/1699 |
+ps5 | UFC 5 | Biz alış/satış: 1100/1699 | Rakip: 1200/1799 |
+ps5 | Undisputed | Biz alış/satış: 1200/1699 | Rakip: 1100/1699 | alış > rakip alış
+ps5 | Until Dawn | Biz alış/satış: 1100/1699 | Rakip: 1200/1799 |
+switch1 | 1-2 Switch | Biz alış/satış: 1100/1699 | Rakip: 1400/2499 |
+switch1 | Animal Crossing New Horizons | Biz alış/satış: 1200/1799 | Rakip: 1600/2699 |
+switch1 | Arms | Biz alış/satış: 1100/1699 | Rakip: 1300/2199 |
+switch1 | Batman Arkham Trilogy | Biz alış/satış: 1100/1799 | Rakip: 1400/2499 |
+switch1 | Bayonetta 3 | Biz alış/satış: 1100/1899 | Rakip: 1400/2499 |
+switch1 | Burnout Paradise Remastered | Biz alış/satış: 1000/1499 | Rakip: 1000/2199 |
+switch1 | Cars 3 Driven To Win | Biz alış/satış: 600/999 | Rakip: 1200/1999 |
+switch1 | Crash Bandicoot 4 It's About Time | Biz alış/satış: 1100/1599 | Rakip: 1200/2199 |
+switch1 | Crash Bandicoot N.Sane Trilogy | Biz alış/satış: 1100/1599.0 | Rakip: 1300/2199 |
+switch1 | Crash Team Racing Nitro-Fueled | Biz alış/satış: 900/1399 | Rakip: 1300/2299 |
+switch1 | Crysis Remastered | Biz alış/satış: 1000/1499 | Rakip: 1300/2199 |
+switch1 | Cuphead | Biz alış/satış: 700/1399 | Rakip: 1100/2399 |
+switch1 | Donkey Kong Country Tropical Freeze | Biz alış/satış: 1200/1799 | Rakip: 1600/2999 |
+switch1 | Doom | Biz alış/satış: 900/1499 | Rakip: 1200/2499 |
+switch1 | Dragon Quest Builders 1 | Biz alış/satış: 900/1499 | Rakip: None/1899 |
+switch1 | Dragon Quest Builders 2 | Biz alış/satış: None/1499 | Rakip: None/1899 |
+switch1 | FC 24 | Biz alış/satış: 500/999 | Rakip: 700/1399 |
+switch1 | FC 25 | Biz alış/satış: 1400/2000.0 | Rakip: 900/1599 | alış > rakip alış
+switch1 | Fifa 18 | Biz alış/satış: 200/499 | Rakip: 400/699 |
+switch1 | Fifa 19 | Biz alış/satış: 200/499 | Rakip: 500/799 |
+switch1 | Fifa 20 | Biz alış/satış: 200/499 | Rakip: 500/799 |
+switch1 | Fifa 21 | Biz alış/satış: 250/599 | Rakip: 550/899 |
+switch1 | Fifa 22 | Biz alış/satış: 300/699 | Rakip: 600/999 |
+switch1 | Fifa 23 | Biz alış/satış: 400/799 | Rakip: 600/999 |
+switch1 | Grand Theft Auto The Trilogy | Biz alış/satış: 1100/1599 | Rakip: 1600/2199 |
+switch1 | Hello Neighbor 2 | Biz alış/satış: 800/1399 | Rakip: 1200/1999 |
+switch1 | Hogwarts Legacy | Biz alış/satış: 1000/1699 | Rakip: 1100/1999 |
+switch1 | İce Age Scrats Nutty Adventure | Biz alış/satış: 800/1399 | Rakip: 1200/1999 |
+switch1 | Kirby And The Forgotten Land | Biz alış/satış: 1100/1699 | Rakip: 1600/2799 |
+switch1 | Kirby Star Allies | Biz alış/satış: 1100/1699 | Rakip: 1600/2799 |
+switch1 | Kirby's Return To Dream Land Deluxe | Biz alış/satış: 1100/1699 | Rakip: 1600/2799 |
+switch1 | LEGO 2K Drive | Biz alış/satış: 800/1399 | Rakip: 800/1599 |
+switch1 | LEGO City Undercover | Biz alış/satış: 800/1399 | Rakip: 800/1499 |
+switch1 | LEGO DC Super Villains | Biz alış/satış: 800/1399 | Rakip: 800/1699 |
+switch1 | LEGO Harry Potter Collection | Biz alış/satış: 600/1199 | Rakip: 900/1799 |
+switch1 | LEGO Horizon Adventures | Biz alış/satış: 1000/1899 | Rakip: 1200/2199 |
+switch1 | LEGO Jurassic World | Biz alış/satış: 600/1199 | Rakip: 800/1499 |
+switch1 | LEGO Marvel Super Heroes 2 | Biz alış/satış: 650/1299 | Rakip: 780/1499 |
+switch1 | LEGO Movie 2 Video Game | Biz alış/satış: 700/1199 | Rakip: 600/1199 | alış > rakip alış
+switch1 | LEGO NinjaGo Movie Video Game | Biz alış/satış: 600/1199 | Rakip: 600/1399 |
+switch1 | LEGO Star Wars The Skywalker Saga | Biz alış/satış: 1000/1599 | Rakip: 1000/1799 |
+switch1 | LEGO The İncredibles | Biz alış/satış: 600/1199 | Rakip: 700/1499 |
+switch1 | LEGO Worlds | Biz alış/satış: 500/899 | Rakip: 800/1499 |
+switch1 | Luigi's Mansion 2 HD | Biz alış/satış: 1200/1899 | Rakip: 1400/2699 |
+switch1 | Luigis Mansion 3 | Biz alış/satış: 1200/1899 | Rakip: 1400/2699 |
+switch1 | Mario + Rabbids Kingdom Battle | Biz alış/satış: 800/1399 | Rakip: 1000/1899 |
+switch1 | Mario + Rabbids Sparks Of Hope | Biz alış/satış: 700/1299 | Rakip: 1100/1999 |
+switch1 | Mario Golf Super Rush | Biz alış/satış: 1200/1899 | Rakip: 1100/1999 | alış > rakip alış
+switch1 | Mario Kart 8 Deluxe | Biz alış/satış: 1200/1899 | Rakip: 1400/2699 |
+switch1 | Mario Party Superstars | Biz alış/satış: 1200/1799 | Rakip: 1300/2499 |
+switch1 | Mario Strikers Battle League Football | Biz alış/satış: 1200/1899 | Rakip: 1100/1999 | alış > rakip alış
+switch1 | Marvel Ultimate Alliance 3 | Biz alış/satış: 1000/1699 | Rakip: 1000/1799 |
+switch1 | Metro Redux | Biz alış/satış: 900/1499 | Rakip: 1200/2199 |
+switch1 | Metroid Dread | Biz alış/satış: 1100/1899 | Rakip: 1300/2499 |
+switch1 | Metroid Prime Remastered | Biz alış/satış: 1100/1899 | Rakip: 1300/2499 |
+switch1 | Minecraft | Biz alış/satış: 900/1499 | Rakip: 1000/1899 |
+switch1 | Minecraft Dungeons Hero Edition | Biz alış/satış: 1000/1599 | Rakip: 1000/1799 |
+switch1 | Minecraft Dungeons Ultimate Edition | Biz alış/satış: 1000/1599 | Rakip: 1000/1799 |
+switch1 | Minecraft Legends | Biz alış/satış: 900/1499 | Rakip: 900/1699 |
+switch1 | Monster Hunter Rise | Biz alış/satış: 700/1299 | Rakip: 700/1499 |
+switch1 | Mortal Kombat 1 | Biz alış/satış: 1000/1499 | Rakip: 1200/2199 |
+switch1 | Mortal Kombat 11 | Biz alış/satış: 600/1199 | Rakip: 700/1499 |
+switch1 | Mortal Kombat 11 Ultimate | Biz alış/satış: 900/1499 | Rakip: 1000/1899 |
+switch1 | NBA 2K24 | Biz alış/satış: 600/1199 | Rakip: 600/1399 |
+switch1 | NBA 2K25 | Biz alış/satış: 1300/1999 | Rakip: 1000/1999 | alış > rakip alış
+switch1 | Need For Speed Hot Pursuit Remastered | Biz alış/satış: 1100/1799 | Rakip: 1100/1999 |
+switch1 | New Pokemon Snap | Biz alış/satış: 120/1899 | Rakip: 1300/2199 |
+switch1 | Olympic Games Tokyo 2020 | Biz alış/satış: 900/1699 | Rakip: None/2199 |
+switch1 | Overcooked 2 | Biz alış/satış: 800/1499 | Rakip: 900/1799 |
+switch1 | Paper Mario The Origami King | Biz alış/satış: 1100/1899 | Rakip: 1000/1999 | alış > rakip alış
+switch1 | Pokemon Brilliant Diamond | Biz alış/satış: 1100/1899 | Rakip: 1300/2299 |
+switch1 | Pokemon Legends Arceus | Biz alış/satış: 1200/1899 | Rakip: 1400/2499 |
+switch1 | Pokemon Lets Go Eevee | Biz alış/satış: 1100/1899 | Rakip: 1400/2499 |
+switch1 | Pokemon Lets Go Pikachu | Biz alış/satış: 1100/1899 | Rakip: 1400/2499 |
+switch1 | Pokemon Scarlet | Biz alış/satış: 1200/1899 | Rakip: 1400/2499 |
+switch1 | Pokemon Shield | Biz alış/satış: 1100/1899 | Rakip: 1300/2299 |
+switch1 | Pokemon Shining Pearl | Biz alış/satış: 1100/1899 | Rakip: 1200/2199 |
+switch1 | Pokemon Sword | Biz alış/satış: 1100/1899 | Rakip: 1300/2299 |
+switch1 | Pokemon Violet | Biz alış/satış: 1200/1899 | Rakip: 1400/2499 |
+switch1 | Pokken Tournament Dx | Biz alış/satış: 1100/1899 | Rakip: 1100/2199 |
+switch1 | Rayman Legends Definitive Edition | Biz alış/satış: 600/1199 | Rakip: 700/1499 |
+switch1 | Red Dead Redemption | Biz alış/satış: 1100/1799 | Rakip: 1400/2399 |
+switch1 | Resident Evil Origins Collection | Biz alış/satış: 1100/1799 | Rakip: 1100/1999 |
+switch1 | Sonic Mania Plus | Biz alış/satış: 600/1199 | Rakip: 700/1499 |
+switch1 | Sonic Origins Plus | Biz alış/satış: 1000/1699 | Rakip: 1000/1899 |
+switch1 | Sonic X Shadow Generations | Biz alış/satış: 1000/1599 | Rakip: 1300/2199 |
+switch1 | Splatoon 2 | Biz alış/satış: 900/1499 | Rakip: 800/1499 | alış > rakip alış
+switch1 | Splatoon 3 | Biz alış/satış: 1200/2000.0 | Rakip: 1400/2499 |
+switch1 | Sports Ve Ayak Bandı | Biz alış/satış: 1200/1999 | Rakip: 2000/3499 |
+switch1 | Spyro Reignited Trilogy | Biz alış/satış: 1000/1699 | Rakip: 1200/2399 |
+switch1 | Stray | Biz alış/satış: 1100/1799 | Rakip: 1300/2499 |
+switch1 | Super Mario 3D All-Stars | Biz alış/satış: 1200/1899 | Rakip: 1600/2899 |
+switch1 | Super Mario 3D World ve Bowser's Fury | Biz alış/satış: 1200/1899 | Rakip: 1500/2699 |
+switch1 | Super Mario Bros Wonder | Biz alış/satış: 1200/1899 | Rakip: 1500/2599 |
+switch1 | Super Mario Bros.U Deluxe | Biz alış/satış: 1200/2000.0 | Rakip: 1400/2499 |
+switch1 | Super Mario Maker 2 | Biz alış/satış: 1200/1899 | Rakip: 1400/2499 |
+switch1 | Super Mario Odyssey | Biz alış/satış: 1300/1999 | Rakip: 1400/2499 |
+switch1 | Super Mario Party | Biz alış/satış: 900/1699 | Rakip: 1300/2499 |
+switch1 | Super Mario Party Jamboree | Biz alış/satış: 1200/1899 | Rakip: 1300/2499 |
+switch1 | Super Mario RPG | Biz alış/satış: 1200/1899 | Rakip: 1200/2199 |
+switch1 | Super Smash Bros Ultimate | Biz alış/satış: 1200/1799 | Rakip: 1400/2499 |
+switch1 | The Legend Of Zelda Breath Of The Wild | Biz alış/satış: 1300/1899 | Rakip: 1700/2699 |
+switch1 | The Legend Of Zelda Echoes Of Wisdom | Biz alış/satış: 1200/1899 | Rakip: 1500/2599 |
+switch1 | The Legend Of Zelda Links Awakening | Biz alış/satış: 1200/1899 | Rakip: 1300/2499 |
+switch1 | The Legend Of Zelda Skyward Sword Hd | Biz alış/satış: 1200/1899 | Rakip: 1200/2199 |
+switch1 | The Legend Of Zelda Tears Of The Kingdom | Biz alış/satış: 1300/2000.0 | Rakip: 1700/2699 |
+switch1 | The Witcher 3 Wild Hunt Complete Edition | Biz alış/satış: 1200/1899 | Rakip: 1000/1999 | alış > rakip alış
+switch1 | Wolfenstein 2 The New Colossus | Biz alış/satış: 800/1399 | Rakip: 800/1499 |
+switch1 | Xenoblade Chronicles 2 | Biz alış/satış: 900/1499 | Rakip: 1100/2299 |
+switch1 | Xenoblade Chronicles 3 | Biz alış/satış: 1100/1799 | Rakip: 1400/2599 |
+switch1 | Yoshi's Crafted World | Biz alış/satış: 1100/1799 | Rakip: 1100/2199 |
+switch2 | Cyberpunk 2077:Ultimate Edition | Biz alış/satış: 2000/2699 | Rakip: 2000/2999 |
+switch2 | Donkey Kong Bananza | Biz alış/satış: 2400/3199 | Rakip: 2200/3499 | alış > rakip alış
+switch2 | FC 26 | Biz alış/satış: 2000/2699 | Rakip: 1100/1999 | alış ≥ rakip satış, alış > rakip alış
+switch2 | Hitman World Of Assassination | Biz alış/satış: 1700/2299 | Rakip: 2000/2999 |
+switch2 | Hogwarts Legacy | Biz alış/satış: 1700/2299 | Rakip: 1700/2499 |
+switch2 | Hyrule Warriors: Age Of Imprisonment | Biz alış/satış: 2400/3199 | Rakip: 2200/3499 | alış > rakip alış
+switch2 | Kirby Air Riders | Biz alış/satış: 2400/3199 | Rakip: 2100/3399 | alış > rakip alış
+switch2 | Kirby And The Forgetten Land + Star-Crossed World | Biz alış/satış: 2200/2999 | Rakip: 2100/3399 | alış > rakip alış
+switch2 | Little Nightmares 3 | Biz alış/satış: 1400/1899 | Rakip: 1400/2299 |
+switch2 | Mario Kart World | Biz alış/satış: 2200/2999 | Rakip: 2200/3499 |
+switch2 | NBA 2K26 | Biz alış/satış: 1800/2399 | Rakip: 1800/2799 |
+switch2 | Persona 3 Reload | Biz alış/satış: 1500/1999 | Rakip: 1500/2799 |
+switch2 | Pokemon Legends: Z-A | Biz alış/satış: 2100/2799 | Rakip: 2100/3299 |
+switch2 | Sonic X Shadow Generations | Biz alış/satış: 1500/1999 | Rakip: 2000/2999 |
+switch2 | Super Mario Party Jamboree + Jamboree TV | Biz alış/satış: 2200/2999 | Rakip: 2200/3499 |
+switch2 | The Legend Of Zelda: Breath Of The Wild | Biz alış/satış: 2200/2999 | Rakip: 2200/3299 |
+switch2 | The Legend Of Zelda: Tears Of The Kingdom | Biz alış/satış: 2200/2999 | Rakip: 2300/3499 |
+switch2 | W 2K25 | Biz alış/satış: 1900/2499 | Rakip: 1500/2499 | alış > rakip alış

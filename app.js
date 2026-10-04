@@ -76,8 +76,12 @@
     return row.mode === "sell" && !!stock && stock.stokta === true;
   }
   function priceOf(row) {
-    // Takas değeri yalnızca müşteriye açık katalog teklifidir.
-    if (row.mode === "buy") return positivePrice(row.g.buy);
+    // İşletmenin kendi satışına eşit/yüksek teklifi kesin tutar olarak sunma.
+    if (row.mode === "buy") {
+      var offer = positivePrice(row.g.buy);
+      var sale = priceOf(viewOf(row.g, "sell", "2el"));
+      return offer !== null && sale !== null && offer >= sale ? null : offer;
+    }
     var stock = stockOf(row.g, row.condition);
     var livePrice = inStock(row) ? positivePrice(stock.satis) : null;
     if (livePrice !== null) return livePrice;
@@ -138,7 +142,7 @@
         '<div class="kt-price-row kt-price-single">' + price + '</div>' +
         '<div class="kt-card-foot">' +
           '<span class="kt-select-hint"><i class="bi bi-plus-lg"></i> Seç</span>' +
-          '<a class="kt-card-wa" href="' + escapeHtml(waSingle(row)) + '" target="_blank" rel="noopener" title="Bu oyunu WhatsApp\'tan sor"><i class="bi bi-whatsapp"></i></a>' +
+          '<a class="kt-card-wa" href="' + escapeHtml(waSingle(row)) + '" target="_blank" rel="noopener" aria-label="' + escapeHtml(g.name + ' — ' + conditionLabel(row.condition) + ' için WhatsApp’tan sor') + '" title="Bu oyunu WhatsApp\'tan sor"><i class="bi bi-whatsapp"></i></a>' +
         '</div>' +
       '</div></div>';
   }
@@ -410,9 +414,35 @@
     applyFilter();
   });
 
+  function fetchJson(url) {
+    return new Promise(function (resolve, reject) {
+      var controller = new AbortController();
+      var timer = setTimeout(function () {
+        controller.abort();
+        reject(new Error("Bağlantı zaman aşımı"));
+      }, 12000);
+      fetch(url, { cache: "no-cache", signal: controller.signal })
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (value) { clearTimeout(timer); resolve(value); },
+              function (error) { clearTimeout(timer); reject(error); });
+    });
+  }
+  function validStock(stock) {
+    function record(value) { return value && typeof value === "object" && !Array.isArray(value); }
+    if (!record(stock)) return false;
+    return Object.keys(stock).every(function (id) {
+      var entry = stock[id];
+      if (!record(entry) || typeof entry.stokta !== "boolean") return false;
+      if (!Object.prototype.hasOwnProperty.call(entry, "varyantlar")) return true;
+      return record(entry.varyantlar) && Object.keys(entry.varyantlar).every(function (condition) {
+        var variant = entry.varyantlar[condition];
+        return (condition === "2el" || condition === "sifir") && record(variant) && typeof variant.stokta === "boolean";
+      });
+    });
+  }
+
   /* ---------- veri ---------- */
-  fetch("data/games.json", { cache: "no-cache" })
-    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+  fetchJson("data/games.json")
     .then(function (data) {
       state.labels = data.platforms || {};
       state.all = (data.games || []).map(function (g) {
@@ -421,14 +451,13 @@
       });
       if (data.updatedAt) {
         var u = $("#ktUpdated");
-        if (u) u.textContent = data.updatedAt.split(" ")[0] + " tarihinde";
+        if (u) u.textContent = data.updatedAt.split(" ")[0];
       }
       applyFilter();
       // TM canlı stok durumu (opsiyonel — erişilemezse site normal çalışır)
-      fetch("https://app.konsoltech.tr/api/takas-stok.json", { cache: "no-cache" })
-        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      fetchJson("https://app.konsoltech.tr/api/takas-stok.json")
         .then(function (stok) {
-          if (!stok || typeof stok !== "object" || Array.isArray(stok)) throw new Error("Geçersiz stok yanıtı");
+          if (!validStock(stok)) throw new Error("Geçersiz stok yanıtı");
           state.stok = stok;
           state.stokStatus = "ready";
           applyFilter(true);

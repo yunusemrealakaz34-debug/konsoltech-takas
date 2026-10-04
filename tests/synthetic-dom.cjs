@@ -123,8 +123,8 @@ async function createApp(games, options = {}) {
   const requests = [];
   let nextTimer = 0;
   vm.runInNewContext(fs.readFileSync(path.join(__dirname, '../app.js'), 'utf8'), {
-    document, URL, console: { error() {} },
-    setTimeout: callback => { timers.set(++nextTimer, callback); return nextTimer; },
+    document, URL, AbortController, console: { error() {} },
+    setTimeout: (callback, delay) => { timers.set(++nextTimer, { callback, delay }); return nextTimer; },
     clearTimeout: id => timers.delete(id),
     fetch: url => {
       requests.push(url);
@@ -151,7 +151,7 @@ async function createApp(games, options = {}) {
     search(value) {
       elements.ktSearch.value = value;
       elements.ktSearch.fire('input', { target: elements.ktSearch });
-      for (const [id, callback] of timers) { timers.delete(id); callback(); }
+      for (const [id, timer] of timers) { if (timer.delay <= 120) { timers.delete(id); timer.callback(); } }
     },
     selectedOnly: () => elements.ktBulkView.fire('click'),
     clear: () => elements.ktBulkClear.fire('click'),
@@ -174,6 +174,7 @@ async function createApp(games, options = {}) {
       else inventory.reject(new Error('Offline'));
       await flush();
     },
+    async timeout() { for (const [id, timer] of timers) { timers.delete(id); timer.callback(); } await flush(); },
     errorBodyReads: () => errorBodyReads
   };
   if (Object.hasOwn(options, 'stock')) await app.inventory(options.stock);

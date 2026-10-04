@@ -1,138 +1,104 @@
-KonsolTech — oyunmerkezi'de olup bizde OLMAYAN oyunlar
-Fiyatlarını belirleyip ilgili CSV'ye ekle, sonra build_data.py çalıştır.
-============================================================
+Katalogda eşleşmeyen aday oyunlar
+2026-10-04T14:18:16+03:00
+Yazım, sürüm, fiziksel çıkış ve fiyat onayından sonra eklenir.
 
-## PS5 — sitede 302 oyun, bizde olmayan 28:
-  - 007 First Light
-  - A Plague Tale Resonance
-  - Alien Fireteam Elite
-  - Assasins Creed Black Flag Resynced
-  - Beast Of Reincarnation
-  - Captain Tsubasa 2 World Fighters
-  - FC 27 Türkçe Spiker
-  - Famring Simulator 22
-  - Ghost Of Tsushima Director's Cut
-  - Ghost of Yōtei
-  - Halo Campaign Evolved
-  - Kingdom Come Deliverance 1
-  - Lego Batman
-  - Marvel Tokon Fighting Souls
-  - Metal Gear Solid Master Collection Vol 1
-  - Metal Gear Solid Master Collection Vol 2
-  - Metro Exodus Complette Edition
-  - Microsoft Flight Simulator 2024
-  - Mortal Shell 2
-  - NBA 2K27
-  - Onimusha Way Of The Sword
-  - Red Dead Redemption
-  - Ride 6
-  - Silent Hill Townfall
-  - Starfield
-  - The Blood Of Dawnwalker
-  - UFC 6
-  - Wolverine Marvel
-
-## SWITCH1 — sitede 147 oyun, bizde olmayan 35:
-  - Animal Crosssing New Horizons
-  - Astral Chain
-  - Dragon Quest Builders
-  - FC 26
-  - FC 27
-  - Fire Emblem Engage
-  - Fire Emblem Three Hopes
-  - Fire Emblem Three Houses
-  - LEGO Movie 1 Video Game
-  - Mario Luigi Brothership
-  - Mario Tennis Aces
-  - Mario Vs Donkey Kong
-  - Mortal Kombat Legacy
-  - Mortal Kombat Legacy]p+2999]
-  - NBA 2K26
-  - Olympic Games The Official Video Games
-  - Ori The Collection
-  - Paper Mario The Thousand-Year Door
-  - Pikmin 4
-  - Pokemon Z-A
-  - Prince Of Persia The Lost Crown
-  - Princess Peach Showtime
-  - Resident Evil Triple Pack
-  - Ring Fit set
-  - Scribblenatus Showdown
-  - Sniper Elite V2
-  - Sonic Colors Ultimate
-  - Sonic Forces
-  - Sonic Frontiers
-  - Sonic Superstars
-  - Sonic Team Racing
-  - Super Mario Galaxy + Galaxy 2
-  - The Elder Scrolls V Skyrim
-  - Tomodachi Life
-  - İt Takes Two
-
-## SWITCH2 — sitede 53 oyun, bizde olmayan 32:
-  - Animal Crossing New Horizons
-  - Assasins Creed Shadows
-  - Cronos The New Dawn
-  - Dragon Ball Sparking Zero
-  - E Football Kick Off
-  - FC 27
-  - Final Fantasy VII Rebirth
-  - Gear Club Unlimited 3
-  - Hades 2
-  - Mario Tennis Fever
-  - Metroit Prime 4 Beyond
-  - Monster Hunter Stories 3
-  - Mortal Kombat Legacy Kollection
-  - Pokemon Pokopia
-  - Pragmata
-  - Prince Of Persia The Rogue
-  - Reanimal
-  - Resident Evil Requiem
-  - Resident Evil Village
-  - Sonic Racing Crossworlds
-  - Split Fiction
-  - Street Figter 6 Years 1-2
-  - Super Mario Bros Wonder
-  - Tales Of Arise Beyond The Dawn
-  - The Legend Of Heroes Trails Beyond The Horizon
-  - W 2K26
-  - Wild Hearts
-  - Yakuza 0 Directors Cut
-  - Yakuza Kiwami 1
-  - Yakuza Kiwami 2
-  - Yoshi and the Mysterious Book
-  - İndiana Jones
-
-## PS4 — sitede 491 oyun, bizde olmayan 32:
-  - Ace Combat 7
-  - Among Us Crewmate Edition
-  - Assassin's Creed IV black Flag
-  - Assassin's Creed Odysses
-  - Assassin's Creed Rouge
-  - Assassins Creed Mirage
-  - Asseetto Corsa
-  - Bloodborne GOTY TÜRKÇE
-  - Crash Team Rumble Deluxe
-  - Dragon Ball Xenoverse
-  - FC 27 Türkçe Spiker
-  - Gran Turismo Sport
-  - Hello Neighbor Hide & Seek
-  - Journey Collector's Edition
-  - LittleBigPlanet 3
-  - MafiaTrilogy
-  - Naruto Shippuden Ultimate Ninja Strom
-  - Naruto Trilogy
-  - Nioh
-  - One Piece Odyssey
-  - One Piece Pirate Warriors 4
-  - One Piece World Seeker
-  - Pes 2021 Türklçe
-  - Rabbids İnvasion
-  - Spider-Man 2 The Amazing
-  - Spider-Man Miles Morales
-  - The Outher Worlds
-  - The Witcher 3 Wild Hunt
-  - Until Dawn
-  - Watch Dogs
-  - Wipeout Omega Colletion
-  - Zombie
+ps4 | Ace Combat 7 | Rakip alış/satış: 600/None
+ps4 | Bloodborne GOTY TÜRKÇE | Rakip alış/satış: 700/None
+ps4 | Crash Team Rumble Deluxe | Rakip alış/satış: 900/1499
+ps4 | Gran Turismo Sport | Rakip alış/satış: 600/None
+ps4 | Journey Collector's Edition | Rakip alış/satış: 500/None
+ps4 | Naruto Shippuden Ultimate Ninja Strom | Rakip alış/satış: 450/None
+ps4 | Nioh | Rakip alış/satış: 400/None
+ps4 | One Piece Odyssey | Rakip alış/satış: 800/1399
+ps4 | One Piece World Seeker | Rakip alış/satış: 900/1499
+ps4 | The Witcher 3 Wild Hunt | Rakip alış/satış: 500/None
+ps4 | Until Dawn | Rakip alış/satış: 600/None
+ps4 | One Piece Pirate Warriors 4 | Rakip alış/satış: None/1699
+ps5 | 007 First Light | Rakip alış/satış: 2700/3499
+ps5 | A Plague Tale Resonance | Rakip alış/satış: 2400/2999
+ps5 | Alien Fireteam Elite | Rakip alış/satış: 900/None
+ps5 | Assasins Creed Black Flag Resynced | Rakip alış/satış: 2000/2799
+ps5 | Beast Of Reincarnation | Rakip alış/satış: 2300/2999
+ps5 | Captain Tsubasa 2 World Fighters | Rakip alış/satış: 2300/2999
+ps5 | Ghost Of Tsushima Director's Cut | Rakip alış/satış: 1400/None
+ps5 | Halo Campaign Evolved | Rakip alış/satış: 2400/2999
+ps5 | Kingdom Come Deliverance 1 | Rakip alış/satış: 1600/2199
+ps5 | Lego Batman | Rakip alış/satış: 2000/2699
+ps5 | Marvel Tokon Fighting Souls | Rakip alış/satış: 2300/2999
+ps5 | Metal Gear Solid Master Collection Vol 1 | Rakip alış/satış: 2000/2499
+ps5 | Metal Gear Solid Master Collection Vol 2 | Rakip alış/satış: 2300/2999
+ps5 | Microsoft Flight Simulator 2024 | Rakip alış/satış: 2700/3499
+ps5 | Mortal Shell 2 | Rakip alış/satış: 2400/2999
+ps5 | NBA 2K27 | Rakip alış/satış: 2500/2999
+ps5 | Onimusha Way Of The Sword | Rakip alış/satış: 2800/3499
+ps5 | Red Dead Redemption | Rakip alış/satış: 1200/1799
+ps5 | Ride 6 | Rakip alış/satış: 1800/2499
+ps5 | Silent Hill Townfall | Rakip alış/satış: 2300/2999
+ps5 | Starfield | Rakip alış/satış: 2000/2799
+ps5 | The Blood Of Dawnwalker | Rakip alış/satış: 2700/3499
+ps5 | UFC 6 | Rakip alış/satış: 2700/3399
+ps5 | Wolverine Marvel | Rakip alış/satış: 3000/3799
+switch1 | Astral Chain | Rakip alış/satış: 1500/2999
+switch1 | Dragon Quest Builders | Rakip alış/satış: 1000/None
+switch1 | FC 26 | Rakip alış/satış: 1000/1999
+switch1 | FC 27 | Rakip alış/satış: 3500/4299
+switch1 | Fire Emblem Engage | Rakip alış/satış: 1300/2499
+switch1 | Fire Emblem Three Houses | Rakip alış/satış: 1300/2499
+switch1 | Fire Emblem Three Hopes | Rakip alış/satış: 1200/2399
+switch1 | İt Takes Two | Rakip alış/satış: 1300/2199
+switch1 | LEGO Movie 1 Video Game | Rakip alış/satış: 600/1199
+switch1 | Mario Luigi Brothership | Rakip alış/satış: 1300/2499
+switch1 | Mario Tennis Aces | Rakip alış/satış: 1100/1999
+switch1 | Mario Vs Donkey Kong | Rakip alış/satış: 1100/1999
+switch1 | Mortal Kombat Legacy | Rakip alış/satış: 1800/None
+switch1 | NBA 2K26 | Rakip alış/satış: 1500/2499
+switch1 | Olympic Games The Official Video Games | Rakip alış/satış: 1300/None
+switch1 | Ori The Collection | Rakip alış/satış: 1400/2499
+switch1 | Paper Mario The Thousand-Year Door | Rakip alış/satış: 1300/2499
+switch1 | Pikmin 4 | Rakip alış/satış: 1400/2499
+switch1 | Pokemon Z-A | Rakip alış/satış: 1600/2599
+switch1 | Prince Of Persia The Lost Crown | Rakip alış/satış: 1000/1999
+switch1 | Princess Peach Showtime | Rakip alış/satış: 1200/2499
+switch1 | Resident Evil Triple Pack | Rakip alış/satış: 1100/1999
+switch1 | Ring Fit set | Rakip alış/satış: 4000/6499
+switch1 | Scribblenatus Showdown | Rakip alış/satış: 800/1799
+switch1 | Sniper Elite V2 | Rakip alış/satış: 1400/2499
+switch1 | Sonic Colors Ultimate | Rakip alış/satış: 900/1599
+switch1 | Sonic Frontiers | Rakip alış/satış: 1000/1699
+switch1 | Sonic Superstars | Rakip alış/satış: 1100/1999
+switch1 | Sonic Forces | Rakip alış/satış: 1300/2299
+switch1 | Sonic Team Racing | Rakip alış/satış: 1000/1899
+switch1 | Super Mario Galaxy + Galaxy 2 | Rakip alış/satış: 2000/2999
+switch1 | The Elder Scrolls V Skyrim | Rakip alış/satış: 1000/2199
+switch1 | Tomodachi Life | Rakip alış/satış: 2100/3299
+switch2 | Animal Crossing New Horizons | Rakip alış/satış: 2200/3499
+switch2 | Assasins Creed Shadows | Rakip alış/satış: 2000/2999
+switch2 | Cronos The New Dawn | Rakip alış/satış: 2000/2999
+switch2 | Dragon Ball Sparking Zero | Rakip alış/satış: 2000/3199
+switch2 | E Football Kick Off | Rakip alış/satış: 2000/2999
+switch2 | FC 27 | Rakip alış/satış: 3500/4299
+switch2 | Final Fantasy VII Rebirth | Rakip alış/satış: 2000/3199
+switch2 | Gear Club Unlimited 3 | Rakip alış/satış: 1700/2699
+switch2 | Hades 2 | Rakip alış/satış: 2000/2999
+switch2 | İndiana Jones | Rakip alış/satış: 2200/3499
+switch2 | Mario Tennis Fever | Rakip alış/satış: 2000/3199
+switch2 | Metroit Prime 4 Beyond | Rakip alış/satış: 2000/2999
+switch2 | Mortal Kombat Legacy Kollection | Rakip alış/satış: 2500/3799
+switch2 | Monster Hunter Stories 3 | Rakip alış/satış: 2000/2999
+switch2 | Pokemon Pokopia | Rakip alış/satış: 2500/3999
+switch2 | Pragmata | Rakip alış/satış: 2200/3499
+switch2 | Prince Of Persia The Rogue | Rakip alış/satış: 2000/2999
+switch2 | Reanimal | Rakip alış/satış: 1400/2199
+switch2 | Resident Evil Village | Rakip alış/satış: 1800/2799
+switch2 | Resident Evil Requiem | Rakip alış/satış: 2500/3799
+switch2 | Sonic Racing Crossworlds | Rakip alış/satış: 2000/3199
+switch2 | Split Fiction | Rakip alış/satış: 2000/2999
+switch2 | Street Figter 6 Years 1-2 | Rakip alış/satış: 2400/3499
+switch2 | Super Mario Bros Wonder | Rakip alış/satış: 2500/3799
+switch2 | Tales Of Arise Beyond The Dawn | Rakip alış/satış: 2000/3299
+switch2 | The Legend Of Heroes Trails Beyond The Horizon | Rakip alış/satış: 2200/3499
+switch2 | W 2K26 | Rakip alış/satış: 2200/3499
+switch2 | Wild Hearts | Rakip alış/satış: 1300/2499
+switch2 | Yakuza Kiwami 2 | Rakip alış/satış: 1500/2499
+switch2 | Yakuza Kiwami 1 | Rakip alış/satış: 1500/2499
+switch2 | Yoshi and the Mysterious Book | Rakip alış/satış: 2200/3499

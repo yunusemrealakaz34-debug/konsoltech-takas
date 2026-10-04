@@ -279,3 +279,41 @@ test('keyboard activation of WhatsApp link never toggles the card selection', as
   app.elements.ktGrid.fire('keydown', { key: ' ', target: card });
   assert.equal(app.card('elden').getAttribute('aria-pressed'), 'true');
 });
+
+test('equal or inverted trade margin requests confirmation in cards, totals and WhatsApp', async () => {
+  for (const buy of [1000, 1200]) {
+    const app = await createApp([game('margin', { buy })], { stock: {} });
+    app.select(app.card('margin'));
+    app.mode('buy');
+    assert.equal(price(app.card('margin')), 'Sor');
+    app.select(app.card('margin'));
+    assert.equal(app.elements.ktBulkNetVal.textContent, 'Fiyat sor');
+    assert.match(app.singleMessage(app.card('margin')), /Fiyat sor/);
+    assert.doesNotMatch(app.bulkMessage(), /Tam takas|Bana ödenecek: [\d]/);
+  }
+});
+
+test('late live sale updates remove unsafe trade totals while retaining selections', async () => {
+  const app = await createApp([game()]);
+  app.mode('buy'); app.select(app.card('elden'));
+  assert.equal(app.elements.ktBulkBuy.textContent, '600 ₺');
+  await app.inventory({ elden: variants(stocked(500)) });
+  assert.equal(app.card('elden').getAttribute('aria-pressed'), 'true');
+  assert.match(app.elements.ktBulkBuy.textContent, /Fiyat sor/);
+});
+
+test('malformed stock error objects never imply zero inventory', async () => {
+  for (const stock of [{ hata: 'Unavailable' }, { elden: {} }, { elden: { stokta: 'true' } }]) {
+    const app = await createApp([game()], { stock });
+    assert.equal(app.stockTabs.hidden, true);
+    assert.match(app.elements.ktStokStatus.textContent, /doğrulanamıyor/);
+  }
+});
+
+test('hung inventory times out without losing catalog or selected items', async () => {
+  const app = await createApp([game()]); app.select(app.card('elden'));
+  await app.timeout();
+  assert.match(app.elements.ktStokStatus.textContent, /doğrulanamıyor/);
+  assert.equal(app.card('elden').getAttribute('aria-pressed'), 'true');
+  assert.equal(app.elements.ktBulkSell.textContent, '1.000 ₺');
+});

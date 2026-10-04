@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-28 13:12",
+ "updatedAt": "2026-10-04 14:18",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -7,12 +7,12 @@
   "switch2": "Nintendo Switch 2"
  },
  "counts": {
-  "ps4": 462,
-  "ps5": 280,
+  "ps4": 471,
+  "ps5": 282,
   "switch1": 119,
-  "switch2": 21
+  "switch2": 22
  },
- "total": 882,
+ "total": 894,
  "games": [
   {
    "id": "ps4-7-days-to-die",
@@ -819,7 +819,7 @@
    "name": "Dragon Ball 1 Xenoverse",
    "platform": "ps4",
    "sell": 499,
-   "buy": null,
+   "buy": 200,
    "image": "https://media.rawg.io/media/resize/420/-/games/729/729822a7ac978607241a310677c7775d.jpg"
   },
   {
@@ -2091,7 +2091,7 @@
    "name": "Naruto Shippuden Ultimate Ninja Storm 4",
    "platform": "ps4",
    "sell": 799,
-   "buy": 450,
+   "buy": null,
    "image": "https://media.rawg.io/media/resize/420/-/games/b1f/b1f0b19226228555d8b93b2f42b22349.jpg"
   },
   {
@@ -3443,7 +3443,7 @@
    "name": "Watch Dogs 1",
    "platform": "ps4",
    "sell": 399,
-   "buy": null,
+   "buy": 200,
    "image": "https://media.rawg.io/media/resize/420/-/games/879/879c930f9c6787c920153fa2df452eb3.jpg"
   },
   {
@@ -7069,6 +7069,102 @@
    "sell": 2499,
    "buy": 1900,
    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878960/library_600x900.jpg"
+  },
+  {
+   "id": "ps5-monster-hunter-wilds-steel-book",
+   "name": "Monster Hunter Wilds Steel Book",
+   "platform": "ps5",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/fca5e79dbceefc75.jpg"
+  },
+  {
+   "id": "ps4-death-stranding-special-edition",
+   "name": "Death Stranding Special Edition",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/6da11b943a937d8d.jpg"
+  },
+  {
+   "id": "ps4-shadow-of-mordor-steelbook",
+   "name": "Shadow Of Mordor Steelbook",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/4fd57abd95dbf500.jpg"
+  },
+  {
+   "id": "ps4-hitman-steelbook",
+   "name": "Hitman Steelbook",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/34587d31046c79da.jpg"
+  },
+  {
+   "id": "ps4-project-cars-2-steelbook",
+   "name": "Project Cars 2 Steelbook",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/b0ce4e56aadd46b9.jpg"
+  },
+  {
+   "id": "ps4-god-of-war-ragnarok-launch-edition",
+   "name": "God of War Ragnarok Launch Edition",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/37806b02b704ba5c.jpg"
+  },
+  {
+   "id": "ps4-outriders-day-one-edition",
+   "name": "Outriders Day One Edition",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/d0cceb6bb84b1475.jpg"
+  },
+  {
+   "id": "ps4-chimparty",
+   "name": "Chimparty",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/completed_20260908_392_7a080dd8f06b.jpg"
+  },
+  {
+   "id": "ps4-grand-ages-medieval",
+   "name": "Grand Ages Medieval",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://app.konsoltech.tr/static/uploads/urun/completed_20260908_414_3e97449d684e.jpg"
+  },
+  {
+   "id": "switch2-yakuza-0-directors-cut",
+   "name": "Yakuza 0 Directors Cut",
+   "platform": "switch2",
+   "sell": null,
+   "buy": null,
+   "image": "https://cdn.dsmcdn.com/ty1704/prod/QC_PREP/20250704/17/d94da884-401e-3cec-8cf1-caddb3d58e98/1_org_zoom.jpg"
+  },
+  {
+   "id": "ps5-fc-27",
+   "name": "FC 27",
+   "platform": "ps5",
+   "sell": null,
+   "buy": null,
+   "image": "https://cdn.akakce.com/z/electronic-arts/ea-fc-27-ps5-oyunu.jpg"
+  },
+  {
+   "id": "ps4-fc-27",
+   "name": "FC 27",
+   "platform": "ps4",
+   "sell": null,
+   "buy": null,
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXSyWzR4u1-oGtMwiaDcXjn9MASVTw9CZHBWzKr83t7jcm49M5BqT4zXA&s=10"
   }
  ]
 }

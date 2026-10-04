@@ -26,7 +26,9 @@ CSV yapıları:
 import csv
 import json
 import re
-import difflib
+from datetime import datetime
+from zoneinfo import ZoneInfo
+from catalog_common import identity, money
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -40,18 +42,13 @@ PLATFORM_LABELS = {
     "switch2": "Nintendo Switch 2",
 }
 
+# Kaynakta oyun numarası eksik. Storm 4'e veya başka sürüme fiyat taşınmaz.
+UNRESOLVED_BUY_TITLES = {identity("Naruto Shippuden Ultimate Ninja Strom")}
+
 
 def to_int(val):
     """'1.299 TL' / '+1000' / '' → int|None"""
-    if val is None:
-        return None
-    s = re.sub(r"[^\d]", "", str(val))
-    if not s:
-        return None
-    try:
-        return int(s)
-    except ValueError:
-        return None
+    return money(val)
 
 
 def norm(name):
@@ -86,9 +83,9 @@ def parse_dual(path, platform):
         r = (r + ["", "", "", ""])[:4]
         sname, sprice, bname, bprice = r[0], r[1], r[2], r[3]
         if sname.strip():
-            sell_map[norm(sname)] = (sname.strip(), to_int(sprice))
+            sell_map[identity(sname)] = (sname.strip(), to_int(sprice))
         if bname.strip():
-            buy_map[norm(bname)] = (bname.strip(), to_int(bprice))
+            buy_map[identity(bname)] = (bname.strip(), to_int(bprice))
 
     games = {}  # norm -> record
 
@@ -96,13 +93,12 @@ def parse_dual(path, platform):
     for nkey, (disp, price) in sell_map.items():
         games[nkey] = {"name": disp, "sell": price, "buy": None}
 
-    # alış listesini eşleştir (typo'lar için fuzzy)
-    sell_keys = list(sell_map.keys())
+    # Yalnız kesin kimlik / açık yazım alias'ı: devam oyunu tahmin edilmez.
     for nkey, (disp, price) in buy_map.items():
+        if nkey in UNRESOLVED_BUY_TITLES:
+            print(f"⚠ Sürümü doğrulanana kadar takas teklifi yayınlanmıyor: {disp}")
+            continue
         match = nkey if nkey in games else None
-        if match is None:
-            close = difflib.get_close_matches(nkey, sell_keys, n=1, cutoff=0.9)
-            match = close[0] if close else None
         if match:
             games[match]["buy"] = price
         else:
@@ -162,6 +158,23 @@ def main():
     all_games += parse_single(SRC / "switch1.csv", "switch1")
     all_games += parse_single(SRC / "switch2.csv", "switch2")
 
+    # Doğrulanmış TM stok kartları: yeni/özel sürümlere ikinci el fiyatı uydurulmaz.
+    # Satış fiyatı ve kondisyon canlı stoktan gelir; takas teklifi onaylanana kadar Sor.
+    extras_file = SRC / "stok-ekleri.json"
+    if extras_file.exists():
+        known = {(g['platform'], identity(g['name'])) for g in all_games}
+        for extra in json.loads(extras_file.read_text(encoding='utf-8')):
+            platform, name = extra['platform'], extra['name']
+            key = (platform, identity(name))
+            if platform not in PLATFORM_LABELS or not name.strip() or key in known:
+                raise ValueError(f'Geçersiz / yinelenen stok eki: {name}')
+            game = finalize({key: {'name': name, 'sell': None, 'buy': None}}, platform)[0]
+            game['image'] = extra.get('image')
+            all_games.append(game)
+            known.add(key)
+
+    previous = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else {}
+
     # mevcut images korunsun (yeniden derlemede kapakları kaybetme)
     if OUT.exists():
         try:
@@ -177,13 +190,23 @@ def main():
         counts[g["platform"]] = counts.get(g["platform"], 0) + 1
 
     payload = {
-        "updatedAt": __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "updatedAt": previous.get("updatedAt"),
         "platforms": PLATFORM_LABELS,
         "counts": counts,
         "total": len(all_games),
         "games": all_games,
     }
-    OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    # Kapak/derleme değil, gerçek liste veya fiyat değişikliği tarihi.
+    def pricing(rows):
+        return sorted((g['id'], g['name'], g['platform'], g['sell'], g['buy']) for g in rows)
+    if pricing(previous.get('games', [])) != pricing(all_games):
+        payload['updatedAt'] = datetime.now(ZoneInfo('Europe/Istanbul')).strftime('%Y-%m-%d %H:%M')
+    ids = [g['id'] for g in all_games]
+    if len(ids) != len(set(ids)) or not all_games:
+        raise ValueError('Boş katalog veya tekrarlanan oyun kimliği')
+    target = OUT.with_suffix('.json.tmp')
+    target.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding='utf-8')
+    target.replace(OUT)
     print(f"✅ {len(all_games)} oyun → {OUT}")
     for p, c in counts.items():
         print(f"   {PLATFORM_LABELS[p]:22} {c}")
