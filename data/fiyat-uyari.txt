@@ -1,5 +1,5 @@
 KonsolTech — Fiyat Karşılaştırması
-2026-10-04T14:18:16+03:00
+2026-10-05T16:55:29+03:00
 İlan fiyatlarıdır; rakip stok/kondisyon garanti değildir. Fiyatlar otomatik değiştirilmez.
 {"catalog_total": 894, "matched": 870, "missing_candidates": 100, "missing_by_platform": {"ps4": 12, "ps5": 24, "switch1": 33, "switch2": 31}, "sale_price_differences": 324, "trade_price_differences": 247, "at_or_above_own_sale": 2, "at_or_above_competitor_sale": 4}
 
