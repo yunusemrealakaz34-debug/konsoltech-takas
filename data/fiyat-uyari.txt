@@ -1,11 +1,12 @@
 KonsolTech — Fiyat Karşılaştırması
-2026-10-05T16:55:29+03:00
+2026-10-19T15:28:47+03:00
 İlan fiyatlarıdır; rakip stok/kondisyon garanti değildir. Fiyatlar otomatik değiştirilmez.
-{"catalog_total": 894, "matched": 870, "missing_candidates": 100, "missing_by_platform": {"ps4": 12, "ps5": 24, "switch1": 33, "switch2": 31}, "sale_price_differences": 324, "trade_price_differences": 247, "at_or_above_own_sale": 2, "at_or_above_competitor_sale": 4}
+{"catalog_total": 894, "matched": 870, "missing_candidates": 100, "missing_by_platform": {"ps4": 12, "ps5": 24, "switch1": 33, "switch2": 31}, "sale_price_differences": 330, "trade_price_differences": 255, "at_or_above_own_sale": 2, "at_or_above_competitor_sale": 4}
 
 ps4 | Assetto Corsa | Biz alış/satış: 700/1200.0 | Rakip: 700/1299 |
 ps4 | Batman Arkham Knight | Biz alış/satış: 300/499 | Rakip: 300/599 |
 ps4 | Batman Return To Arkham | Biz alış/satış: 500/1000.0 | Rakip: 500/999 |
+ps4 | Battlefield 2042 | Biz alış/satış: 550/899.0 | Rakip: 600/999 |
 ps4 | Battlefield 4 | Biz alış/satış: 400/600.0 | Rakip: 400/699 |
 ps4 | Battlefield 5 | Biz alış/satış: 600/999 | Rakip: 700/1299 |
 ps4 | Battlefield Hardline | Biz alış/satış: 350/800.0 | Rakip: 400/699 |
@@ -13,6 +14,7 @@ ps4 | Ben 10 | Biz alış/satış: 600/999 | Rakip: 1000/1599 |
 ps4 | Call Of Duty Black Ops 6 | Biz alış/satış: 1700/2399 | Rakip: 1700/2499 |
 ps4 | Call Of Duty Black Ops 7 | Biz alış/satış: 2200/2899 | Rakip: 2200/2999 |
 ps4 | Call Of Duty İnfinite Warfare | Biz alış/satış: 500/600.0 | Rakip: 500/799 |
+ps4 | Call Of Duty Vanguard | Biz alış/satış: 1100/1799 | Rakip: 1000/1499 | alış > rakip alış
 ps4 | Call Of Duty WW II | Biz alış/satış: 900/1499 | Rakip: 600/999 | alış > rakip alış
 ps4 | Control | Biz alış/satış: 700/700.0 | Rakip: 700/1199 | alış ≥ kendi satışımız
 ps4 | Crash Bandicoot | Biz alış/satış: 700/1199 | Rakip: 500/999 | alış > rakip alış
@@ -45,6 +47,8 @@ ps4 | F1 2020 | Biz alış/satış: 500/899 | Rakip: 900/1499 |
 ps4 | F1 2021 | Biz alış/satış: 550/999 | Rakip: 900/1499 |
 ps4 | F1 2022 | Biz alış/satış: 700/1199 | Rakip: 1000/1699 |
 ps4 | Fallout 4 | Biz alış/satış: 400/800.0 | Rakip: 400/699 |
+ps4 | FAR CRY 5 | Biz alış/satış: 450/699 | Rakip: 400/699 | alış > rakip alış
+ps4 | FAR CRY 6 | Biz alış/satış: 600/999 | Rakip: 500/799 | alış > rakip alış
 ps4 | FAR CRY Primal | Biz alış/satış: 350/700.0 | Rakip: 350/699 |
 ps4 | FC 24 Türkçe | Biz alış/satış: 700/700.0 | Rakip: 700/1199 | alış ≥ kendi satışımız
 ps4 | FC 26 Türkçe Spiker | Biz alış/satış: 1500/1999 | Rakip: 800/1399 | alış ≥ rakip satış, alış > rakip alış
@@ -89,7 +93,7 @@ ps4 | Metal Gear Solid 5 Ground Zeroes | Biz alış/satış: 350/599.0 | Rakip: 
 ps4 | Metal Gear Solid 5 The Definitive Experience | Biz alış/satış: 500/899 | Rakip: 700/1199 |
 ps4 | Metal Gear Solid 5 The Phantom Pain | Biz alış/satış: 400/699.0 | Rakip: 500/899 |
 ps4 | Metal Gear Survive | Biz alış/satış: 150/299 | Rakip: 300/499 |
-ps4 | Minecraft | Biz alış/satış: 1100/1599.0 | Rakip: 1200/1699 |
+ps4 | Minecraft | Biz alış/satış: 1100/1599.0 | Rakip: 1000/1499 | alış > rakip alış
 ps4 | Mirror's Edge | Biz alış/satış: 400/699 | Rakip: 500/899 |
 ps4 | Monster Hunter World | Biz alış/satış: 450/800.0 | Rakip: 450/799 |
 ps4 | NBA 2K20 | Biz alış/satış: 250/600.0 | Rakip: 250/499 |
@@ -99,7 +103,6 @@ ps4 | NBA 2K25 | Biz alış/satış: 800/1299 | Rakip: 700/1199 | alış > rakip
 ps4 | NBA 2K26 | Biz alış/satış: 1700/2199 | Rakip: 1200/1999 | alış > rakip alış
 ps4 | Need For Speed 2015 | Biz alış/satış: 450/699 | Rakip: 500/799 |
 ps4 | Need For Speed Payback | Biz alış/satış: 550/899.0 | Rakip: 600/999 |
-ps4 | Need For Speed Rivals | Biz alış/satış: 500/899 | Rakip: 600/999 |
 ps4 | Nier Automata | Biz alış/satış: 800/1299 | Rakip: 900/1499 |
 ps4 | Nier Automata Game Of The Year Edition | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
 ps4 | Nier Replicant VER.1.22474487139… | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
@@ -113,7 +116,8 @@ ps4 | Pes 2015 Türkçe | Biz alış/satış: 250/499 | Rakip: 300/499 |
 ps4 | Pes 2016 Türkçe | Biz alış/satış: 400/699 | Rakip: 400/799 |
 ps4 | Pes 2017 Türkçe | Biz alış/satış: 450/799 | Rakip: 400/799 | alış > rakip alış
 ps4 | Pes 2018 Türkçe | Biz alış/satış: 1000/1499 | Rakip: 1000/1799 |
-ps4 | Pes 2019 Türkçe | Biz alış/satış: 1000/1599.0 | Rakip: 1100/1899 |
+ps4 | Pes 2019 Türkçe | Biz alış/satış: 1000/1599.0 | Rakip: 1100/1799 |
+ps4 | Pes 2020 Türkçe | Biz alış/satış: 1300/1999.0 | Rakip: 1100/1799 | alış > rakip alış
 ps4 | Predator Hunting Grounds | Biz alış/satış: 250/499 | Rakip: 500/899 |
 ps4 | Resident Evil 2 | Biz alış/satış: 700/900.0 | Rakip: 700/1199 |
 ps4 | Resident Evil Origins Collection | Biz alış/satış: 600/999 | Rakip: 1000/1699 |
@@ -154,6 +158,7 @@ ps5 | Devil May Cry 5 | Biz alış/satış: 800/1399 | Rakip: 900/1499 |
 ps5 | Dragon Ball Fighter Z | Biz alış/satış: 800/1300.0 | Rakip: 800/1299 |
 ps5 | Elden Ring | Biz alış/satış: 700/1299 | Rakip: 1000/1699 |
 ps5 | Elden Ring Shadow | Biz alış/satış: None/1899 | Rakip: None/1999 |
+ps5 | Evil West | Biz alış/satış: 800/1499 | Rakip: 700/1299 | alış > rakip alış
 ps5 | Farming Simulator 25 | Biz alış/satış: 1500/2199 | Rakip: 1800/2499 |
 ps5 | FC 26 Türkçe Spiker | Biz alış/satış: 1500/1999.0 | Rakip: 800/1299 | alış ≥ rakip satış, alış > rakip alış
 ps5 | Gears Of War Reloaded | Biz alış/satış: 1500/1999 | Rakip: 1300/1799 | alış > rakip alış
@@ -192,6 +197,8 @@ ps5 | NBA 2K25 | Biz alış/satış: 800/1299 | Rakip: 700/1199 | alış > rakip
 ps5 | NBA 2K26 | Biz alış/satış: 1300/1799 | Rakip: 800/1399 | alış > rakip alış
 ps5 | NFS Unbound | Biz alış/satış: 800/1299 | Rakip: 1000/1599 |
 ps5 | One Piece Odyssey | Biz alış/satış: 800/1300.0 | Rakip: 800/1299 |
+ps5 | Rainbow Six Siege Deluxe Edition | Biz alış/satış: 400/799 | Rakip: 500/799 |
+ps5 | Rainbow Six Siege Extraction | Biz alış/satış: 600/999 | Rakip: 400/699 | alış > rakip alış
 ps5 | Resident Evil 2 | Biz alış/satış: 900/1399 | Rakip: 900/1499 |
 ps5 | Resident Evil 3 | Biz alış/satış: 900/1399 | Rakip: 900/1499 |
 ps5 | Resident Evil 4 | Biz alış/satış: 800/1299 | Rakip: 900/1499 |
@@ -206,6 +213,7 @@ ps5 | Roadcraft | Biz alış/satış: 1500/1899 | Rakip: 1400/1899 | alış > ra
 ps5 | Sackboy A Big Adventure | Biz alış/satış: 1000/1599 | Rakip: 1200/1799 |
 ps5 | Saros | Biz alış/satış: 2500/3299 | Rakip: 2300/2999 | alış > rakip alış
 ps5 | Snow Runner | Biz alış/satış: 800/1300.0 | Rakip: 800/1299 |
+ps5 | Sociable Soccer 25 | Biz alış/satış: 900/1399 | Rakip: 600/999 | alış > rakip alış
 ps5 | Sonic Origins Plus | Biz alış/satış: 900/1399 | Rakip: 1100/1699 |
 ps5 | Spiderman Miles Morales | Biz alış/satış: 800/1299 | Rakip: 900/1399 |
 ps5 | Split Fiction | Biz alış/satış: 1500/1999 | Rakip: 1600/2199 |

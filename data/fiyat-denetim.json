@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-05T16:55:29+03:00",
+  "checkedAt": "2026-10-19T15:28:47+03:00",
   "complete": true,
   "failures": {},
   "summary": {
@@ -12,8 +12,8 @@
       "switch1": 33,
       "switch2": 31
     },
-    "sale_price_differences": 324,
-    "trade_price_differences": 247,
+    "sale_price_differences": 330,
+    "trade_price_differences": 255,
     "at_or_above_own_sale": 2,
     "at_or_above_competitor_sale": 4
   },
@@ -447,10 +447,10 @@
       "catalog_sell": 899,
       "effective_sell": 899.0,
       "stocked_used": true,
-      "competitor_sell": 899,
-      "competitor_buy": 550,
-      "sell_difference": 0.0,
-      "buy_difference": 0,
+      "competitor_sell": 999,
+      "competitor_buy": 600,
+      "sell_difference": -100.0,
+      "buy_difference": -50,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
       "flags": []
     },
@@ -807,12 +807,14 @@
       "catalog_sell": 1799,
       "effective_sell": 1799,
       "stocked_used": false,
-      "competitor_sell": 1799,
-      "competitor_buy": 1100,
-      "sell_difference": 0,
-      "buy_difference": 0,
+      "competitor_sell": 1499,
+      "competitor_buy": 1000,
+      "sell_difference": 300,
+      "buy_difference": 100,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps4-call-of-duty-ww-ii",
@@ -1943,11 +1945,13 @@
       "effective_sell": 699,
       "stocked_used": false,
       "competitor_sell": 699,
-      "competitor_buy": 450,
+      "competitor_buy": 400,
       "sell_difference": 0,
-      "buy_difference": 0,
+      "buy_difference": 50,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps4-far-cry-6",
@@ -1957,12 +1961,14 @@
       "catalog_sell": 999,
       "effective_sell": 999,
       "stocked_used": false,
-      "competitor_sell": 999,
-      "competitor_buy": 600,
-      "sell_difference": 0,
-      "buy_difference": 0,
+      "competitor_sell": 799,
+      "competitor_buy": 500,
+      "sell_difference": 200,
+      "buy_difference": 100,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps4-far-cry-new-dawn",
@@ -3691,12 +3697,14 @@
       "catalog_sell": 1599,
       "effective_sell": 1599.0,
       "stocked_used": true,
-      "competitor_sell": 1699,
-      "competitor_buy": 1200,
-      "sell_difference": -100.0,
-      "buy_difference": -100,
+      "competitor_sell": 1499,
+      "competitor_buy": 1000,
+      "sell_difference": 100.0,
+      "buy_difference": 100,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps4-minecraft-dungeons",
@@ -4310,10 +4318,10 @@
       "catalog_sell": 899,
       "effective_sell": 899,
       "stocked_used": false,
-      "competitor_sell": 999,
-      "competitor_buy": 600,
-      "sell_difference": -100,
-      "buy_difference": -100,
+      "competitor_sell": 899,
+      "competitor_buy": 500,
+      "sell_difference": 0,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
       "flags": []
     },
@@ -4644,9 +4652,9 @@
       "catalog_sell": 1599,
       "effective_sell": 1599.0,
       "stocked_used": true,
-      "competitor_sell": 1899,
+      "competitor_sell": 1799,
       "competitor_buy": 1100,
-      "sell_difference": -300.0,
+      "sell_difference": -200.0,
       "buy_difference": -100,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
       "flags": []
@@ -4659,12 +4667,14 @@
       "catalog_sell": 1999,
       "effective_sell": 1999.0,
       "stocked_used": true,
-      "competitor_sell": 1999,
-      "competitor_buy": 1300,
-      "sell_difference": 0.0,
-      "buy_difference": 0,
+      "competitor_sell": 1799,
+      "competitor_buy": 1100,
+      "sell_difference": 200.0,
+      "buy_difference": 200,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps4-pes-2021-turkce",
@@ -6939,8 +6949,8 @@
       "catalog_sell": null,
       "effective_sell": null,
       "stocked_used": false,
-      "competitor_sell": 3799,
-      "competitor_buy": 3000,
+      "competitor_sell": 3499,
+      "competitor_buy": 2800,
       "sell_difference": null,
       "buy_difference": null,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
@@ -7890,12 +7900,14 @@
       "catalog_sell": 1499,
       "effective_sell": 1499,
       "stocked_used": false,
-      "competitor_sell": 1499,
-      "competitor_buy": 800,
-      "sell_difference": 0,
-      "buy_difference": 0,
+      "competitor_sell": 1299,
+      "competitor_buy": 700,
+      "sell_difference": 200,
+      "buy_difference": 100,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps5-expedition-33",
@@ -9795,9 +9807,9 @@
       "effective_sell": 799,
       "stocked_used": false,
       "competitor_sell": 799,
-      "competitor_buy": 400,
+      "competitor_buy": 500,
       "sell_difference": 0,
-      "buy_difference": 0,
+      "buy_difference": -100,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
       "flags": []
     },
@@ -9809,12 +9821,14 @@
       "catalog_sell": 999,
       "effective_sell": 999,
       "stocked_used": false,
-      "competitor_sell": 999,
-      "competitor_buy": 600,
-      "sell_difference": 0,
-      "buy_difference": 0,
+      "competitor_sell": 699,
+      "competitor_buy": 400,
+      "sell_difference": 300,
+      "buy_difference": 200,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps5-ratchet-clank-rift-apart",
@@ -10330,12 +10344,14 @@
       "catalog_sell": 1399,
       "effective_sell": 1399,
       "stocked_used": false,
-      "competitor_sell": 1399,
-      "competitor_buy": 900,
-      "sell_difference": 0,
-      "buy_difference": 0,
+      "competitor_sell": 999,
+      "competitor_buy": 600,
+      "sell_difference": 400,
+      "buy_difference": 300,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": []
+      "flags": [
+        "alış > rakip alış"
+      ]
     },
     {
       "id": "ps5-sonic-frontiers",
@@ -11127,8 +11143,8 @@
       "catalog_sell": null,
       "effective_sell": null,
       "stocked_used": false,
-      "competitor_sell": 3799,
-      "competitor_buy": 3000,
+      "competitor_sell": 3499,
+      "competitor_buy": 2800,
       "sell_difference": null,
       "buy_difference": null,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
