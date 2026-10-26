@@ -1,5 +1,5 @@
 Katalogda eşleşmeyen aday oyunlar
-2026-10-19T15:28:47+03:00
+2026-10-26T15:27:19+03:00
 Yazım, sürüm, fiziksel çıkış ve fiyat onayından sonra eklenir.
 
 ps4 | Ace Combat 7 | Rakip alış/satış: 600/None
@@ -14,12 +14,14 @@ ps4 | One Piece World Seeker | Rakip alış/satış: 900/1499
 ps4 | The Witcher 3 Wild Hunt | Rakip alış/satış: 500/None
 ps4 | Until Dawn | Rakip alış/satış: 600/None
 ps4 | One Piece Pirate Warriors 4 | Rakip alış/satış: None/1699
-ps5 | 007 First Light | Rakip alış/satış: 2700/3499
-ps5 | A Plague Tale Resonance | Rakip alış/satış: 2400/2999
+ps5 | 007 First Light | Rakip alış/satış: 2200/2899
+ps5 | A Plague Tale Resonance | Rakip alış/satış: 2000/2699
 ps5 | Alien Fireteam Elite | Rakip alış/satış: 900/None
-ps5 | Assasins Creed Black Flag Resynced | Rakip alış/satış: 2000/2799
+ps5 | Assasins Creed Black Flag Resynced | Rakip alış/satış: 1800/2499
 ps5 | Beast Of Reincarnation | Rakip alış/satış: 2300/2999
-ps5 | Captain Tsubasa 2 World Fighters | Rakip alış/satış: 2300/2999
+ps5 | Call of Duty Modern Warfare 4 | Rakip alış/satış: 3000/3799
+ps5 | Captain Tsubasa 2 World Fighters | Rakip alış/satış: 2000/2599
+ps5 | Control Resonant | Rakip alış/satış: 2300/2999
 ps5 | Ghost Of Tsushima Director's Cut | Rakip alış/satış: 1400/None
 ps5 | Halo Campaign Evolved | Rakip alış/satış: 2400/2999
 ps5 | Kingdom Come Deliverance 1 | Rakip alış/satış: 1600/2199
@@ -37,7 +39,7 @@ ps5 | Silent Hill Townfall | Rakip alış/satış: 2300/2999
 ps5 | Starfield | Rakip alış/satış: 2000/2799
 ps5 | The Blood Of Dawnwalker | Rakip alış/satış: 2700/3499
 ps5 | UFC 6 | Rakip alış/satış: 2700/3399
-ps5 | Wolverine Marvel | Rakip alış/satış: 3000/3799
+ps5 | Wolverine Marvel | Rakip alış/satış: 2800/3499
 switch1 | Astral Chain | Rakip alış/satış: 1500/2999
 switch1 | Dragon Quest Builders | Rakip alış/satış: 1000/None
 switch1 | FC 26 | Rakip alış/satış: 1000/1999
