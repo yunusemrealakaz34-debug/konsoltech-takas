@@ -1,5 +1,5 @@
 KonsolTech — Fiyat Karşılaştırması
-2026-11-02T18:00:35+03:00
+2026-11-09T18:30:50+03:00
 İlan fiyatlarıdır; rakip stok/kondisyon garanti değildir. Fiyatlar otomatik değiştirilmez.
 {"catalog_total": 894, "matched": 870, "missing_candidates": 102, "missing_by_platform": {"ps4": 12, "ps5": 26, "switch1": 33, "switch2": 31}, "sale_price_differences": 264, "trade_price_differences": 255, "at_or_above_own_sale": 0, "at_or_above_competitor_sale": 4}
 
@@ -12,6 +12,7 @@ ps4 | Call Of Duty Black Ops 6 | Biz alış/satış: 1700/2399 | Rakip: 1700/249
 ps4 | Call Of Duty Black Ops 7 | Biz alış/satış: 2200/2899 | Rakip: 2200/2999 |
 ps4 | Call Of Duty Vanguard | Biz alış/satış: 1100/1799 | Rakip: 1000/1499 | alış > rakip alış
 ps4 | Call Of Duty WW II | Biz alış/satış: 900/1499.0 | Rakip: 600/999 | alış > rakip alış
+ps4 | Captain Tsubasa | Biz alış/satış: 600/699.0 | Rakip: 600/999 |
 ps4 | Crash Bandicoot | Biz alış/satış: 700/1199 | Rakip: 500/999 | alış > rakip alış
 ps4 | Crash Bandicoot 4 Its Aboult Time | Biz alış/satış: 1000/1499 | Rakip: 900/1499 | alış > rakip alış
 ps4 | Cuphead | Biz alış/satış: 1000/1499 | Rakip: 1100/1699 |
@@ -49,6 +50,7 @@ ps4 | Fifa 18 Türkçe | Biz alış/satış: 200/499.0 | Rakip: 300/499 |
 ps4 | Ghost Of Tsushima Director's Cut Türkçe | Biz alış/satış: 1200/1799.0 | Rakip: 1000/1699 | alış > rakip alış
 ps4 | Ghost Of Tsushima Türkçe | Biz alış/satış: 900/1399 | Rakip: 700/1299 | alış > rakip alış
 ps4 | Gran Turismo 7 Türkçe | Biz alış/satış: 700/1199 | Rakip: 1000/1599 |
+ps4 | Gran Turismo Sport VR Türkçe | Biz alış/satış: 500/799 | Rakip: None/999 |
 ps4 | GTA The Trilogy | Biz alış/satış: 800/1299 | Rakip: 1000/1699 |
 ps4 | Hitman 3 | Biz alış/satış: 780/1299 | Rakip: 1300/1299 |
 ps4 | Horizon Forbidden West Türkçe | Biz alış/satış: 800/1299 | Rakip: 800/1399 |
@@ -116,13 +118,13 @@ ps4 | Uncharted 4 Türkçe Dublaj | Biz alış/satış: 500/999.0 | Rakip: 600/9
 ps4 | Uncharted Collection Türkçe Dublaj | Biz alış/satış: 600/1199.0 | Rakip: 700/1199 |
 ps5 | Call Of Duty Black Ops 5 Cold War | Biz alış/satış: 1000/1499 | Rakip: 1200/1999 |
 ps5 | Call Of Duty Black Ops 7 | Biz alış/satış: 2000/2499 | Rakip: 1600/2199 | alış > rakip alış
-ps5 | Call of Duty Modern Warfare 2 | Biz alış/satış: 1100/1599 | Rakip: 1300/1999 |
+ps5 | Call of Duty Modern Warfare 2 | Biz alış/satış: 1100/1999.0 | Rakip: 1300/1999 |
 ps5 | Crimson Desert | Biz alış/satış: 2500/3299 | Rakip: 2200/2899 | alış > rakip alış
 ps5 | Cyberpunk 2077 Ultimate Edition | Biz alış/satış: 1200/1699 | Rakip: 1300/1899 |
 ps5 | Dead Space | Biz alış/satış: 1000/1499 | Rakip: 1200/1799 |
 ps5 | Death Stranding 2 On The Beach | Biz alış/satış: 2200/2799 | Rakip: 2000/2599 | alış > rakip alış
 ps5 | Devil May Cry 5 | Biz alış/satış: 800/1399 | Rakip: 900/1499 |
-ps5 | Elden Ring | Biz alış/satış: 700/1299 | Rakip: 1000/1699 |
+ps5 | Elden Ring | Biz alış/satış: 700/1699.0 | Rakip: 1000/1699 |
 ps5 | Elden Ring Shadow | Biz alış/satış: None/1899 | Rakip: None/1999 |
 ps5 | Evil West | Biz alış/satış: 800/1499 | Rakip: 700/1299 | alış > rakip alış
 ps5 | Farming Simulator 25 | Biz alış/satış: 1500/2199 | Rakip: 1800/2499 |
