@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T18:30:50+03:00",
+  "checkedAt": "2026-11-16T18:08:25+03:00",
   "complete": true,
   "failures": {},
   "summary": {
@@ -12,10 +12,10 @@
       "switch1": 33,
       "switch2": 31
     },
-    "sale_price_differences": 264,
-    "trade_price_differences": 255,
+    "sale_price_differences": 268,
+    "trade_price_differences": 200,
     "at_or_above_own_sale": 0,
-    "at_or_above_competitor_sale": 4
+    "at_or_above_competitor_sale": 0
   },
   "note": "İlan edilen fiyatlar; rakip stok/kondisyon doğrulanmadı. Eksikler adaydır; çıkış/sürüm kontrolü gerekir. Fiyatlar değiştirilmez.",
   "comparisons": [
@@ -655,11 +655,11 @@
       "name": "Call of Duty Black Ops 4",
       "our_buy": 400,
       "catalog_sell": 699,
-      "effective_sell": 699,
-      "stocked_used": false,
+      "effective_sell": 699.0,
+      "stocked_used": true,
       "competitor_sell": 699,
       "competitor_buy": 400,
-      "sell_difference": 0,
+      "sell_difference": 0.0,
       "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
       "flags": []
@@ -670,11 +670,11 @@
       "name": "Call Of Duty Black Ops 5 Cold War",
       "our_buy": 1000,
       "catalog_sell": 1599,
-      "effective_sell": 1599,
-      "stocked_used": false,
+      "effective_sell": 1899.0,
+      "stocked_used": true,
       "competitor_sell": 1599,
       "competitor_buy": 1000,
-      "sell_difference": 0,
+      "sell_difference": 300.0,
       "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
       "flags": []
@@ -803,35 +803,31 @@
       "id": "ps4-call-of-duty-vanguard",
       "platform": "ps4",
       "name": "Call Of Duty Vanguard",
-      "our_buy": 1100,
+      "our_buy": 1000,
       "catalog_sell": 1799,
       "effective_sell": 1799,
       "stocked_used": false,
       "competitor_sell": 1499,
       "competitor_buy": 1000,
       "sell_difference": 300,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-call-of-duty-ww-ii",
       "platform": "ps4",
       "name": "Call Of Duty WW II",
-      "our_buy": 900,
+      "our_buy": 600,
       "catalog_sell": 1499,
       "effective_sell": 1499.0,
       "stocked_used": true,
       "competitor_sell": 999,
       "competitor_buy": 600,
       "sell_difference": 500.0,
-      "buy_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-captain-tsubasa",
@@ -897,35 +893,31 @@
       "id": "ps4-crash-bandicoot",
       "platform": "ps4",
       "name": "Crash Bandicoot",
-      "our_buy": 700,
+      "our_buy": 500,
       "catalog_sell": 1199,
       "effective_sell": 1199,
       "stocked_used": false,
       "competitor_sell": 999,
       "competitor_buy": 500,
       "sell_difference": 200,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-crash-bandicoot-4-its-aboult-time",
       "platform": "ps4",
       "name": "Crash Bandicoot 4 Its Aboult Time",
-      "our_buy": 1000,
+      "our_buy": 900,
       "catalog_sell": 1499,
       "effective_sell": 1499,
       "stocked_used": false,
       "competitor_sell": 1499,
       "competitor_buy": 900,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-crash-team-racing-nitro-fueled-ctr",
@@ -976,18 +968,16 @@
       "id": "ps4-cyberpunk-2077-turkce",
       "platform": "ps4",
       "name": "Cyberpunk 2077 Türkçe",
-      "our_buy": 1200,
+      "our_buy": 1000,
       "catalog_sell": 1799,
       "effective_sell": 1799.0,
       "stocked_used": true,
       "competitor_sell": 1599,
       "competitor_buy": 1000,
       "sell_difference": 200.0,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-dark-souls-1",
@@ -1938,35 +1928,31 @@
       "id": "ps4-far-cry-5",
       "platform": "ps4",
       "name": "FAR CRY 5",
-      "our_buy": 450,
+      "our_buy": 400,
       "catalog_sell": 699,
       "effective_sell": 699,
       "stocked_used": false,
       "competitor_sell": 699,
       "competitor_buy": 400,
       "sell_difference": 0,
-      "buy_difference": 50,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-far-cry-6",
       "platform": "ps4",
       "name": "FAR CRY 6",
-      "our_buy": 600,
+      "our_buy": 500,
       "catalog_sell": 999,
       "effective_sell": 999,
       "stocked_used": false,
       "competitor_sell": 799,
       "competitor_buy": 500,
       "sell_difference": 200,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-far-cry-new-dawn",
@@ -2107,19 +2093,16 @@
       "id": "ps4-fc-26-turkce-spiker",
       "platform": "ps4",
       "name": "FC 26 Türkçe Spiker",
-      "our_buy": 1500,
+      "our_buy": 800,
       "catalog_sell": 1999,
       "effective_sell": 1999,
       "stocked_used": false,
       "competitor_sell": 1399,
       "competitor_buy": 800,
       "sell_difference": 600,
-      "buy_difference": 700,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış ≥ rakip satış",
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-fifa-14-turkce",
@@ -2350,35 +2333,31 @@
       "id": "ps4-ghost-of-tsushima-director-s-cut-turkce",
       "platform": "ps4",
       "name": "Ghost Of Tsushima Director's Cut Türkçe",
-      "our_buy": 1200,
+      "our_buy": 1000,
       "catalog_sell": 1799,
       "effective_sell": 1799.0,
       "stocked_used": true,
       "competitor_sell": 1699,
       "competitor_buy": 1000,
       "sell_difference": 100.0,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-ghost-of-tsushima-turkce",
       "platform": "ps4",
       "name": "Ghost Of Tsushima Türkçe",
-      "our_buy": 900,
+      "our_buy": 700,
       "catalog_sell": 1399,
       "effective_sell": 1399,
       "stocked_used": false,
       "competitor_sell": 1299,
       "competitor_buy": 700,
       "sell_difference": 100,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-ghost-recon-breakpoint",
@@ -3689,18 +3668,16 @@
       "id": "ps4-minecraft",
       "platform": "ps4",
       "name": "Minecraft",
-      "our_buy": 1100,
+      "our_buy": 1000,
       "catalog_sell": 1599,
       "effective_sell": 1599.0,
       "stocked_used": true,
       "competitor_sell": 1499,
       "competitor_buy": 1000,
       "sell_difference": 100.0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-minecraft-dungeons",
@@ -4141,35 +4118,31 @@
       "id": "ps4-nba-2k25",
       "platform": "ps4",
       "name": "NBA 2K25",
-      "our_buy": 800,
+      "our_buy": 700,
       "catalog_sell": 1299,
       "effective_sell": 1299,
       "stocked_used": false,
       "competitor_sell": 1199,
       "competitor_buy": 700,
       "sell_difference": 100,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-nba-2k26",
       "platform": "ps4",
       "name": "NBA 2K26",
-      "our_buy": 1700,
+      "our_buy": 1200,
       "catalog_sell": 2199,
       "effective_sell": 2199,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1200,
       "sell_difference": 200,
-      "buy_difference": 500,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-nba-live-14",
@@ -4445,18 +4418,16 @@
       "id": "ps4-outlast-trinity",
       "platform": "ps4",
       "name": "Outlast Trinity",
-      "our_buy": 2000,
+      "our_buy": 1700,
       "catalog_sell": 2499,
       "effective_sell": 2499,
       "stocked_used": false,
       "competitor_sell": 2499,
       "competitor_buy": 1700,
       "sell_difference": 0,
-      "buy_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-outriders",
@@ -4612,18 +4583,16 @@
       "id": "ps4-pes-2017-turkce",
       "platform": "ps4",
       "name": "Pes 2017 Türkçe",
-      "our_buy": 450,
+      "our_buy": 400,
       "catalog_sell": 799,
       "effective_sell": 799,
       "stocked_used": false,
       "competitor_sell": 799,
       "competitor_buy": 400,
       "sell_difference": 0,
-      "buy_difference": 50,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-pes-2018-turkce",
@@ -4659,18 +4628,16 @@
       "id": "ps4-pes-2020-turkce",
       "platform": "ps4",
       "name": "Pes 2020 Türkçe",
-      "our_buy": 1300,
+      "our_buy": 1100,
       "catalog_sell": 1999,
       "effective_sell": 1999.0,
       "stocked_used": true,
       "competitor_sell": 1799,
       "competitor_buy": 1100,
       "sell_difference": 200.0,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps4-pes-2021-turkce",
@@ -6358,11 +6325,11 @@
       "name": "Until Dawn Türkçe",
       "our_buy": 600,
       "catalog_sell": 999,
-      "effective_sell": 999,
-      "stocked_used": false,
+      "effective_sell": 999.0,
+      "stocked_used": true,
       "competitor_sell": 999,
       "competitor_buy": null,
-      "sell_difference": 0,
+      "sell_difference": 0.0,
       "buy_difference": null,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
       "flags": []
@@ -6718,11 +6685,11 @@
       "name": "WWE 2K19",
       "our_buy": 500,
       "catalog_sell": 899,
-      "effective_sell": 899,
-      "stocked_used": false,
+      "effective_sell": 899.0,
+      "stocked_used": true,
       "competitor_sell": 899,
       "competitor_buy": 500,
-      "sell_difference": 0,
+      "sell_difference": 0.0,
       "buy_difference": 0,
       "source": "https://www.psoyunmerkezi.com/ps4-oyun-takas-hesaplama",
       "flags": []
@@ -7376,18 +7343,16 @@
       "id": "ps5-call-of-duty-black-ops-7",
       "platform": "ps5",
       "name": "Call Of Duty Black Ops 7",
-      "our_buy": 2000,
+      "our_buy": 1600,
       "catalog_sell": 2499,
       "effective_sell": 2499,
       "stocked_used": false,
       "competitor_sell": 2199,
       "competitor_buy": 1600,
       "sell_difference": 300,
-      "buy_difference": 400,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-call-of-duty-modern-warfare-2",
@@ -7513,18 +7478,16 @@
       "id": "ps5-crimson-desert",
       "platform": "ps5",
       "name": "Crimson Desert",
-      "our_buy": 2500,
+      "our_buy": 2200,
       "catalog_sell": 3299,
       "effective_sell": 3299,
       "stocked_used": false,
       "competitor_sell": 2899,
       "competitor_buy": 2200,
       "sell_difference": 400,
-      "buy_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-cronos-the-new-dawn",
@@ -7605,18 +7568,16 @@
       "id": "ps5-death-stranding-2-on-the-beach",
       "platform": "ps5",
       "name": "Death Stranding 2 On The Beach",
-      "our_buy": 2200,
+      "our_buy": 2000,
       "catalog_sell": 2799,
       "effective_sell": 2799,
       "stocked_used": false,
       "competitor_sell": 2599,
       "competitor_buy": 2000,
       "sell_difference": 200,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-death-stranding-director-s-cut",
@@ -7892,18 +7853,16 @@
       "id": "ps5-evil-west",
       "platform": "ps5",
       "name": "Evil West",
-      "our_buy": 800,
+      "our_buy": 700,
       "catalog_sell": 1499,
       "effective_sell": 1499,
       "stocked_used": false,
       "competitor_sell": 1299,
       "competitor_buy": 700,
       "sell_difference": 200,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-expedition-33",
@@ -8104,19 +8063,16 @@
       "id": "ps5-fc-26-turkce-spiker",
       "platform": "ps5",
       "name": "FC 26 Türkçe Spiker",
-      "our_buy": 1500,
+      "our_buy": 800,
       "catalog_sell": 1999,
       "effective_sell": 1999.0,
       "stocked_used": true,
       "competitor_sell": 1299,
       "competitor_buy": 800,
       "sell_difference": 700.0,
-      "buy_difference": 700,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış ≥ rakip satış",
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-fifa-21-turkce",
@@ -8287,18 +8243,16 @@
       "id": "ps5-gears-of-war-reloaded",
       "platform": "ps5",
       "name": "Gears Of War Reloaded",
-      "our_buy": 1500,
+      "our_buy": 1300,
       "catalog_sell": 1999,
       "effective_sell": 1999,
       "stocked_used": false,
       "competitor_sell": 1799,
       "competitor_buy": 1300,
       "sell_difference": 200,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-ghost-of-tsushima-director-s-cut-turkce",
@@ -8319,18 +8273,16 @@
       "id": "ps5-ghost-of-yotei",
       "platform": "ps5",
       "name": "Ghost of Yotei",
-      "our_buy": 2500,
+      "our_buy": 2000,
       "catalog_sell": 3199,
       "effective_sell": 3199,
       "stocked_used": false,
       "competitor_sell": 2599,
       "competitor_buy": 2000,
       "sell_difference": 600,
-      "buy_difference": 500,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-ghost-runner-2",
@@ -8396,35 +8348,31 @@
       "id": "ps5-godfall",
       "platform": "ps5",
       "name": "Godfall",
-      "our_buy": 600,
+      "our_buy": 500,
       "catalog_sell": 899,
       "effective_sell": 899,
       "stocked_used": false,
       "competitor_sell": 899,
       "competitor_buy": 500,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-gotham-knights",
       "platform": "ps5",
       "name": "Gotham Knights",
-      "our_buy": 650,
+      "our_buy": 600,
       "catalog_sell": 999,
       "effective_sell": 999,
       "stocked_used": false,
       "competitor_sell": 999,
       "competitor_buy": 600,
       "sell_difference": 0,
-      "buy_difference": 50,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-gran-turismo-7-turkce",
@@ -8475,18 +8423,16 @@
       "id": "ps5-gta-5",
       "platform": "ps5",
       "name": "GTA 5",
-      "our_buy": 800,
+      "our_buy": 700,
       "catalog_sell": 1299,
-      "effective_sell": 1299,
-      "stocked_used": false,
+      "effective_sell": 1299.0,
+      "stocked_used": true,
       "competitor_sell": 1299,
       "competitor_buy": 700,
-      "sell_difference": 0,
-      "buy_difference": 100,
+      "sell_difference": 0.0,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-guardians-of-the-galaxy",
@@ -8537,18 +8483,16 @@
       "id": "ps5-heavy-cargo-the-truck-simulator",
       "platform": "ps5",
       "name": "Heavy Cargo The Truck Simulator",
-      "our_buy": 1200,
+      "our_buy": 1100,
       "catalog_sell": 1699,
       "effective_sell": 1699,
       "stocked_used": false,
       "competitor_sell": 1699,
       "competitor_buy": 1100,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-heavy-duty-challenge",
@@ -8569,18 +8513,16 @@
       "id": "ps5-hell-is-us",
       "platform": "ps5",
       "name": "Hell Is Us",
-      "our_buy": 1500,
+      "our_buy": 1400,
       "catalog_sell": 1999,
       "effective_sell": 1999,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1400,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-helldivers-2",
@@ -8601,18 +8543,16 @@
       "id": "ps5-hello-neighbor-2",
       "platform": "ps5",
       "name": "Hello Neighbor 2",
-      "our_buy": 900,
+      "our_buy": 800,
       "catalog_sell": 1299,
       "effective_sell": 1299,
       "stocked_used": false,
       "competitor_sell": 1299,
       "competitor_buy": 800,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-hired-gun",
@@ -8648,18 +8588,16 @@
       "id": "ps5-hitman-3",
       "platform": "ps5",
       "name": "Hitman 3",
-      "our_buy": 800,
+      "our_buy": 700,
       "catalog_sell": 1199,
       "effective_sell": 1199,
       "stocked_used": false,
       "competitor_sell": 1199,
       "competitor_buy": 700,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-hogwarts-legacy",
@@ -8905,18 +8843,16 @@
       "id": "ps5-kingdom-come-deliverance-2",
       "platform": "ps5",
       "name": "Kingdom Come Deliverance 2",
-      "our_buy": 1700,
+      "our_buy": 1600,
       "catalog_sell": 2199,
       "effective_sell": 2199,
       "stocked_used": false,
       "competitor_sell": 2199,
       "competitor_buy": 1600,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-lego-2k-drive",
@@ -9087,18 +9023,16 @@
       "id": "ps5-little-nightmares-3",
       "platform": "ps5",
       "name": "Little Nightmares 3",
-      "our_buy": 1200,
+      "our_buy": 1000,
       "catalog_sell": 1799,
       "effective_sell": 1799,
       "stocked_used": false,
       "competitor_sell": 1699,
       "competitor_buy": 1000,
       "sell_difference": 100,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-lords-of-the-fallen",
@@ -9449,35 +9383,31 @@
       "id": "ps5-nba-2k25",
       "platform": "ps5",
       "name": "NBA 2K25",
-      "our_buy": 800,
+      "our_buy": 600,
       "catalog_sell": 1299,
       "effective_sell": 1299,
       "stocked_used": false,
-      "competitor_sell": 1199,
-      "competitor_buy": 700,
-      "sell_difference": 100,
-      "buy_difference": 100,
+      "competitor_sell": 999,
+      "competitor_buy": 600,
+      "sell_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-nba-2k26",
       "platform": "ps5",
       "name": "NBA 2K26",
-      "our_buy": 1300,
+      "our_buy": 700,
       "catalog_sell": 1799,
       "effective_sell": 1799,
       "stocked_used": false,
-      "competitor_sell": 1399,
-      "competitor_buy": 800,
-      "sell_difference": 400,
-      "buy_difference": 500,
+      "competitor_sell": 1299,
+      "competitor_buy": 700,
+      "sell_difference": 500,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-new-tales-from-the-borderlands",
@@ -9772,9 +9702,9 @@
       "catalog_sell": 2999,
       "effective_sell": 2999,
       "stocked_used": false,
-      "competitor_sell": 2999,
+      "competitor_sell": 2799,
       "competitor_buy": 2200,
-      "sell_difference": 0,
+      "sell_difference": 200,
       "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
       "flags": []
@@ -9813,18 +9743,16 @@
       "id": "ps5-rainbow-six-siege-extraction",
       "platform": "ps5",
       "name": "Rainbow Six Siege Extraction",
-      "our_buy": 600,
+      "our_buy": 400,
       "catalog_sell": 999,
       "effective_sell": 999,
       "stocked_used": false,
       "competitor_sell": 699,
       "competitor_buy": 400,
       "sell_difference": 300,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-ratchet-clank-rift-apart",
@@ -9950,19 +9878,16 @@
       "id": "ps5-resident-evil-requiem",
       "platform": "ps5",
       "name": "Resident Evil Requiem",
-      "our_buy": 2400,
+      "our_buy": 1400,
       "catalog_sell": 3199,
       "effective_sell": 3199.0,
       "stocked_used": true,
       "competitor_sell": 1999,
       "competitor_buy": 1400,
       "sell_difference": 1200.0,
-      "buy_difference": 1000,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış ≥ rakip satış",
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-resident-evil-village",
@@ -10043,52 +9968,46 @@
       "id": "ps5-riders-republic",
       "platform": "ps5",
       "name": "Riders Republic",
-      "our_buy": 800,
+      "our_buy": 600,
       "catalog_sell": 1299,
       "effective_sell": 1299,
       "stocked_used": false,
       "competitor_sell": 999,
       "competitor_buy": 600,
       "sell_difference": 300,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-rise-of-the-ronin",
       "platform": "ps5",
       "name": "Rise Of The Ronin",
-      "our_buy": 1500,
+      "our_buy": 1200,
       "catalog_sell": 1999,
       "effective_sell": 1999,
       "stocked_used": false,
       "competitor_sell": 1799,
       "competitor_buy": 1200,
       "sell_difference": 200,
-      "buy_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-roadcraft",
       "platform": "ps5",
       "name": "Roadcraft",
-      "our_buy": 1500,
+      "our_buy": 1400,
       "catalog_sell": 1899,
       "effective_sell": 1899,
       "stocked_used": false,
       "competitor_sell": 1899,
       "competitor_buy": 1400,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-robocop-rogue-city",
@@ -10169,30 +10088,28 @@
       "id": "ps5-saros",
       "platform": "ps5",
       "name": "Saros",
-      "our_buy": 2500,
+      "our_buy": 2300,
       "catalog_sell": 3299,
       "effective_sell": 3299,
       "stocked_used": false,
       "competitor_sell": 2999,
       "competitor_buy": 2300,
       "sell_difference": 300,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-screamer",
       "platform": "ps5",
       "name": "Screamer",
-      "our_buy": 2400,
+      "our_buy": 1800,
       "catalog_sell": 2999,
       "effective_sell": 2999,
       "stocked_used": false,
-      "competitor_sell": 2999,
-      "competitor_buy": 2400,
-      "sell_difference": 0,
+      "competitor_sell": 2499,
+      "competitor_buy": 1800,
+      "sell_difference": 500,
       "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
       "flags": []
@@ -10220,10 +10137,10 @@
       "catalog_sell": 1799,
       "effective_sell": 1799.0,
       "stocked_used": true,
-      "competitor_sell": 1799,
-      "competitor_buy": 1300,
-      "sell_difference": 0.0,
-      "buy_difference": 0,
+      "competitor_sell": 2199,
+      "competitor_buy": 1600,
+      "sell_difference": -400.0,
+      "buy_difference": -300,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
       "flags": []
     },
@@ -10336,18 +10253,16 @@
       "id": "ps5-sociable-soccer-25",
       "platform": "ps5",
       "name": "Sociable Soccer 25",
-      "our_buy": 900,
+      "our_buy": 600,
       "catalog_sell": 1399,
       "effective_sell": 1399,
       "stocked_used": false,
       "competitor_sell": 999,
       "competitor_buy": 600,
       "sell_difference": 400,
-      "buy_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-sonic-frontiers",
@@ -10923,18 +10838,16 @@
       "id": "ps5-undisputed",
       "platform": "ps5",
       "name": "Undisputed",
-      "our_buy": 1200,
+      "our_buy": 1100,
       "catalog_sell": 1699,
       "effective_sell": 1699,
       "stocked_used": false,
       "competitor_sell": 1699,
       "competitor_buy": 1100,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "ps5-until-dawn",
@@ -11139,8 +11052,8 @@
       "catalog_sell": null,
       "effective_sell": null,
       "stocked_used": false,
-      "competitor_sell": 3499,
-      "competitor_buy": 2800,
+      "competitor_sell": 3199,
+      "competitor_buy": 2500,
       "sell_difference": null,
       "buy_difference": null,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama",
@@ -11405,18 +11318,16 @@
       "id": "switch1-fc-25",
       "platform": "switch1",
       "name": "FC 25",
-      "our_buy": 1400,
+      "our_buy": 900,
       "catalog_sell": 1999,
       "effective_sell": 1999.0,
       "stocked_used": true,
       "competitor_sell": 1599,
       "competitor_buy": 900,
       "sell_difference": 400.0,
-      "buy_difference": 500,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-fifa-18",
@@ -11722,18 +11633,16 @@
       "id": "switch1-lego-movie-2-video-game",
       "platform": "switch1",
       "name": "LEGO Movie 2 Video Game",
-      "our_buy": 700,
+      "our_buy": 600,
       "catalog_sell": 1199,
       "effective_sell": 1199,
       "stocked_used": false,
       "competitor_sell": 1199,
       "competitor_buy": 600,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-lego-ninjago-movie-video-game",
@@ -11859,18 +11768,16 @@
       "id": "switch1-mario-golf-super-rush",
       "platform": "switch1",
       "name": "Mario Golf Super Rush",
-      "our_buy": 1200,
+      "our_buy": 1100,
       "catalog_sell": 1899,
       "effective_sell": 1899,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1100,
       "sell_difference": -100,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-mario-kart-8-deluxe",
@@ -11906,18 +11813,16 @@
       "id": "switch1-mario-strikers-battle-league-football",
       "platform": "switch1",
       "name": "Mario Strikers Battle League Football",
-      "our_buy": 1200,
+      "our_buy": 1100,
       "catalog_sell": 1899,
       "effective_sell": 1899,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1100,
       "sell_difference": -100,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-marvel-ultimate-alliance-3",
@@ -12118,18 +12023,16 @@
       "id": "switch1-nba-2k25",
       "platform": "switch1",
       "name": "NBA 2K25",
-      "our_buy": 1300,
+      "our_buy": 1000,
       "catalog_sell": 1999,
       "effective_sell": 1999,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1000,
       "sell_difference": 0,
-      "buy_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-need-for-speed-hot-pursuit-remastered",
@@ -12195,18 +12098,16 @@
       "id": "switch1-paper-mario-the-origami-king",
       "platform": "switch1",
       "name": "Paper Mario The Origami King",
-      "our_buy": 1100,
+      "our_buy": 1000,
       "catalog_sell": 1899,
       "effective_sell": 1899,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1000,
       "sell_difference": -100,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-pokemon-brilliant-diamond",
@@ -12452,18 +12353,16 @@
       "id": "switch1-splatoon-2",
       "platform": "switch1",
       "name": "Splatoon 2",
-      "our_buy": 900,
+      "our_buy": 800,
       "catalog_sell": 1499,
       "effective_sell": 1499,
       "stocked_used": false,
       "competitor_sell": 1499,
       "competitor_buy": 800,
       "sell_difference": 0,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-splatoon-3",
@@ -12769,18 +12668,16 @@
       "id": "switch1-the-witcher-3-wild-hunt-complete-edition",
       "platform": "switch1",
       "name": "The Witcher 3 Wild Hunt Complete Edition",
-      "our_buy": 1200,
+      "our_buy": 1000,
       "catalog_sell": 1899,
       "effective_sell": 1899,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1000,
       "sell_difference": -100,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch1-wolfenstein-2-the-new-colossus",
@@ -12876,36 +12773,31 @@
       "id": "switch2-donkey-kong-bananza",
       "platform": "switch2",
       "name": "Donkey Kong Bananza",
-      "our_buy": 2400,
+      "our_buy": 2200,
       "catalog_sell": 3199,
       "effective_sell": 3199,
       "stocked_used": false,
       "competitor_sell": 3499,
       "competitor_buy": 2200,
       "sell_difference": -300,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-2-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch2-fc-26",
       "platform": "switch2",
       "name": "FC 26",
-      "our_buy": 2000,
+      "our_buy": 1100,
       "catalog_sell": 2699,
       "effective_sell": 2699,
       "stocked_used": false,
       "competitor_sell": 1999,
       "competitor_buy": 1100,
       "sell_difference": 700,
-      "buy_difference": 900,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-2-oyun-takas-hesaplama",
-      "flags": [
-        "alış ≥ rakip satış",
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch2-hitman-world-of-assassination",
@@ -12941,52 +12833,46 @@
       "id": "switch2-hyrule-warriors-age-of-imprisonment",
       "platform": "switch2",
       "name": "Hyrule Warriors: Age Of Imprisonment",
-      "our_buy": 2400,
+      "our_buy": 2200,
       "catalog_sell": 3199,
       "effective_sell": 3199,
       "stocked_used": false,
       "competitor_sell": 3499,
       "competitor_buy": 2200,
       "sell_difference": -300,
-      "buy_difference": 200,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-2-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch2-kirby-air-riders",
       "platform": "switch2",
       "name": "Kirby Air Riders",
-      "our_buy": 2400,
+      "our_buy": 2100,
       "catalog_sell": 3199,
       "effective_sell": 3199,
       "stocked_used": false,
       "competitor_sell": 3399,
       "competitor_buy": 2100,
       "sell_difference": -200,
-      "buy_difference": 300,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-2-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch2-kirby-and-the-forgetten-land-star-crossed-world",
       "platform": "switch2",
       "name": "Kirby And The Forgetten Land + Star-Crossed World",
-      "our_buy": 2200,
+      "our_buy": 2100,
       "catalog_sell": 2999,
       "effective_sell": 2999,
       "stocked_used": false,
       "competitor_sell": 3399,
       "competitor_buy": 2100,
       "sell_difference": -400,
-      "buy_difference": 100,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-2-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch2-little-nightmares-3",
@@ -13157,18 +13043,16 @@
       "id": "switch2-w-2k25",
       "platform": "switch2",
       "name": "W 2K25",
-      "our_buy": 1900,
+      "our_buy": 1500,
       "catalog_sell": 2499,
       "effective_sell": 2499,
       "stocked_used": false,
       "competitor_sell": 2499,
       "competitor_buy": 1500,
       "sell_difference": 0,
-      "buy_difference": 400,
+      "buy_difference": 0,
       "source": "https://www.oyunmerkezi.com.tr/nintendo-switch-2-oyun-takas-hesaplama",
-      "flags": [
-        "alış > rakip alış"
-      ]
+      "flags": []
     },
     {
       "id": "switch2-yakuza-0-directors-cut",
@@ -13393,8 +13277,8 @@
     {
       "platform": "ps5",
       "name": "NBA 2K27",
-      "competitor_sell": 2999,
-      "competitor_buy": 2500,
+      "competitor_sell": 2499,
+      "competitor_buy": 2000,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama"
     },
     {
@@ -13421,8 +13305,8 @@
     {
       "platform": "ps5",
       "name": "Silent Hill Townfall",
-      "competitor_sell": 2999,
-      "competitor_buy": 2300,
+      "competitor_sell": 2799,
+      "competitor_buy": 2200,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama"
     },
     {
@@ -13435,15 +13319,15 @@
     {
       "platform": "ps5",
       "name": "The Blood Of Dawnwalker",
-      "competitor_sell": 3499,
-      "competitor_buy": 2700,
+      "competitor_sell": 2999,
+      "competitor_buy": 2400,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama"
     },
     {
       "platform": "ps5",
       "name": "UFC 6",
-      "competitor_sell": 3399,
-      "competitor_buy": 2700,
+      "competitor_sell": 3199,
+      "competitor_buy": 2500,
       "source": "https://www.oyunmerkezi.com.tr/ps5-oyun-takas-hesaplama"
     },
     {

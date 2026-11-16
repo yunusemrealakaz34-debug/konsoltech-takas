@@ -1,5 +1,5 @@
 Katalogda eşleşmeyen aday oyunlar
-2026-11-09T18:30:50+03:00
+2026-11-16T18:08:25+03:00
 Yazım, sürüm, fiziksel çıkış ve fiyat onayından sonra eklenir.
 
 ps4 | Ace Combat 7 | Rakip alış/satış: 600/None
@@ -31,14 +31,14 @@ ps5 | Metal Gear Solid Master Collection Vol 1 | Rakip alış/satış: 2000/2499
 ps5 | Metal Gear Solid Master Collection Vol 2 | Rakip alış/satış: 2300/2999
 ps5 | Microsoft Flight Simulator 2024 | Rakip alış/satış: 2700/3499
 ps5 | Mortal Shell 2 | Rakip alış/satış: 2400/2999
-ps5 | NBA 2K27 | Rakip alış/satış: 2500/2999
+ps5 | NBA 2K27 | Rakip alış/satış: 2000/2499
 ps5 | Onimusha Way Of The Sword | Rakip alış/satış: 2800/3499
 ps5 | Red Dead Redemption | Rakip alış/satış: 1200/1799
 ps5 | Ride 6 | Rakip alış/satış: 1800/2499
-ps5 | Silent Hill Townfall | Rakip alış/satış: 2300/2999
+ps5 | Silent Hill Townfall | Rakip alış/satış: 2200/2799
 ps5 | Starfield | Rakip alış/satış: 2000/2799
-ps5 | The Blood Of Dawnwalker | Rakip alış/satış: 2700/3499
-ps5 | UFC 6 | Rakip alış/satış: 2700/3399
+ps5 | The Blood Of Dawnwalker | Rakip alış/satış: 2400/2999
+ps5 | UFC 6 | Rakip alış/satış: 2500/3199
 ps5 | Wolverine Marvel | Rakip alış/satış: 2800/3499
 switch1 | Astral Chain | Rakip alış/satış: 1500/2999
 switch1 | Dragon Quest Builders | Rakip alış/satış: 1000/None
