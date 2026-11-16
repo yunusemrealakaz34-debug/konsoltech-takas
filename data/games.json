@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-04 14:18",
+ "updatedAt": "2026-11-16 13:46",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -3947,7 +3947,7 @@
    "name": "Call Of Duty Black Ops 7",
    "platform": "ps5",
    "sell": 2499,
-   "buy": 2000,
+   "buy": 1600,
    "image": "https://media.rawg.io/media/resize/420/-/games/4ca/4cabe38446288beb37fc73b2fe047b08.jpg"
   },
   {
@@ -4019,7 +4019,7 @@
    "name": "Crimson Desert",
    "platform": "ps5",
    "sell": 3299,
-   "buy": 2500,
+   "buy": 2200,
    "image": "https://media.rawg.io/media/resize/420/-/games/dac/dacfcdeaef957a36416f4e6d5ec76229.jpg"
   },
   {
@@ -4067,7 +4067,7 @@
    "name": "Death Stranding 2 On The Beach",
    "platform": "ps5",
    "sell": 2799,
-   "buy": 2200,
+   "buy": 2000,
    "image": "https://media.rawg.io/media/resize/420/-/games/b85/b85bc300d42588af66fb516b7563f74f.jpg"
   },
   {
@@ -4219,7 +4219,7 @@
    "name": "Evil West",
    "platform": "ps5",
    "sell": 1499,
-   "buy": 800,
+   "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/games/1b5/1b5182c76448fc3ffcbb16b3a55392ee.jpg"
   },
   {
@@ -4331,7 +4331,7 @@
    "name": "FC 26 Türkçe Spiker",
    "platform": "ps5",
    "sell": 1999,
-   "buy": 1500,
+   "buy": 800,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/70f/70fb740261ef152d0d3392a9a306c9ca.jpg"
   },
   {
@@ -4435,7 +4435,7 @@
    "name": "Gears Of War Reloaded",
    "platform": "ps5",
    "sell": 1999,
-   "buy": 1500,
+   "buy": 1300,
    "image": "https://media.rawg.io/media/resize/420/-/games/213/213248f2ede0b914431446123b291cc0.jpg"
   },
   {
@@ -4451,7 +4451,7 @@
    "name": "Ghost of Yotei",
    "platform": "ps5",
    "sell": 3199,
-   "buy": 2500,
+   "buy": 2000,
    "image": "https://media.rawg.io/media/resize/420/-/games/30b/30b195c2321d763f807366967ffad793.jpg"
   },
   {
@@ -4491,7 +4491,7 @@
    "name": "Godfall",
    "platform": "ps5",
    "sell": 899,
-   "buy": 600,
+   "buy": 500,
    "image": "https://media.rawg.io/media/resize/420/-/games/cbe/cbe1fc409c01b14365d13937d3490aa0.jpg"
   },
   {
@@ -4499,7 +4499,7 @@
    "name": "Gotham Knights",
    "platform": "ps5",
    "sell": 999,
-   "buy": 650,
+   "buy": 600,
    "image": "https://media.rawg.io/media/resize/420/-/games/067/067480b8c161115c90e60fd120b1570e.jpg"
   },
   {
@@ -4531,7 +4531,7 @@
    "name": "GTA 5",
    "platform": "ps5",
    "sell": 1299,
-   "buy": 800,
+   "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
   },
   {
@@ -4563,7 +4563,7 @@
    "name": "Heavy Cargo The Truck Simulator",
    "platform": "ps5",
    "sell": 1699,
-   "buy": 1200,
+   "buy": 1100,
    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1474930/library_600x900.jpg"
   },
   {
@@ -4579,7 +4579,7 @@
    "name": "Hell Is Us",
    "platform": "ps5",
    "sell": 1999,
-   "buy": 1500,
+   "buy": 1400,
    "image": "https://media.rawg.io/media/resize/420/-/games/60b/60b7561ab47a7c0853ae983d419b47cb.jpg"
   },
   {
@@ -4595,7 +4595,7 @@
    "name": "Hello Neighbor 2",
    "platform": "ps5",
    "sell": 1299,
-   "buy": 900,
+   "buy": 800,
    "image": "https://media.rawg.io/media/resize/420/-/games/d32/d32160f66590e4507e63d7ea672c5084.jpg"
   },
   {
@@ -4619,7 +4619,7 @@
    "name": "Hitman 3",
    "platform": "ps5",
    "sell": 1199,
-   "buy": 800,
+   "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/games/126/126fbd5ceacddc6ad16fc96e50b1265b.jpg"
   },
   {
@@ -4763,7 +4763,7 @@
    "name": "Kingdom Come Deliverance 2",
    "platform": "ps5",
    "sell": 2199,
-   "buy": 1700,
+   "buy": 1600,
    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1771300/library_600x900.jpg"
   },
   {
@@ -4859,7 +4859,7 @@
    "name": "Little Nightmares 3",
    "platform": "ps5",
    "sell": 1799,
-   "buy": 1200,
+   "buy": 1000,
    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1392860/library_600x900.jpg"
   },
   {
@@ -5059,7 +5059,7 @@
    "name": "NBA 2K25",
    "platform": "ps5",
    "sell": 1299,
-   "buy": 800,
+   "buy": 600,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/d6a/d6a58b272dc77a5e2b38ed5729dee9a8.jpg"
   },
   {
@@ -5067,7 +5067,7 @@
    "name": "NBA 2K26",
    "platform": "ps5",
    "sell": 1799,
-   "buy": 1300,
+   "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/b77/b7728fb8d07d60093c25b97b8dba692d.jpg"
   },
   {
@@ -5251,7 +5251,7 @@
    "name": "Rainbow Six Siege Extraction",
    "platform": "ps5",
    "sell": 999,
-   "buy": 600,
+   "buy": 400,
    "image": "https://media.rawg.io/media/resize/420/-/games/641/6410d62faa02aa2794a323b752dc9084.jpg"
   },
   {
@@ -5323,7 +5323,7 @@
    "name": "Resident Evil Requiem",
    "platform": "ps5",
    "sell": 3199,
-   "buy": 2400,
+   "buy": 1400,
    "image": "https://media.rawg.io/media/resize/420/-/games/ed6/ed613937e113a4d43fa0db771e527a2f.jpg"
   },
   {
@@ -5371,7 +5371,7 @@
    "name": "Riders Republic",
    "platform": "ps5",
    "sell": 1299,
-   "buy": 800,
+   "buy": 600,
    "image": "https://media.rawg.io/media/resize/420/-/games/7b7/7b7f740c7f21ca6028cfc420c3f79a76.jpg"
   },
   {
@@ -5379,7 +5379,7 @@
    "name": "Rise Of The Ronin",
    "platform": "ps5",
    "sell": 1999,
-   "buy": 1500,
+   "buy": 1200,
    "image": "https://media.rawg.io/media/resize/420/-/games/cc9/cc9f5f8f72f386c193dad449f40257c2.jpg"
   },
   {
@@ -5387,7 +5387,7 @@
    "name": "Roadcraft",
    "platform": "ps5",
    "sell": 1899,
-   "buy": 1500,
+   "buy": 1400,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/3fe/3febd8ee05c17174484eb5df99e477ac.jpg"
   },
   {
@@ -5435,7 +5435,7 @@
    "name": "Saros",
    "platform": "ps5",
    "sell": 3299,
-   "buy": 2500,
+   "buy": 2300,
    "image": "https://media.rawg.io/media/resize/420/-/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg"
   },
   {
@@ -5443,7 +5443,7 @@
    "name": "Screamer",
    "platform": "ps5",
    "sell": 2999,
-   "buy": 2400,
+   "buy": 1800,
    "image": "https://media.rawg.io/media/resize/420/-/games/f27/f2729c6ee0b4ad133d83d400e241e4ce.jpg"
   },
   {
@@ -5523,7 +5523,7 @@
    "name": "Sociable Soccer 25",
    "platform": "ps5",
    "sell": 1399,
-   "buy": 900,
+   "buy": 600,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/b52/b52cfb69d1468236cf1dfd3601123024.jpg"
   },
   {
@@ -5843,7 +5843,7 @@
    "name": "Undisputed",
    "platform": "ps5",
    "sell": 1699,
-   "buy": 1200,
+   "buy": 1100,
    "image": "https://media.rawg.io/media/resize/420/-/games/f62/f625ccd351eebca947e6c811600083f7.jpg"
   },
   {
