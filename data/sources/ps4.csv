@@ -86,18 +86,18 @@ Call of Duty Modern Warfare;1199;Call Of Duty Modern Warfare;700
 Call of Duty Modern Warfare 2;1699;Call of Duty Modern Warfare 2;1200
 Call of Duty Modern Warfare 3;1799;Call of Duty Modern Warfare 3;1300
 Call of Duty Modern Warfare Remastered;1799;Call Of Duty Modern Warfare Remastered;1200
-Call Of Duty Vanguard;1799;Call of Duty Vanguard;1100
-Call Of Duty WW II;1499;Call Of Duty WW II;900
+Call Of Duty Vanguard;1799;Call of Duty Vanguard;1000
+Call Of Duty WW II;1499;Call Of Duty WW II;600
 Captain Tsubasa;999;Captain Tsubasa;600
 Cars 3;899;Cars 3;500
 Civilization VI;1299;Civilization VI;700
 Control;1199;Control;700
-Crash Bandicoot;1199;Crash Bandicoot;700
-Crash Bandicoot 4 Its Aboult Time;1499;Crash Bandicoot 4 Its Aboult Time;1000
+Crash Bandicoot;1199;Crash Bandicoot;500
+Crash Bandicoot 4 Its Aboult Time;1499;Crash Bandicoot 4 Its Aboult Time;900
 Crash Team Racing Nitro Fueled CTR;1399;Crash Team Racing Nitro Fueled CTR;900
 Crysis 1-2-3 Trilogy Türkçe Dublaj;1499;Crysis 1-2-3 Trilogy Türkçe Dublaj;1000
 Cuphead;1499;Cuphead;1000
-Cyberpunk 2077 Türkçe;1799;Cyberpunk 2077 Türkçe;1200
+Cyberpunk 2077 Türkçe;1799;Cyberpunk 2077 Türkçe;1000
 Dark Souls 1;899;Dark Souls 1;500
 Dark Souls 2;899;Dark Souls 2;600
 Dark Souls 3;999;Dark Souls 3;600
@@ -161,8 +161,8 @@ Fallout 4 G.O.T.Y.;799;;
 Fallout 76;799;Fallout 76;450
 FAR CRY 3 Classic Edition;799;FAR CRY 3 Classic Edition;400
 FAR CRY 4;599;FAR CRY 4;350
-FAR CRY 5;699;FAR CRY 5;450
-FAR CRY 6;999;FAR CRY 6;600
+FAR CRY 5;699;FAR CRY 5;400
+FAR CRY 6;999;FAR CRY 6;500
 FAR CRY New Dawn;599;FAR CRY New Dawn;350
 FAR CRY Primal;699;FAR CRY Primal;350
 Farming Simulator 17;499;Farming Simulator 17;300
@@ -172,7 +172,7 @@ Farming Simulator 22;1699;Farming Simulator 22;1000
 Fast & Furious;1199;Fast & Furious;700
 FC 24 Türkçe;1199;FC 24 Türkçe;700
 FC 25 Türkçe;1399;FC 25 Türkçe;800
-FC 26 Türkçe Spiker;1999;FC 26 Türkçe Spiker;1500
+FC 26 Türkçe Spiker;1999;FC 26 Türkçe Spiker;800
 Fifa 14 Türkçe;499;Fifa 14 Türkçe;200
 Fifa 15 Türkçe;299;Fifa 15 Türkçe;150
 Fifa 16 Türkçe;299;Fifa 16 Türkçe;150
@@ -189,8 +189,8 @@ Final Fantasy XII The Zodiac Age;1200;Final Fantasy XII The Zodiac Age;550
 For Honor;499;For Honor;300
 Friday The 13TH;1299;Friday The 13TH;800
 Gang Beats;1199;Gang Beats;700
-Ghost Of Tsushima Director's Cut Türkçe;1799;Ghost Of Tsushima Director's Cut Türkçe;1200
-Ghost Of Tsushima Türkçe;1399;Ghost Of Tsushima Türkçe;900
+Ghost Of Tsushima Director's Cut Türkçe;1799;Ghost Of Tsushima Director's Cut Türkçe;1000
+Ghost Of Tsushima Türkçe;1399;Ghost Of Tsushima Türkçe;700
 Ghost Recon Breakpoint;699;Ghost Recon Breakpoint;400
 Ghost Recon Wildlands;699;Ghost Recon Wildlands;400
 God Of War 2018 TÜRKÇE;799;God Of War 2018 Türkçe;500
@@ -279,7 +279,7 @@ Metro Exodus;1199;Metro Exodus;700
 Middle Earth Shadow of Mordor;499;Middle Earth Shadow of Mordor;300
 Middle Earth Shadow of Mordor GOTY;599;Middle Earth Shadow of Mordor GOTY;350
 Middle Earth Shadow of War;699;Middle Earth Shadow of War;400
-Minecraft;1599;Minecraft;1100
+Minecraft;1599;Minecraft;1000
 Minecraft Dungeons;1299;Minecraft Dungeons;800
 Mirror's Edge;699;Mirror's Edge;400
 Monster Hunter World;799;Monster Hunter World;450
@@ -309,8 +309,8 @@ NBA 2K21;599;NBA 2K21;300
 NBA 2K22;599;NBA 2K22;300
 NBA 2K23;699;NBA 2K23;400
 NBA 2K24;799;NBA 2K24;500
-NBA 2K25;1299;NBA 2K25;800
-NBA 2K26;2199;NBA 2K26;1700
+NBA 2K25;1299;NBA 2K25;700
+NBA 2K26;2199;NBA 2K26;1200
 NBA Live 14;199;NBA Live 14;100
 NBA Live 15;299;NBA Live 15;150
 NBA Live 16;349;NBA Live 16;200
@@ -329,7 +329,7 @@ Nioh 2;599;Nioh 2;300
 No Man's Sky;599;No Man's Sky;350
 One Piece Burning Blood;699;One Piece Burning Blood;400
 One Piece Pirate Warriors 3;799;One Piece Pirate Warriors 3;450
-Outlast Trinity;2499;Outlast Trinity;2000
+Outlast Trinity;2499;Outlast Trinity;1700
 Outriders;599;Outriders;300
 Overcooked 1+ Overcooked 2;899;Overcooked 1+ Overcooked 2;550
 Payday 2 Crime wave Edition;999;;
@@ -340,10 +340,10 @@ Persona 5 Strikers;1199;Persona 5 Strikers;600
 Persona 5 Tactica;1199;Persona 5 Tactica;600
 Pes 2015 Türkçe;499;Pes 2015 Türkçe;250
 Pes 2016 Türkçe;699;Pes 2016 Türkçe;400
-Pes 2017 Türkçe;799;Pes 2017 Türkçe;450
+Pes 2017 Türkçe;799;Pes 2017 Türkçe;400
 Pes 2018 Türkçe;1499;Pes 2018 Türkçe;1000
 Pes 2019 Türkçe;1599;Pes 2019 Türkçe;1000
-Pes 2020 Türkçe;1999;Pes 2020 Türkçe;1300
+Pes 2020 Türkçe;1999;Pes 2020 Türkçe;1100
 Pes 2021 Türkçe;3999;;
 Plants vs Zombies Battle For Neighborville;799;Plants vs Zombies Battle For Neighborville;400
 Plants vs Zombies Garden Warfare;1399;Plants vs Zombies Garden Warfare;800

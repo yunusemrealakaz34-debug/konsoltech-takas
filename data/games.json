@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16 13:46",
+ "updatedAt": "2026-11-16 13:55",
  "platforms": {
   "ps4": "PlayStation 4",
   "ps5": "PlayStation 5",
@@ -435,7 +435,7 @@
    "name": "Call Of Duty Vanguard",
    "platform": "ps4",
    "sell": 1799,
-   "buy": 1100,
+   "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/fa8/fa870a46d5e3e8cb1fa0a5e4f798ff2a.jpg"
   },
   {
@@ -443,7 +443,7 @@
    "name": "Call Of Duty WW II",
    "platform": "ps4",
    "sell": 1499,
-   "buy": 900,
+   "buy": 600,
    "image": "https://media.rawg.io/media/resize/420/-/games/1e5/1e5e33b88be978f451196a751424a72e.jpg"
   },
   {
@@ -483,7 +483,7 @@
    "name": "Crash Bandicoot",
    "platform": "ps4",
    "sell": 1199,
-   "buy": 700,
+   "buy": 500,
    "image": "https://media.rawg.io/media/resize/420/-/games/444/4440f674e2bcb257e249a9ab595d8ab6.jpg"
   },
   {
@@ -491,7 +491,7 @@
    "name": "Crash Bandicoot 4 Its Aboult Time",
    "platform": "ps4",
    "sell": 1499,
-   "buy": 1000,
+   "buy": 900,
    "image": "https://media.rawg.io/media/resize/420/-/games/54a/54a14917b3298bbaacdf9873c3af7229.jpg"
   },
   {
@@ -523,7 +523,7 @@
    "name": "Cyberpunk 2077 Türkçe",
    "platform": "ps4",
    "sell": 1799,
-   "buy": 1200,
+   "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
   },
   {
@@ -1035,7 +1035,7 @@
    "name": "FAR CRY 5",
    "platform": "ps4",
    "sell": 699,
-   "buy": 450,
+   "buy": 400,
    "image": "https://media.rawg.io/media/resize/420/-/games/bce/bce62fbc7cf74bf6a1a37340993ec148.jpg"
   },
   {
@@ -1043,7 +1043,7 @@
    "name": "FAR CRY 6",
    "platform": "ps4",
    "sell": 999,
-   "buy": 600,
+   "buy": 500,
    "image": "https://media.rawg.io/media/resize/420/-/games/5dd/5dd4d2dd986d2826800bc37fff64aa4f.jpg"
   },
   {
@@ -1123,7 +1123,7 @@
    "name": "FC 26 Türkçe Spiker",
    "platform": "ps4",
    "sell": 1999,
-   "buy": 1500,
+   "buy": 800,
    "image": "https://media.rawg.io/media/resize/420/-/games/104/10404407d458d90f4559a1f587c2650a.jpg"
   },
   {
@@ -1259,7 +1259,7 @@
    "name": "Ghost Of Tsushima Director's Cut Türkçe",
    "platform": "ps4",
    "sell": 1799,
-   "buy": 1200,
+   "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg"
   },
   {
@@ -1267,7 +1267,7 @@
    "name": "Ghost Of Tsushima Türkçe",
    "platform": "ps4",
    "sell": 1399,
-   "buy": 900,
+   "buy": 700,
    "image": "https://media.rawg.io/media/resize/420/-/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
   },
   {
@@ -1979,7 +1979,7 @@
    "name": "Minecraft",
    "platform": "ps4",
    "sell": 1599,
-   "buy": 1100,
+   "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg"
   },
   {
@@ -2219,7 +2219,7 @@
    "name": "NBA 2K25",
    "platform": "ps4",
    "sell": 1299,
-   "buy": 800,
+   "buy": 700,
    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/library_600x900.jpg"
   },
   {
@@ -2227,7 +2227,7 @@
    "name": "NBA 2K26",
    "platform": "ps4",
    "sell": 2199,
-   "buy": 1700,
+   "buy": 1200,
    "image": "https://media.rawg.io/media/resize/420/-/games/fdb/fdb65025dee2f0edb8c2b587afaff853.jpg"
   },
   {
@@ -2379,7 +2379,7 @@
    "name": "Outlast Trinity",
    "platform": "ps4",
    "sell": 2499,
-   "buy": 2000,
+   "buy": 1700,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/5af/5afa9bb153fc2ded7b4a7eb8ca7865e4.jpg"
   },
   {
@@ -2467,7 +2467,7 @@
    "name": "Pes 2017 Türkçe",
    "platform": "ps4",
    "sell": 799,
-   "buy": 450,
+   "buy": 400,
    "image": "https://media.rawg.io/media/resize/420/-/games/537/5370caa62388062ccb3d4a1f9ca0e2e1.jpg"
   },
   {
@@ -2491,7 +2491,7 @@
    "name": "Pes 2020 Türkçe",
    "platform": "ps4",
    "sell": 1999,
-   "buy": 1300,
+   "buy": 1100,
    "image": "https://media.rawg.io/media/resize/420/-/games/2ed/2ed38a102fe66a0ea98a8e09c660a458.jpg"
   },
   {
@@ -6091,7 +6091,7 @@
    "name": "FC 25",
    "platform": "switch1",
    "sell": 1999,
-   "buy": 1400,
+   "buy": 900,
    "image": "https://media.rawg.io/media/resize/420/-/games/104/10404407d458d90f4559a1f587c2650a.jpg"
   },
   {
@@ -6259,7 +6259,7 @@
    "name": "LEGO Movie 2 Video Game",
    "platform": "switch1",
    "sell": 1199,
-   "buy": 700,
+   "buy": 600,
    "image": "https://media.rawg.io/media/resize/420/-/games/2bd/2bd5f39a1997000497d674c9cabb9e28.jpg"
   },
   {
@@ -6331,7 +6331,7 @@
    "name": "Mario Golf Super Rush",
    "platform": "switch1",
    "sell": 1899,
-   "buy": 1200,
+   "buy": 1100,
    "image": "https://media.rawg.io/media/resize/420/-/screenshots/78e/78e89d605b0f4edd14bb53463f476d09.jpg"
   },
   {
@@ -6355,7 +6355,7 @@
    "name": "Mario Strikers Battle League Football",
    "platform": "switch1",
    "sell": 1899,
-   "buy": 1200,
+   "buy": 1100,
    "image": "https://media.rawg.io/media/resize/420/-/games/7bc/7bc6f95486e6ec39b959dc37a9e8093b.jpg"
   },
   {
@@ -6515,7 +6515,7 @@
    "name": "NBA 2K25",
    "platform": "switch1",
    "sell": 1999,
-   "buy": 1300,
+   "buy": 1000,
    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/library_600x900.jpg"
   },
   {
@@ -6563,7 +6563,7 @@
    "name": "Paper Mario The Origami King",
    "platform": "switch1",
    "sell": 1899,
-   "buy": 1100,
+   "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/075/07556ef3826d83fdb19c8e1836d25c1a.jpg"
   },
   {
@@ -6699,7 +6699,7 @@
    "name": "Splatoon 2",
    "platform": "switch1",
    "sell": 1499,
-   "buy": 900,
+   "buy": 800,
    "image": "https://media.rawg.io/media/resize/420/-/games/24b/24b68f500fd138c3146d8856f0dd55b4.jpg"
   },
   {
@@ -6867,7 +6867,7 @@
    "name": "The Witcher 3 Wild Hunt Complete Edition",
    "platform": "switch1",
    "sell": 1899,
-   "buy": 1200,
+   "buy": 1000,
    "image": "https://media.rawg.io/media/resize/420/-/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
   },
   {
@@ -6923,7 +6923,7 @@
    "name": "Donkey Kong Bananza",
    "platform": "switch2",
    "sell": 3199,
-   "buy": 2400,
+   "buy": 2200,
    "image": "https://media.rawg.io/media/resize/420/-/games/db4/db4348b029d2cdaf826d7536bd75b71c.jpg"
   },
   {
@@ -6931,7 +6931,7 @@
    "name": "FC 26",
    "platform": "switch2",
    "sell": 2699,
-   "buy": 2000,
+   "buy": 1100,
    "image": "https://media.rawg.io/media/resize/420/-/games/104/10404407d458d90f4559a1f587c2650a.jpg"
   },
   {
@@ -6955,7 +6955,7 @@
    "name": "Hyrule Warriors: Age Of Imprisonment",
    "platform": "switch2",
    "sell": 3199,
-   "buy": 2400,
+   "buy": 2200,
    "image": "https://media.rawg.io/media/resize/420/-/games/480/4801940e86df11f8aa92b3c988fe92fc.jpg"
   },
   {
@@ -6963,7 +6963,7 @@
    "name": "Kirby Air Riders",
    "platform": "switch2",
    "sell": 3199,
-   "buy": 2400,
+   "buy": 2100,
    "image": "https://media.rawg.io/media/resize/420/-/games/083/0839770a3c15e3e6edf658fe2a5cc830.jpg"
   },
   {
@@ -6971,7 +6971,7 @@
    "name": "Kirby And The Forgetten Land + Star-Crossed World",
    "platform": "switch2",
    "sell": 2999,
-   "buy": 2200,
+   "buy": 2100,
    "image": "https://media.rawg.io/media/resize/420/-/games/42a/42a71f0cbe23185f778c10462faa12d8.jpg"
   },
   {
@@ -7067,7 +7067,7 @@
    "name": "W 2K25",
    "platform": "switch2",
    "sell": 2499,
-   "buy": 1900,
+   "buy": 1500,
    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878960/library_600x900.jpg"
   },
   {
